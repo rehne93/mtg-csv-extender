@@ -2,8 +2,11 @@ package main
 
 import (
 	"encoding/csv"
+	"fmt"
 	"log"
 	"os"
+
+	"github.com/BlueMonday/go-scryfall"
 )
 
 func parseCsv(filePath string) [][]string {
@@ -23,4 +26,14 @@ func parseCsv(filePath string) [][]string {
 	}
 	return records
 
+}
+
+func convertToCsvLine(card scryfall.Card) string {
+	fmt.Print(card.Name + " ")
+	fmt.Print(card.Lang + " ")
+	fmt.Print(card.ColorIdentity)
+	fmt.Print(card.Prices.EUR + "€ ")
+	fmt.Print(card.Prices.USD + "$")
+	fmt.Println()
+	return ""
 }

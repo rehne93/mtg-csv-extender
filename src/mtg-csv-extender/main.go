@@ -2,11 +2,12 @@ package main
 
 import (
 	"flag"
-	"fmt"
 )
 
 // TODO: Prüfen, welche Infos da sind um zu erweitern
+// TODO: Wenn DE -> nach englischen namen suchen und query für den machen statt deutsch
 // TODO: Nicht printen sondern csv bauen
+// TODO: toLower
 func main() {
 	file := flag.String("file", "test.csv", "a string")
 	flag.Parse()
@@ -16,13 +17,11 @@ func main() {
 	for _, cards := range records {
 		scryfallCard := findCard(cards[0], cards[2])
 
-		fmt.Print(scryfallCard.Name)
-		fmt.Print(" ")
-		fmt.Print(scryfallCard.Prices)
-		fmt.Print(" ")
-		fmt.Print(scryfallCard.Set)
+		if cards[1] == "DE" {
+			scryfallCard = findCard(scryfallCard.Name, cards[2])
+		}
 
-		fmt.Println()
+		convertToCsvLine(scryfallCard)
 	}
 
 }
