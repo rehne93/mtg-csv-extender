@@ -4,6 +4,7 @@ import (
 	"encoding/csv"
 	"log"
 	"os"
+	"strconv"
 	"strings"
 
 	"github.com/BlueMonday/go-scryfall"
@@ -47,7 +48,9 @@ func convertToCsvLine(card scryfall.Card) string {
 	csvString := ""
 	csvString += "\"" + card.Name + "\""
 	csvString += ";"
-	csvString += card.ManaCost
+	csvString += "\"" + getGermanName(card) + "\""
+	csvString += ";"
+	csvString += strconv.FormatFloat(card.CMC, 'f', -1, 64)
 	csvString += ";"
 	csvString += string(card.Lang)
 	csvString += ";"

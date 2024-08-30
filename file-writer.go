@@ -2,8 +2,8 @@ package main
 
 import "os"
 
-func writeFile(content string) {
-	err := os.WriteFile("output.csv", []byte(content), 0644)
+func writeFile(filename string, content string) {
+	err := os.WriteFile(filename, []byte(content), 0644)
 	if err != nil {
 		panic(err)
 	}

@@ -5,11 +5,11 @@ import (
 )
 
 // TODO Kann man csv auch sauberer erstellen
-// TODO CMC statt liste?
-// TODO Output filename
-// TODO Dokumentieren und schauen ob man an Sprachen kommt für Name DE und ENgl
+// TODO: Optimierung Deutscher Namen fetchen?
 func main() {
-	file := flag.String("file", "test.csv", "a string")
+	file := flag.String("input", "mtg.csv", "input csv file")
+	outputFile := flag.String("output", "result.csv", "output filename")
+
 	flag.Parse()
 
 	records := parseCsv(*file)
@@ -26,6 +26,6 @@ func main() {
 		csvContent += "\n"
 	}
 
-	writeFile(csvContent)
+	writeFile(*outputFile, csvContent)
 
 }
