@@ -34,9 +34,9 @@ func convertToCsvInput(records [][]string) []CsvInput {
 
 	for _, record := range records {
 		csvInput := CsvInput{
-			Cardname: strings.ToLower(record[0]),
-			Language: record[1],
-			Set:      record[2],
+			Cardname: strings.TrimSpace(strings.ToLower(record[0])),
+			Language: strings.TrimSpace(record[1]),
+			Set:      strings.TrimSpace(record[2]),
 		}
 		csvInputs = append(csvInputs, csvInput)
 	}

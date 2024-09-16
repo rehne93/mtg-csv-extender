@@ -2,7 +2,6 @@ package main
 
 import (
 	"context"
-	"fmt"
 	"log"
 	"reflect"
 	"strings"
@@ -38,7 +37,6 @@ func getGermanName(card scryfall.Card) string {
 * Executes a request to scryfall
  */
 func executeRequest(searchString string) scryfall.Card {
-	fmt.Println(searchString)
 	ctx := context.Background()
 
 	client, err := scryfall.NewClient()
@@ -57,13 +55,13 @@ func executeRequest(searchString string) scryfall.Card {
 	result, err := client.SearchCards(ctx, searchString, sco)
 
 	if err != nil {
-		fmt.Println("Error while searching " + searchString)
 		card := scryfall.Card{}
+		card.Name = "EMPTY"
 		return card
 	}
 
 	if len(result.Cards) == 0 {
-		empty := "not found"
+		empty := "EMPTY"
 		return scryfall.Card{PrintedName: &empty}
 	}
 
