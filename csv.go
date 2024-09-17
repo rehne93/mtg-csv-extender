@@ -44,20 +44,44 @@ func convertToCsvInput(records [][]string) []CsvInput {
 
 }
 
-func convertToCsvLine(card scryfall.Card) string {
-	csvString := ""
-	csvString += "\"" + card.Name + "\""
-	csvString += ";"
-	csvString += "\"" + getGermanName(card) + "\""
-	csvString += ";"
-	csvString += strconv.FormatFloat(card.CMC, 'f', -1, 64)
-	csvString += ";"
-	csvString += string(card.Lang)
-	csvString += ";"
-	csvString += strings.Replace(card.Prices.EUR, ".", ",", -1)
-	csvString += ";"
-	csvString += "\"" + card.Set + "\""
-	csvString += ";"
-	csvString += card.Rarity
-	return csvString
+func createCsv(cards []scryfall.Card) [][]string {
+
+	var csvData [][]string
+
+	for _, card := range cards {
+		csvData = append(csvData, convertToDataArray(card))
+	}
+
+	return csvData
+}
+
+func convertToDataArray(card scryfall.Card) []string {
+	return []string{
+		card.Name,
+		getGermanName(card),
+		strconv.FormatFloat(card.CMC, 'f', -1, 64),
+		string(card.Lang),
+		strings.Replace(card.Prices.EUR, ".", ",", -1),
+		card.Set,
+		card.Rarity,
+	}
+}
+
+func writeCsv(cards []scryfall.Card, filename string) int {
+	file2, err := os.Create(filename)
+	if err != nil {
+		panic(err)
+	}
+	defer file2.Close()
+
+	writer := csv.NewWriter(file2)
+	defer writer.Flush()
+
+	data := createCsv(cards)
+
+	for _, row := range data {
+		writer.Write(row)
+	}
+
+	return 0
 }

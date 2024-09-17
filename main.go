@@ -4,10 +4,10 @@ import (
 	"flag"
 	"fmt"
 	"strconv"
-	"time"
+
+	"github.com/BlueMonday/go-scryfall"
 )
 
-// TODO Kann man csv auch sauberer erstellen
 func main() {
 	file := flag.String("input", "mtg.csv", "input csv file")
 	outputFile := flag.String("output", "result.csv", "output filename")
@@ -15,32 +15,29 @@ func main() {
 	flag.Parse()
 
 	records := parseCsv(*file)
-	csvContent := ""
 
-	line := 0
+	var cardsList []scryfall.Card
 
-	for _, cards := range records {
+	for idx, cards := range records {
 		scryfallCard := findCard(cards.Cardname, cards.Set)
-		fmt.Print(scryfallCard.Name + " " + cards.Language)
-		fmt.Println()
 
+		// if the input is german, we will look for the english version to get proper prices
+		// we have to look for it again
 		if cards.Language == "DE" {
 			englishCard := findCard(scryfallCard.Name, cards.Set)
+			// if we haven't found anything we use the former card to have some data at least
 			if englishCard.Name != "EMPTY" {
 				scryfallCard = englishCard
 			}
 		}
 
 		if scryfallCard.Name == "EMPTY" {
-			fmt.Println("Error while searching for " + cards.Cardname + "(line " + strconv.Itoa(line) + ")")
+			fmt.Println("Error while searching for " + cards.Cardname + "(line " + strconv.Itoa(idx) + ")")
 		}
 
-		time.Sleep(10 * time.Millisecond)
-		csvContent += convertToCsvLine(scryfallCard)
-		csvContent += "\n"
-		line++
+		cardsList = append(cardsList, scryfallCard)
 	}
 
-	writeFile(*outputFile, csvContent)
+	writeCsv(cardsList, *outputFile)
 
 }
