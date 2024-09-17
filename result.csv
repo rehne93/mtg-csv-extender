@@ -1,508 +1,1950 @@
-"Sift";"Durchkämmen";4;it;;"10e";common
-"Jace, Wielder of Mysteries";"Jace, Beherrscher der Mysterien";4;en;2,67;"war";rare
-"Wonder";"Wundersame Mauer";4;en;0,69;"ema";uncommon
+"Jace, Wielder of Mysteries";"Jace, Beherrscher der Mysterien";4;en;2,75;"war";rare
+"Wonder";"Wundersame Mauer";4;en;0,41;"ema";uncommon
 "Kitesail Larcenist";"Lenkdrachen-Diebin";3;en;0,76;"lci";rare
-"Archetype of Imagination";"Sinnbild der Vorstellungskraft";6;en;0,49;"c18";uncommon
-"";"Ausgewählter der Ahnfrau";0;;;"";
-"Loyal Drake";"Loyaler Sceada";3;en;0,53;"c18";uncommon
-"Laboratory Maniac";"Manischer Laborant";3;en;2,61;"uma";uncommon
-"Thassa's Oracle";"Thassas Orakel";2;en;15,02;"thb";rare
-"Spark Double";"Funken-Doppelgänger";4;en;3,42;"war";rare
-"Talrand, Sky Summoner";"Talrand der Himmelsbeschwörer";4;en;0,27;"dds";rare
-"Teferi's Ageless Insight";"Teferis zeitlose Einsicht";4;en;1,79;"m21";rare
-"Stinging Lionfish";"Stechender Feuerfisch";2;en;0,13;"thb";uncommon
-"Hullbreaker Horror";"Rumpfbrecher-Schrecken";7;en;2,21;"woc";rare
-"Wavebreak Hippocamp";"Wellenbrecher-Hippokamp";3;en;0,50;"thb";rare
-"Naiad of Hidden Coves";"Najade der versteckten Buchten";3;en;0,09;"thb";common
-"";"Ausgewählter der Ahnfrau";0;;;"";
-"Curiosity";"Neugier";1;en;0,35;"a25";uncommon
-"Ophidian Eye";"Schlangenauge";3;en;2,35;"tsp";common
-"Witness Protection";"Zeugenschutz";1;en;0,38;"snc";common
-"Propaganda";"Propaganda";3;en;2,43;"c20";uncommon
-"";"Ausgewählter der Ahnfrau";0;;;"";
-"Reconnaissance Mission";"Aufklärungsmission";4;en;0,70;"woc";uncommon
-"Kindred Discovery";"Entdeckungen der Sippe";5;en;8,06;"clb";rare
-"Mystic Remora";"Mystischer Wels";1;en;4,90;"ice";common
-"Boreas Charger";"Boreas-Streitross";3;en;0,29;"c18";rare
-"Jace's Sanctum";"Jaces Refugium";4;en;1,25;"c19";rare
-"Kumena's Awakening";"Kumenas Erwachen";4;en;0,37;"rix";rare
-"Beacon of Tomorrows";"Leitstern des Morgigen";8;en;1,88;"dds";rare
-"Windfall";"Unerwarteter Gewinn";3;en;1,75;"ima";uncommon
-"Finale of Revelation";"Finale der Offenbarung";2;en;0,92;"war";mythic
-"Flood of Tears";"Flut aus Tränen";6;en;0,52;"m20";rare
-"Reflections of Littjara";"Spiegelungen von Littjara";5;en;1,27;"woc";rare
-"Drawn from Dreams";"Herbeiträumen";4;en;0,17;"m20";rare
-"Mind Spring";"undefined";2;en;0,16;"c20";rare
-"Silver Scrutiny";"Silbrige Untersuchung";2;en;0,22;"dmu";rare
-"Aminatou's Augury";"Aminatous Weissagung";8;en;0,84;"c18";rare
-"";"Ausgewählter der Ahnfrau";0;;;"";
-"Time Reversal";"Zeitumkehr";5;en;2,50;"m11";mythic
-"River's Rebuke";"Zurückweisung des Flusses";6;en;0,55;"xln";rare
-"Portent";"Vorzeichen";1;en;0,59;"c18";common
-"Serum Visions";"Visionen nach Serumsgenuss";1;en;0,47;"5dn";common
-"Solve the Equation";"Die Gleichung lösen";3;en;2,15;"stx";uncommon
-"Rush of Knowledge";"Wissensschwall";5;en;0,22;"c14";common
-"Distant Melody";"Ferne Melodie";4;en;0,41;"znc";common
-"Raise the Palisade";"Errichten der Palisaden";5;en;10,58;"ltc";rare
-"Secrets of the Golden City";"Geheimnisse der Goldenen Stadt";3;en;0,06;"rix";common
-"Treasure Cruise";"Lohnende Ausfahrt";8;en;0,17;"c16";common
-"Echo of Eons";"Echo der Zeitalter";6;en;19,73;"mh1";mythic
-"Preordain";"Vorherbestimmen";1;en;1,41;"m11";common
-"Step Between Worlds";"Schritt zwischen den Welten";5;en;0,12;"otj";rare
-"Shifting Grift";"Gaunerische Verlagerung";2;en;0,09;"otj";uncommon
-"Unauthorized Exit";"Unerlaubter Abtritt";2;en;0,04;"mkm";common
+"Archetype of Imagination";"Sinnbild der Vorstellungskraft";6;en;0,64;"c18";uncommon
+"Sage of the Beyond";"Weiser aus dem Jenseits";7;en;0,24;"khc";rare
+"Loyal Drake";"Loyaler Sceada";3;en;0,40;"c18";uncommon
+"Laboratory Maniac";"Manischer Laborant";3;en;2,46;"uma";uncommon
+"Thassa's Oracle";"Thassas Orakel";2;en;14,13;"thb";rare
+"Spark Double";"Funken-Doppelgänger";4;en;3,37;"war";rare
+"Talrand, Sky Summoner";"Talrand der Himmelsbeschwörer";4;en;0,24;"dds";rare
+"Teferi's Ageless Insight";"Teferis zeitlose Einsicht";4;en;2,00;"m21";rare
+"Stinging Lionfish";"Stechender Feuerfisch";2;en;0,10;"thb";uncommon
+"Hullbreaker Horror";"Rumpfbrecher-Schrecken";7;en;2,25;"woc";rare
+"Wavebreak Hippocamp";"Wellenbrecher-Hippokamp";3;en;0,44;"thb";rare
+"Naiad of Hidden Coves";"Najade der versteckten Buchten";3;en;0,12;"thb";common
+"Curse of Verbosity";"Fluch der Geschwätzigkeit";3;en;0,28;"afc";uncommon
+"Curiosity";"Neugier";1;en;0,34;"a25";uncommon
+"Ophidian Eye";"Schlangenauge";3;en;2,25;"tsp";common
+"Witness Protection";"Zeugenschutz";1;en;0,29;"snc";common
+"Propaganda";"Propaganda";3;en;2,37;"c20";uncommon
+"Coastal Piracy";"Küstenräuberei";4;en;2,47;"jmp";uncommon
+"Reconnaissance Mission";"Aufklärungsmission";4;en;0,80;"woc";uncommon
+"Kindred Discovery";"Entdeckungen der Sippe";5;en;8,05;"clb";rare
+"Mystic Remora";"Mystischer Wels";1;en;5,21;"ice";common
+"Ever-Watching Threshold";"Wachsame Schwelle";3;en;0,62;"c18";rare
+"Jace's Sanctum";"Jaces Refugium";4;en;1,00;"c19";rare
+"Kumena's Awakening";"Kumenas Erwachen";4;en;0,33;"rix";rare
+"Beacon of Tomorrows";"Leitstern des Morgigen";8;en;1,82;"dds";rare
+"Windfall";"Unerwarteter Gewinn";3;en;2,01;"ima";uncommon
+"Ugin's Conjurant";"Ugins Beschwörung";0;en;0,28;"war";uncommon
+"Flood of Tears";"Flut aus Tränen";6;en;0,57;"m20";rare
+"Reflections of Littjara";"Spiegelungen von Littjara";5;en;1,14;"woc";rare
+"Drawn from Dreams";"Herbeiträumen";4;en;0,14;"m20";rare
+"Mind Spring";"";2;en;0,26;"c20";rare
+"Silver Scrutiny";"Silbrige Untersuchung";2;en;0,24;"dmu";rare
+"Aminatou's Augury";"Aminatous Weissagung";8;en;0,56;"c18";rare
+"Spectral Deluge";"Spektrale Sintflut";6;en;3,23;"khc";rare
+"Time Reversal";"Zeitumkehr";5;en;2,15;"m11";mythic
+"River's Rebuke";"Zurückweisung des Flusses";6;en;0,71;"xln";rare
+"Portent";"Vorzeichen";1;en;0,60;"c18";common
+"Serum Visions";"Visionen nach Serumsgenuss";1;en;0,50;"5dn";common
+"Solve the Equation";"Die Gleichung lösen";3;en;1,98;"stx";uncommon
+"Rush of Knowledge";"Wissensschwall";5;en;0,19;"c14";common
+"Distant Melody";"Ferne Melodie";4;en;0,38;"znc";common
+"Raise the Palisade";"Errichten der Palisaden";5;en;11,89;"ltc";rare
+"Secrets of the Golden City";"Geheimnisse der Goldenen Stadt";3;en;0,11;"rix";common
+"Treasure Cruise";"Lohnende Ausfahrt";8;en;0,16;"c16";common
+"Echo of Eons";"Echo der Zeitalter";6;en;19,40;"mh1";mythic
+"Preordain";"Vorherbestimmen";1;en;1,46;"m11";common
+"Step Between Worlds";"Schritt zwischen den Welten";5;en;0,16;"otj";rare
+"Shifting Grift";"Gaunerische Verlagerung";2;en;0,18;"otj";uncommon
+"Unauthorized Exit";"Unerlaubter Abtritt";2;en;0,06;"mkm";common
 "Reasonable Doubt";"Begründeter Zweifel";2;en;0,11;"mkm";common
-"Behind the Mask";"Hinter der Maske";1;en;0,09;"mkm";common
-"Deduce";"Schlussfolgern";2;en;0,16;"mkm";common
-"Essence Capture";"Essenzfang";2;en;0,06;"otp";uncommon
-"Pull from Tomorrow";"Sog der Zeit";2;en;0,52;"moc";rare
-"Memory Lapse";"Gedächtnislücke";2;en;1,04;"sta";rare
+"Behind the Mask";"Hinter der Maske";1;en;0,08;"mkm";common
+"Deduce";"Schlussfolgern";2;en;0,11;"mkm";common
+"Essence Capture";"Essenzfang";2;en;0,09;"otp";uncommon
+"Pull from Tomorrow";"Sog der Zeit";2;en;0,38;"moc";rare
+"Memory Lapse";"Gedächtnislücke";2;en;0,58;"sta";rare
 "Quicken";"Beschleunigen";1;de;;"m14";rare
-"Insidious Will";"Heimtückischer Wille";4;en;0,49;"kld";rare
-"Arcane Denial";"Mysteriöse Ablehnung";2;en;2,24;"woc";common
-"Suspend";"Suspendieren";1;en;0,18;"mh2";rare
-"Polymorphist's Jest";"Polymorphistenscherz";3;en;3,16;"m15";rare
-"Sublime Epiphany";"Hehre Offenbarung";6;en;3,11;"m21";rare
-"";"Ausgewählter der Ahnfrau";0;;;"";
+"Insidious Will";"Heimtückischer Wille";4;en;0,35;"kld";rare
+"Arcane Denial";"Mysteriöse Ablehnung";2;en;2,38;"woc";common
+"Suspend";"Suspendieren";1;en;0,26;"mh2";rare
+"Polymorphist's Jest";"Polymorphistenscherz";3;en;3,11;"m15";rare
+"Sublime Epiphany";"Hehre Offenbarung";6;en;2,79;"m21";rare
+"Drown in Dreams";"In Träumen ertrinken";3;en;2,49;"mic";rare
 "Sudden Substitution";"Plötzlicher Austausch";4;en;1,51;"c19";rare
-"Mystic Confluence";"Mystische Konfluenz";5;en;0,88;"bbd";rare
-"Tale's End";"Geschichten der Vorfahren";2;en;2,96;"m20";rare
-"Pongify";"Veraffung";1;en;2,48;"2xm";uncommon
+"Mystic Confluence";"Mystische Konfluenz";5;en;0,95;"bbd";rare
+"Tale's End";"Geschichten der Vorfahren";2;en;3,04;"m20";rare
+"Pongify";"Veraffung";1;en;2,57;"2xm";uncommon
 "Animate Artifact";"Artefaktbelebung";4;en;4,51;"2ed";uncommon
-"Rapid Hybridization";"Schnelle Hybridisierung";1;en;3,39;"gk2";uncommon
-"Defabricate";"Entfabrizieren";2;en;0,16;"bro";uncommon
-"Minor Misstep";"Kleiner Fehler";1;en;0,21;"one";uncommon
-"Dissipate";"Auflösung";3;en;0,15;"isd";uncommon
-"Jwari Disruption // Jwari Ruins";"undefined";2;en;0,28;"znr";uncommon
-"Dispel";"Kapsel des Verbanners";1;en;0,23;"bfz";common
+"Rapid Hybridization";"Schnelle Hybridisierung";1;en;3,17;"gk2";uncommon
+"Defabricate";"Entfabrizieren";2;en;0,10;"bro";uncommon
+"Minor Misstep";"Kleiner Fehler";1;en;0,52;"one";uncommon
+"Dissipate";"Auflösung";3;en;0,09;"isd";uncommon
+"Jwari Disruption // Jwari Ruins";"";2;en;0,26;"znr";uncommon
+"Dispel";"Kapsel des Verbanners";1;en;0,25;"bfz";common
 "Foil";"Durchkreuzen";4;en;0,43;"uma";common
-"Leadership Vacuum";"Führungsvakuum";3;en;0,35;"c19";uncommon
-"Absolute Grace";"Ewige Gnade";2;en;0,47;"usg";uncommon
-"High Tide";"Flut";1;en;0,67;"fem";common
-"Shore Up";"Stützen";1;en;0,21;"dmu";common
-"Mystic Reflection";"Mystische Spiegelung";2;en;1,13;"khm";rare
-"Swan Song";"Schwanengesang";1;en;9,45;"ths";rare
-"Commander's Insight";"Einblick des Kommandeurs";3;en;0,45;"c21";rare
-"";"Ausgewählter der Ahnfrau";0;;;"";
-"Perplexing Test";"Verwirrender Test";5;en;0,33;"woc";rare
-"Tegwyll, Duke of Splendor";"Tegwyll, Fürst der Pracht";3;en;0,70;"woc";mythic
+"Leadership Vacuum";"Führungsvakuum";3;en;0,23;"c19";uncommon
+"Tolarian Winds";"Tolarianische Stürme";2;en;0,35;"usg";common
+"High Tide";"Flut";1;en;0,66;"fem";common
+"Shore Up";"Stützen";1;en;0,13;"dmu";common
+"Mystic Reflection";"Mystische Spiegelung";2;en;1,11;"khm";rare
+"Swan Song";"Schwanengesang";1;en;9,89;"ths";rare
+"Commander's Insight";"Einblick des Kommandeurs";3;en;0,44;"c21";rare
+"Ice Out";"Auf Eis legen";3;en;;"pw23";rare
+"Perplexing Test";"Verwirrender Test";5;en;0,25;"woc";rare
+"Frantic Search";"Hastige Suche";3;en;0,25;"woc";common
 "Animate Artifact";"Artefaktbelebung";4;en;4,51;"2ed";uncommon
-"Consider";"Abwägen";1;en;0,66;"woc";common
-"Snap";"Schnappender Sceada";2;en;1,49;"woc";common
-"Dig Through Time";"In den Zeiten wühlen";8;en;0,24;"woc";rare
-"Theoretical Duplication";"Theoretische Duplikation";3;en;0,25;"woc";rare
-"Tegwyll, Duke of Splendor";"Tegwyll, Fürst der Pracht";3;en;0,70;"woc";mythic
-"Keep Watch";"undefined";3;en;0,37;"woc";common
-"Repulse";"Zurückstoßen";3;en;0,16;"woc";common
-"Reality Shift";"Realitätsverschiebung";2;en;0,48;"woc";uncommon
-"Run Away Together";"Zusammen durchbrennen";2;en;0,13;"woc";common
+"Consider";"Abwägen";1;en;0,78;"woc";common
+"Snap";"Schnappender Sceada";2;en;0,83;"woc";common
+"Dig Through Time";"In den Zeiten wühlen";8;en;0,27;"woc";rare
+"Theoretical Duplication";"Theoretische Duplikation";3;en;0,19;"woc";rare
+"Illusionist's Gambit";"List des Illusionisten";4;en;0,27;"woc";rare
+"Keep Watch";"";3;en;0,24;"woc";common
+"Repulse";"Zurückstoßen";3;en;0,14;"woc";common
+"Reality Shift";"Realitätsverschiebung";2;en;0,47;"woc";uncommon
+"Run Away Together";"Zusammen durchbrennen";2;en;0,10;"woc";common
 "Sidar Kondo of Jamuraa";"Sidar Kondo von Jamuraa";4;en;;"c16";mythic
-"Migratory Route";"Vogelzug";5;en;0,18;"c16";uncommon
-"Against All Odds";"Entgegen allen Erwartungen";4;en;0,08;"one";uncommon
-"Grumgully, the Generous";"Grumgully der Großzügige";3;en;0,18;"clb";uncommon
-"+2 Mace";"undefined";2;en;0,07;"afr";common
-"Laughing Jasper Flint";"Lachkasper Flint";3;en;0,41;"otj";rare
-"Izoni, Center of the Web";"Izoni, Mittelpunkt des Netzes";6;en;0,13;"mkm";rare
-"Judith, Carnage Connoisseur";"Judith, Gemetzel-Genießerin";5;en;0,24;"mkm";rare
-"Kylox, Visionary Inventor";"Kylox, visionärer Erfinder";7;en;0,17;"mkm";rare
+"Migratory Route";"Vogelzug";5;en;0,22;"c16";uncommon
+"Kaya, Intangible Slayer";"Kaya, ungreifbare Jägerin";7;en;0,36;"one";rare
+"Grumgully, the Generous";"Grumgully der Großzügige";3;en;0,13;"clb";uncommon
+"Krydle of Baldur's Gate";"Krydle von Baldurs Tor";2;en;0,17;"afr";uncommon
+"Laughing Jasper Flint";"Lachkasper Flint";3;en;0,75;"otj";rare
+"Izoni, Center of the Web";"Izoni, Mittelpunkt des Netzes";6;en;0,15;"mkm";rare
+"Judith, Carnage Connoisseur";"Judith, Gemetzel-Genießerin";5;en;0,33;"mkm";rare
+"Kylox, Visionary Inventor";"Kylox, visionärer Erfinder";7;en;0,03;"mkm";rare
 "Melek, Reforged Researcher";"Melek, neugeformter Forscher";5;en;;"mkm";mythic
-"Honest Rutstein";"Ehrlicher Rutstein";3;en;0,37;"otj";uncommon
+"Honest Rutstein";"Ehrlicher Rutstein";3;en;0,28;"otj";uncommon
 "Jhoira of the Ghitu";"Jhoira von den Ghitu";3;en;;"dds";mythic
-"Jori En, Ruin Diver";"Jori En, Ruinentaucherin";3;en;0,63;"dds";rare
-"Baral and Kari Zev";"Baral und Kari Zev";3;en;0,22;"mom";rare
-"Rankle and Torbran";"Rankel und Torbran";5;en;0,13;"mom";rare
-"Faceless One";"Der Gesichtslose";5;en;0,10;"clb";special
+"Jori En, Ruin Diver";"Jori En, Ruinentaucherin";3;en;0,77;"dds";rare
+"Baral and Kari Zev";"Baral und Kari Zev";3;en;0,38;"mom";rare
+"Rankle and Torbran";"Rankel und Torbran";5;en;0,15;"mom";rare
+"Zevlor, Elturel Exile";"Zevlor, Elturel-Verbannter";4;en;0,13;"clb";rare
 "Thantis, the Warweaver";"Thantis die Kriegsweberin";6;en;;"c18";mythic
-"Radha, Heir to Keld";"Radha, Erbin von Keld";2;en;0,10;"dds";rare
-"Goblin Electromancer";"Goblin-Elektromagier";2;en;0,11;"dds";common
-"Goblin Traprunner";"Goblin-Fallenläufer";4;en;0,10;"mh2";uncommon
-"";"Ausgewählter der Ahnfrau";0;;;"";
-"Kambal, Profiteering Mayor";"Kambal, korrupter Bürgermeister";3;en;1,13;"otj";rare
-"";"Ausgewählter der Ahnfrau";0;;;"";
+"Radha, Heir to Keld";"Radha, Erbin von Keld";2;en;0,21;"dds";rare
+"Goblin Electromancer";"Goblin-Elektromagier";2;en;0,12;"dds";common
+"Goblin Traprunner";"Goblin-Fallenläufer";4;en;0,15;"mh2";uncommon
+"Trygon Predator";"Jagender Trygon";3;en;0,26;"c20";uncommon
+"Kambal, Profiteering Mayor";"Kambal, korrupter Bürgermeister";3;en;1,32;"otj";rare
+"Wylie Duke, Atiin Hero";"Wylie Duke, Held der Atiin";3;en;0,17;"otj";rare
 "Katilda and Lier";"Katilda und Lier";3;en;;"moc";mythic
-"Xantcha, Sleeper Agent";"Xantcha die Schläferin";3;en;0,74;"c18";rare
+"Xantcha, Sleeper Agent";"Xantcha die Schläferin";3;en;0,82;"c18";rare
 "Saskia the Unyielding";"Saskia die Unbeugsame";4;en;;"c16";mythic
 "Admiral Brass, Unsinkable";"Admiralin Tollkun, die Unsinkbare";5;en;0,27;"lcc";mythic
-"Fires of Yavimaya";"Feuer von Yavimaya";3;en;0,50;"ddl";uncommon
+"Fires of Yavimaya";"Feuer von Yavimaya";3;en;0,31;"ddl";uncommon
 "Mirari's Wake";"Miraris Nachwirkungen";5;en;3,18;"c17";mythic
-"Aura Shards";"Aurascherben";3;en;12,67;"cmd";uncommon
-"Etchings of the Chosen";"Relief der Auserwählten";3;en;0,31;"mh1";uncommon
-"Blood Spatter Analysis";"Blutspurenanalyse";2;en;0,10;"mkm";rare
-"Buried in the Garden";"Im Garten vergraben";4;en;0,10;"mkm";uncommon
-"Kellan Joins Up";"Kellans Bandenbeitritt";3;en;0,15;"otj";rare
-"Annie Joins Up";"Annies Bandenbeitritt";4;en;1,66;"otj";rare
-"Buried in the Garden";"Im Garten vergraben";4;en;0,05;"otp";uncommon
-"Merciless Eviction";"Gnadenlose Vertreibung";6;en;0,85;"c16";rare
+"Aura Shards";"Aurascherben";3;en;11,15;"cmd";uncommon
+"Etchings of the Chosen";"Relief der Auserwählten";3;en;0,28;"mh1";uncommon
+"Blood Spatter Analysis";"Blutspurenanalyse";2;en;0,11;"mkm";rare
+"Buried in the Garden";"Im Garten vergraben";4;en;0,12;"mkm";uncommon
+"Kellan Joins Up";"Kellans Bandenbeitritt";3;en;0,22;"otj";rare
+"Annie Joins Up";"Annies Bandenbeitritt";4;en;1,74;"otj";rare
+"Buried in the Garden";"Im Garten vergraben";4;en;0,06;"otp";uncommon
+"Merciless Eviction";"Gnadenlose Vertreibung";6;en;0,55;"c16";rare
 "Decimate";"Dezimieren";4;en;0,36;"c16";rare
-"Molten Collapse";"Geschmolzener Einsturz";2;en;1,12;"lci";rare
-"Time Wipe";"Zeitlöschung";5;en;0,15;"war";rare
-"Hull Breach";"Hüllenbruch";2;en;0,67;"c13";common
-"Treacherous Terrain";"Tückisches Gelände";8;en;0,29;"c16";uncommon
-"Casualties of War";"Opfer des Krieges";6;en;0,46;"war";rare
-"Duneblast";"Dünensturm";7;en;0,15;"c16";rare
-"Eerie Ultimatum";"Schauriges Ultimatum";7;en;5,65;"iko";rare
-"Emergent Ultimatum";"Aufkeimendes Ultimatum";7;en;1,71;"iko";rare
-"Squirming Emergence";"Wabernde Emergenz";3;en;0,45;"lci";rare
-"Pillage the Bog";"Schlammplünderung";2;en;1,77;"otj";rare
-"Fell the Mighty";"Die Mächtigen stürzen";5;en;0,17;"otp";rare
+"Molten Collapse";"Geschmolzener Einsturz";2;en;1,38;"lci";rare
+"Time Wipe";"Zeitlöschung";5;en;0,23;"war";rare
+"Hull Breach";"Hüllenbruch";2;en;0,78;"c13";common
+"Treacherous Terrain";"Tückisches Gelände";8;en;0,25;"c16";uncommon
+"Casualties of War";"Opfer des Krieges";6;en;0,38;"war";rare
+"Duneblast";"Dünensturm";7;en;0,16;"c16";rare
+"Eerie Ultimatum";"Schauriges Ultimatum";7;en;5,46;"iko";rare
+"Emergent Ultimatum";"Aufkeimendes Ultimatum";7;en;1,45;"iko";rare
+"Squirming Emergence";"Wabernde Emergenz";3;en;0,38;"lci";rare
+"Pillage the Bog";"Schlammplünderung";2;en;1,52;"otj";rare
+"Crime // Punishment";"";7;en;;"otp";mythic
 "Savage Smash";"Wilde Attacke";3;en;0,05;"otp";uncommon
-"Hindering Light";"Behinderndes Licht";2;en;0,08;"otp";uncommon
-"Izzet Charm";"Izzet-Amulett";2;en;0,21;"rtr";uncommon
-"Despark";"Funkenraub";2;en;0,24;"clb";uncommon
-"Esper Charm";"Amulett aus Esper";3;en;0,33;"c18";uncommon
+"Hindering Light";"Behinderndes Licht";2;en;0,06;"otp";uncommon
+"Izzet Charm";"Izzet-Amulett";2;en;0,15;"rtr";uncommon
+"Despark";"Funkenraub";2;en;0,26;"clb";uncommon
+"Esper Charm";"Amulett aus Esper";3;en;0,43;"c18";uncommon
 "Abzan Charm";"Abzan-Amulett";3;en;0,18;"c16";uncommon
-"Brokers Charm";"Brokers-Amulett";3;en;0,12;"snc";uncommon
-"Cabaretti Charm";"Cabaretti-Amulett";3;en;0,13;"snc";uncommon
-"Obscura Charm";"Obscura-Amulett";3;en;0,11;"snc";uncommon
-"Bant Charm";"Amulett aus Bant";3;en;0,18;"c18";uncommon
-"Naya Charm";"Amulett aus Naya";3;en;0,11;"c19";uncommon
-"Ancient Grudge";"Uralter Groll";2;en;0,14;"mm3";uncommon
-"Desperate Ravings";"Verzweifelte Delirien";2;en;0,09;"isd";uncommon
-"Vanishing Verse";"Vers des Verschwindens";2;en;0,92;"stx";rare
-"Growth Spiral";"Wachstumsspirale";2;en;1,02;"sta";rare
-"Utter End";"Aus und vorbei";4;en;0,25;"c16";rare
-"Anguished Unmaking";"Schmerzerfüllte Auslöschung";3;en;2,14;"soi";rare
-"Mirrorweave";"Spiegelgewebe";4;en;0,62;"c16";rare
+"Brokers Charm";"Brokers-Amulett";3;en;0,10;"snc";uncommon
+"Cabaretti Charm";"Cabaretti-Amulett";3;en;0,04;"snc";uncommon
+"Obscura Charm";"Obscura-Amulett";3;en;0,13;"snc";uncommon
+"Bant Charm";"Amulett aus Bant";3;en;0,28;"c18";uncommon
+"Naya Charm";"Amulett aus Naya";3;en;0,14;"c19";uncommon
+"Ancient Grudge";"Uralter Groll";2;en;0,12;"mm3";uncommon
+"Desperate Ravings";"Verzweifelte Delirien";2;en;0,11;"isd";uncommon
+"Vanishing Verse";"Vers des Verschwindens";2;en;0,82;"stx";rare
+"Growth Spiral";"Wachstumsspirale";2;en;0,97;"sta";rare
+"Utter End";"Aus und vorbei";4;en;0,23;"c16";rare
+"Anguished Unmaking";"Schmerzerfüllte Auslöschung";3;en;2,21;"soi";rare
+"Mirrorweave";"Spiegelgewebe";4;en;0,36;"c16";rare
 "Signal the Clans";"Signal für die Clans";2;en;0,47;"gtc";rare
-"Inkshield";"Tintenschild";5;en;15,57;"c21";rare
-"Quandrix Command";"Quandrix-Befehl";3;en;0,32;"stx";rare
-"Eladamri's Call";"Eladamris Ruf";2;en;7,20;"mh1";rare
-"Render Silent";"Mit Stummheit schlagen";3;en;2,08;"gk2";rare
-"Azorius Charm";"Azorius-Amulett";2;en;0,25;"ima";uncommon
-"Dovin's Veto";"Dovins Veto";2;en;2,00;"war";uncommon
-"Faithful Mending";"Getreue Wiederherstellung";2;en;0,52;"mid";uncommon
-"Congregation at Dawn";"Versammlung am Morgen";3;en;1,23;"rav";uncommon
-"Mortify";"Kasteiung";3;en;0,15;"rna";uncommon
-"Fracture";"Kraftstein-Fraktur";2;en;0,74;"stx";uncommon
-"Boros Charm";"Boros-Amulett";2;en;3,84;"onc";uncommon
-"Rip Apart";"Auseinanderreißen";2;en;0,19;"onc";uncommon
-"";"Ausgewählter der Ahnfrau";0;;;"";
-"Nautiloid Ship";"Nautiloidenschiff";4;en;6,93;"clb";mythic
-"Bident of Thassa";"Zweizack der Thassa";4;en;1,00;"ths";rare
-"Kefnet's Monument";"Kefnets Monument";3;en;0,22;"akh";uncommon
-"Nyx Lotus";"Nyx-Lotus";4;en;3,03;"thb";rare
-"Sword of Vengeance";"Schwert der Rache";3;en;0,32;"c17";rare
-"Sanctuary Blade";"Klinge des Zufluchtsorts";2;en;0,40;"c20";rare
-"Grappling Hook";"Enterhaken";4;en;0,34;"c17";rare
-"Dowsing Dagger // Lost Vale";"undefined";2;en;3,56;"xln";rare
-"Argentum Armor";"Silberrüstung";6;en;0,58;"c17";rare
-"Stoneforge Masterwork";"Steinschmelz-Meisterstück";1;en;1,33;"ogw";rare
-"Conqueror's Flail";"Flegel des Eroberers";2;en;2,94;"c16";rare
-"Hammer of Nazahn";"Nazahns Hammer";4;en;7,12;"c17";rare
-"Dragon Throne of Tarkir";"Drachenthron von Tarkir";4;en;0,21;"ktk";rare
-"Luxior, Giada's Gift";"Luxior, Giadas Geschenk";1;en;3,53;"snc";mythic
-"Sigiled Sword of Valeron";"Siegelschwert von Valeron";3;en;0,25;"moc";rare
-"Conjurer's Mantle";"Mantel des Beschwörers";2;en;0,81;"moc";rare
-"Vorpal Sword";"Henkersschwert";1;en;0,89;"afr";rare
-"Neurok Stealthsuit";"Neurok-Tarnanzug";2;en;0,51;"5dn";common
-"Mage Slayer";"Magiertöter";3;en;0,70;"arb";uncommon
-"Skullclamp";"Schädelstrammer";1;en;5,44;"clb";uncommon
-"Sword of the Animist";"Schwert der Animistin";2;en;6,91;"e01";rare
-"The Key to the Vault";"Schlüssel zum Tresorgewölbe";2;en;0,32;"otj";rare
-"";"Ausgewählter der Ahnfrau";0;;;"";
-"Ashnod's Altar";"Ashnods Altar";3;en;5,25;"brr";rare
-"Treasure Map // Treasure Cove";"undefined";2;en;0,32;"lci";rare
-"Unlicensed Hearse";"Unlizenzierter Leichenwagen";2;en;1,42;"otp";rare
-"Metallic Mimic";"Metallischer Nachahmer";2;en;4,29;"aer";rare
-"Soul of New Phyrexia";"Seele von Neu-Phyrexia";6;en;0,84;"c18";mythic
-"Myr Kinsmith";"Myr-Sippenschmied";4;en;0,10;"one";common
-"Rug of Smothering";"Teppich des Erstickens";3;en;0,27;"clb";uncommon
+"Inkshield";"Tintenschild";5;en;14,76;"c21";rare
+"Quandrix Command";"Quandrix-Befehl";3;en;0,18;"stx";rare
+"Eladamri's Call";"Eladamris Ruf";2;en;7,33;"mh1";rare
+"Render Silent";"Mit Stummheit schlagen";3;en;2,14;"gk2";rare
+"Azorius Charm";"Azorius-Amulett";2;en;0,30;"ima";uncommon
+"Dovin's Veto";"Dovins Veto";2;en;1,70;"war";uncommon
+"Faithful Mending";"Getreue Wiederherstellung";2;en;0,62;"mid";uncommon
+"Congregation at Dawn";"Versammlung am Morgen";3;en;1,27;"rav";uncommon
+"Mortify";"Kasteiung";3;en;0,11;"rna";uncommon
+"Fracture";"Kraftstein-Fraktur";2;en;0,76;"stx";uncommon
+"Boros Charm";"Boros-Amulett";2;en;3,66;"onc";uncommon
+"Rip Apart";"Auseinanderreißen";2;en;0,18;"onc";uncommon
+"Transmutation Font";"Quell der Transmutation";5;en;;"pw24";mythic
+"Nautiloid Ship";"Nautiloidenschiff";4;en;7,48;"clb";mythic
+"Bident of Thassa";"Zweizack der Thassa";4;en;0,85;"ths";rare
+"Kefnet's Monument";"Kefnets Monument";3;en;0,19;"akh";uncommon
+"Nyx Lotus";"Nyx-Lotus";4;en;2,72;"thb";rare
+"Sword of Vengeance";"Schwert der Rache";3;en;0,30;"c17";rare
+"Sanctuary Blade";"Klinge des Zufluchtsorts";2;en;0,27;"c20";rare
+"Grappling Hook";"Enterhaken";4;en;0,29;"c17";rare
+"Dowsing Dagger // Lost Vale";"";2;en;3,71;"xln";rare
+"Argentum Armor";"Silberrüstung";6;en;0,47;"c17";rare
+"Stoneforge Masterwork";"Steinschmelz-Meisterstück";1;en;1,62;"ogw";rare
+"Conqueror's Flail";"Flegel des Eroberers";2;en;3,04;"c16";rare
+"Hammer of Nazahn";"Nazahns Hammer";4;en;8,28;"c17";rare
+"Dragon Throne of Tarkir";"Drachenthron von Tarkir";4;en;0,22;"ktk";rare
+"Luxior, Giada's Gift";"Luxior, Giadas Geschenk";1;en;3,35;"snc";mythic
+"Sigiled Sword of Valeron";"Siegelschwert von Valeron";3;en;0,23;"moc";rare
+"Conjurer's Mantle";"Mantel des Beschwörers";2;en;0,95;"moc";rare
+"Vorpal Sword";"Henkersschwert";1;en;1,02;"afr";rare
+"Neurok Stealthsuit";"Neurok-Tarnanzug";2;en;0,49;"5dn";common
+"Mage Slayer";"Magiertöter";3;en;0,43;"arb";uncommon
+"Skullclamp";"Schädelstrammer";1;en;5,50;"clb";uncommon
+"Sword of the Animist";"Schwert der Animistin";2;en;7,40;"e01";rare
+"The Key to the Vault";"Schlüssel zum Tresorgewölbe";2;en;0,22;"otj";rare
+"Transmutation Font";"Quell der Transmutation";5;en;;"pw24";mythic
+"Ashnod's Altar";"Ashnods Altar";3;en;5,57;"brr";rare
+"Treasure Map // Treasure Cove";"";2;en;0,32;"lci";rare
+"Unlicensed Hearse";"Unlizenzierter Leichenwagen";2;en;1,74;"otp";rare
+"Metallic Mimic";"Metallischer Nachahmer";2;en;3,76;"aer";rare
+"Soul of New Phyrexia";"Seele von Neu-Phyrexia";6;en;0,63;"c18";mythic
+"Myr Kinsmith";"Myr-Sippenschmied";4;en;0,13;"one";common
+"Rug of Smothering";"Teppich des Erstickens";3;en;0,12;"clb";uncommon
 "Burnished Hart";"Glanzgeschliffener Hirsch";3;en;0,15;"ths";uncommon
-"Palladium Myr";"Palladiummyr";3;en;0,31;"m21";uncommon
-"Cathodion";"Kathodion";3;en;0,09;"2xm";common
-"Universal Automaton";"Universeller Automat";1;en;0,29;"mh1";common
-"Ornithopter";"Ornithopter";0;en;0,15;"brr";uncommon
-"Chief of the Foundry";"Vorsteher der Gießerei";3;en;0,16;"2xm";uncommon
-"Etherium Sculptor";"Ätherium-Skulpteur";2;en;0,25;"ddu";common
-"Iron Myr";"Eisenmyr";2;en;0,15;"mrd";common
-"Lion Sash";"Löwenschärpe";2;en;1,49;"neo";rare
-"Haywire Mite";"Durchgedrehte Milbe";1;en;2,30;"bro";uncommon
-"Threefold Thunderhulk";"Dreifaltiger Donnerhüne";7;en;0,27;"lci";rare
-"Myr Battlesphere";"Myr-Kampfkugel";7;en;0,27;"ddu";rare
-"Foundry Inspector";"Gießerei-Inspektor";3;en;0,11;"brr";uncommon
-"Oketra's Monument";"Oketras Monument";3;en;1,44;"akh";uncommon
-"Fire Diamond";"Purpurdiamant";2;en;0,38;"c14";uncommon
-"Midnight Clock";"Mitternachtsuhr";3;en;0,46;"woc";rare
-"Strixhaven Stadium";"Strixhaven-Stadion";3;en;0,49;"stx";rare
-"Misleading Signpost";"Irreführender Wegweiser";3;en;4,12;"woc";rare
-"Boros Signet";"Boros-Petschaft";2;en;0,30;"mm3";uncommon
-"Marble Diamond";"Schneediamant";2;en;0,12;"khc";common
-"Orzhov Signet";"Orzhov-Petschaft";2;en;0,27;"moc";common
+"Palladium Myr";"Palladiummyr";3;en;0,39;"m21";uncommon
+"Cathodion";"Kathodion";3;en;0,06;"2xm";common
+"Universal Automaton";"Universeller Automat";1;en;0,20;"mh1";common
+"Ornithopter";"Ornithopter";0;en;0,14;"brr";uncommon
+"Chief of the Foundry";"Vorsteher der Gießerei";3;en;0,11;"2xm";uncommon
+"Etherium Sculptor";"Ätherium-Skulpteur";2;en;0,54;"ddu";common
+"Iron Myr";"Eisenmyr";2;en;0,29;"mrd";common
+"Lion Sash";"Löwenschärpe";2;en;1,57;"neo";rare
+"Haywire Mite";"Durchgedrehte Milbe";1;en;2,26;"bro";uncommon
+"Threefold Thunderhulk";"Dreifaltiger Donnerhüne";7;en;0,29;"lci";rare
+"Myr Battlesphere";"Myr-Kampfkugel";7;en;0,25;"ddu";rare
+"Foundry Inspector";"Gießerei-Inspektor";3;en;0,15;"brr";uncommon
+"Oketra's Monument";"Oketras Monument";3;en;1,51;"akh";uncommon
+"Fire Diamond";"Purpurdiamant";2;en;0,39;"c14";uncommon
+"Midnight Clock";"Mitternachtsuhr";3;en;0,34;"woc";rare
+"Strixhaven Stadium";"Strixhaven-Stadion";3;en;0,48;"stx";rare
+"Misleading Signpost";"Irreführender Wegweiser";3;en;3,77;"woc";rare
+"Boros Signet";"Boros-Petschaft";2;en;0,33;"mm3";uncommon
+"Marble Diamond";"Schneediamant";2;en;0,09;"khc";common
+"Orzhov Signet";"Orzhov-Petschaft";2;en;0,26;"moc";common
 "Commander's Sphere";"Sphäre des Kommandeurs";3;en;0,12;"moc";common
-"Mind Stone";"Gedankenstein";2;en;0,20;"moc";uncommon
+"Mind Stone";"Gedankenstein";2;en;0,21;"moc";uncommon
 "Progenitor's Icon";"Abbild des Stammvaters";3;en;;"lcc";rare
-"Herald's Horn";"Horn des Herolds";3;en;3,53;"moc";uncommon
-"Fractured Powerstone";"Gesplitteter Kraftstein";2;en;0,20;"moc";common
-"Patriar's Seal";"Siegel der Patriarier";3;en;2,45;"clb";uncommon
+"Herald's Horn";"Horn des Herolds";3;en;3,92;"moc";uncommon
+"Fractured Powerstone";"Gesplitteter Kraftstein";2;en;0,15;"moc";common
+"Patriar's Seal";"Siegel der Patriarier";3;en;2,53;"clb";uncommon
 "Door of Destinies";"Tür der Schicksale";4;en;;"pmor";rare
 "Coat of Arms";"Waffenrock";5;en;10,52;"dpa";rare
-"Vanquisher's Banner";"Banner der Siegreichen";5;en;3,38;"moc";rare
-"Obelisk of Urd";"Obelisk von Urd";6;en;1,66;"znc";rare
-"Quicksilver Amulet";"Quecksilberamulett";4;en;2,22;"ulg";rare
-"Urza's Incubator";"Urzas Brutkasten";3;en;12,98;"uds";rare
-"Everflowing Chalice";"Immervoller Kelch";0;en;0,35;"2xm";common
-"Chromatic Lantern";"Chromatische Laterne";3;en;1,91;"grn";rare
-"Blinkmoth Urn";"Blinkmottenurne";5;en;1,03;"c18";rare
-"Staff of Domination";"Stab des Beherrschens";3;en;2,40;"cmr";rare
-"Horn of Greed";"Horn der Habsucht";3;en;7,86;"cn2";rare
+"Vanquisher's Banner";"Banner der Siegreichen";5;en;3,03;"moc";rare
+"Obelisk of Urd";"Obelisk von Urd";6;en;2,01;"znc";rare
+"Quicksilver Amulet";"Quecksilberamulett";4;en;5,60;"ulg";rare
+"Urza's Incubator";"Urzas Brutkasten";3;en;12,70;"uds";rare
+"Everflowing Chalice";"Immervoller Kelch";0;en;0,23;"2xm";common
+"Chromatic Lantern";"Chromatische Laterne";3;en;1,83;"grn";rare
+"Blinkmoth Urn";"Blinkmottenurne";5;en;1,05;"c18";rare
+"Staff of Domination";"Stab des Beherrschens";3;en;2,41;"cmr";rare
+"Horn of Greed";"Horn der Habsucht";3;en;8,33;"cn2";rare
 "Glittering Stockpile";"Glitzernde Schatzhalde";3;en;0,11;"snc";uncommon
-"Maskwood Nexus";"Maskenwald-Nexus";4;en;2,78;"clb";rare
-"Endless Atlas";"Endloser Atlas";2;en;1,12;"c18";rare
-"Thran Dynamo";"Thrandynamo";4;en;1,55;"c19";uncommon
+"Maskwood Nexus";"Maskenwald-Nexus";4;en;3,03;"clb";rare
+"Endless Atlas";"Endloser Atlas";2;en;1,11;"c18";rare
+"Thran Dynamo";"Thrandynamo";4;en;1,44;"c19";uncommon
 "Dreamstone Hedron";"Traumstein-Polyeder";6;en;0,12;"c18";uncommon
-"";"Ausgewählter der Ahnfrau";0;;;"";
-"Spectral Searchlight";"Spektraler Scheinwerfer";3;en;0,05;"c21";uncommon
-"Bonder's Ornament";"Bynder-Ornament";3;en;0,17;"c20";common
-"Altar of the Pantheon";"Altar des Pantheons";3;en;0,07;"thb";common
-"Commander's Sphere";"Sphäre des Kommandeurs";3;en;0,14;"khc";common
-"Wayfarer's Bauble";"Brosche des Wandersmanns";1;en;0,31;"5dn";common
-"Talisman of Dominance";"Talisman der Dominanz";2;en;0,86;"woc";uncommon
-"Mask of Avacyn";"Avacyns Maske";2;en;0,59;"isd";uncommon
-"Mind Stone";"Gedankenstein";2;en;0,17;"onc";uncommon
-"Darksteel Plate";"Nachtstahl-Plattenrüstung";3;en;5,26;"ddu";rare
-"Loxodon Warhammer";"Loxodon-Kriegshammer";3;en;0,20;"onc";rare
-"Commander's Sphere";"Sphäre des Kommandeurs";3;en;0,12;"onc";common
-"Mask of Memory";"Erinnerungsmaske";2;en;0,25;"onc";uncommon
-"Boros Signet";"Boros-Petschaft";2;en;0,32;"onc";uncommon
+"Replicating Ring";"Replizierender Ring";3;en;0,22;"khm";uncommon
+"Spectral Searchlight";"Spektraler Scheinwerfer";3;en;0,03;"c21";uncommon
+"Bonder's Ornament";"Bynder-Ornament";3;en;0,15;"c20";common
+"Altar of the Pantheon";"Altar des Pantheons";3;en;0,13;"thb";common
+"Commander's Sphere";"Sphäre des Kommandeurs";3;en;0,11;"khc";common
+"Wayfarer's Bauble";"Brosche des Wandersmanns";1;en;0,40;"5dn";common
+"Talisman of Dominance";"Talisman der Dominanz";2;en;0,70;"woc";uncommon
+"Mask of Avacyn";"Avacyns Maske";2;en;0,48;"isd";uncommon
+"Mind Stone";"Gedankenstein";2;en;0,12;"onc";uncommon
+"Darksteel Plate";"Nachtstahl-Plattenrüstung";3;en;5,61;"ddu";rare
+"Loxodon Warhammer";"Loxodon-Kriegshammer";3;en;0,24;"onc";rare
+"Commander's Sphere";"Sphäre des Kommandeurs";3;en;0,09;"onc";common
+"Mask of Memory";"Erinnerungsmaske";2;en;0,19;"onc";uncommon
+"Boros Signet";"Boros-Petschaft";2;en;0,30;"onc";uncommon
 "Maul of the Skyclaves";"Hammer der Himmelsfestungen";3;en;0,18;"onc";rare
-"Talisman of Conviction";"Talisman der Überzeugung";2;en;0,37;"onc";uncommon
-"Ixhel, Scion of Atraxa";"Ixhel, Spross von Atraxa";4;en;0,46;"onc";mythic
+"Talisman of Conviction";"Talisman der Überzeugung";2;en;0,31;"onc";uncommon
+"Soul-Guide Lantern";"Laterne des Seelenführers";1;en;0,27;"onc";uncommon
 "Arcane Signet";"Arkanes Petschaft";2;en;0,38;"clb";uncommon
-"Sol Ring";"Sonnenring";1;en;0,69;"clb";uncommon
-"Simic Signet";"Simic-Petschaft";2;en;0,26;"cma";common
-"Izzet Signet";"Izzet-Petschaft";2;en;0,37;"c20";uncommon
-"Talisman of Hierarchy";"Talisman der Hierarchie";2;en;1,05;"clb";uncommon
-"Dimir Signet";"Dimir-Petschaft";2;en;0,62;"c18";uncommon
-"Selesnya Signet";"Selesnija-Petschaft";2;en;1,57;"cma";common
-"Talisman of Creativity";"Talisman der Kreativität";2;en;0,80;"mh1";uncommon
-"Dimir Locket";"Dimir-Medaillon";3;en;0,14;"znc";common
-"Izzet Cluestone";"Izzet-Rätselstein";3;en;0,16;"dgm";common
-"Izzet Locket";"Izzet-Medaillon";3;en;0,15;"grn";common
-"Rakdos Locket";"Rakdos-Medaillon";3;en;0,14;"c19";common
-"Azorius Signet";"Azorius-Petschaft";2;en;0,30;"khc";uncommon
-"Heraldic Banner";"Wappenbanner";3;en;0,86;"eld";uncommon
-"Thought Vessel";"Gedankengefäß";2;en;0,67;"cmr";uncommon
-"Talisman of Progress";"Talisman des Fortschritts";2;en;1,17;"mrd";uncommon
-"Azorius Locket";"Azorius-Medaillon";3;en;0,17;"c19";common
-"Unstable Glyphbridge // Sandswirl Wanderglyph";"undefined";5;en;0,30;"lci";rare
-"Mind Stone";"Gedankenstein";2;en;0,35;"c18";common
-"Relic of Legends";"Relikt der Legenden";3;en;0,99;"dmu";uncommon
-"Unstable Obelisk";"Instabiler Obelisk";3;en;0,03;"scd";uncommon
+"Sol Ring";"Sonnenring";1;en;0,60;"clb";uncommon
+"Simic Signet";"Simic-Petschaft";2;en;0,28;"cma";common
+"Izzet Signet";"Izzet-Petschaft";2;en;0,43;"c20";uncommon
+"Talisman of Hierarchy";"Talisman der Hierarchie";2;en;0,69;"clb";uncommon
+"Dimir Signet";"Dimir-Petschaft";2;en;0,47;"c18";uncommon
+"Selesnya Signet";"Selesnija-Petschaft";2;en;1,39;"cma";common
+"Talisman of Creativity";"Talisman der Kreativität";2;en;0,78;"mh1";uncommon
+"Dimir Locket";"Dimir-Medaillon";3;en;0,20;"znc";common
+"Izzet Cluestone";"Izzet-Rätselstein";3;en;0,09;"dgm";common
+"Izzet Locket";"Izzet-Medaillon";3;en;0,05;"grn";common
+"Rakdos Locket";"Rakdos-Medaillon";3;en;0,17;"c19";common
+"Azorius Signet";"Azorius-Petschaft";2;en;0,28;"khc";uncommon
+"Heraldic Banner";"Wappenbanner";3;en;0,93;"eld";uncommon
+"Thought Vessel";"Gedankengefäß";2;en;0,70;"cmr";uncommon
+"Talisman of Progress";"Talisman des Fortschritts";2;en;1,16;"mrd";uncommon
+"Azorius Locket";"Azorius-Medaillon";3;en;0,15;"c19";common
+"Unstable Glyphbridge // Sandswirl Wanderglyph";"";5;en;0,22;"lci";rare
+"Mind Stone";"Gedankenstein";2;en;0,32;"c18";common
+"Relic of Legends";"Relikt der Legenden";3;en;1,09;"dmu";uncommon
+"Unstable Obelisk";"Instabiler Obelisk";3;en;0,04;"scd";uncommon
 "Fractured Powerstone";"Gesplitteter Kraftstein";2;en;0,38;"pca";common
-"Sky Diamond";"Himmelsdiamant";2;en;0,06;"khc";common
+"Sky Diamond";"Himmelsdiamant";2;en;0,14;"khc";common
 "Moss Diamond";"Moosdiamant";2;en;0,07;"cmr";common
-"Orzhov Signet";"Orzhov-Petschaft";2;en;0,24;"clb";common
-"Bootleggers' Stash";"Versteck der Schmuggler";6;en;2,93;"snc";mythic
-"Lifecrafter's Bestiary";"Biotronisches Bestiarium";3;en;0,39;"aer";rare
-"Executioner's Capsule";"Kapsel des Henkers";1;en;0,08;"2xm";common
-"Ichormoon Gauntlet";"Sekretmond-Handschuh";3;en;5,33;"one";mythic
-"Wand of Wonder";"Zauberstab des Wunders";4;en;0,85;"clb";rare
-"Vedalken Orrery";"Vedalken-Planetarium";4;en;5,71;"5dn";rare
-"Boompile";"Sprenghaufen";4;en;0,38;"c16";rare
-"Mirrorworks";"Spiegelwerk";5;en;0,50;"c18";rare
-"Strionic Resonator";"Strionischer Resonator";2;en;2,87;"c19";rare
-"Mimic Vat";"Bottich der Nachäffung";3;en;0,32;"c19";rare
-"Heartstone";"Pulsierender Stein";3;en;1,44;"sth";uncommon
-"Library of Leng";"Bibliothek von Leng";1;en;1,06;"4ed";uncommon
-"Tormod's Crypt";"Tormods Krypta";0;en;0,51;"m21";uncommon
-"";"Ausgewählter der Ahnfrau";0;;;"";
-"Staff of Nin";"Nins Stab";6;en;0,90;"m13";rare
-"Ratchet Bomb";"Knarrenbombe";2;en;0,34;"som";rare
-"Unwinding Clock";"Abwicklungsuhr";4;en;6,39;"c18";rare
-"Cloud Key";"Wolkenschlüssel";3;en;1,42;"brr";rare
-"Panharmonicon";"Panharmonikon";4;en;3,07;"kld";rare
-"Nevinyrral's Disk";"Nevinyrrals Wunderscheibe";4;en;0,46;"c16";rare
-"Matzalantli, the Great Door // The Core";"undefined";3;en;0,51;"lci";rare
+"Orzhov Signet";"Orzhov-Petschaft";2;en;0,22;"clb";common
+"Bootleggers' Stash";"Versteck der Schmuggler";6;en;3,15;"snc";mythic
+"Lifecrafter's Bestiary";"Biotronisches Bestiarium";3;en;0,50;"aer";rare
+"Executioner's Capsule";"Kapsel des Henkers";1;en;0,03;"2xm";common
+"Ichormoon Gauntlet";"Sekretmond-Handschuh";3;en;5,80;"one";mythic
+"Wand of Wonder";"Zauberstab des Wunders";4;en;0,71;"clb";rare
+"Vedalken Orrery";"Vedalken-Planetarium";4;en;3,82;"5dn";rare
+"Boompile";"Sprenghaufen";4;en;0,56;"c16";rare
+"Mirrorworks";"Spiegelwerk";5;en;0,49;"c18";rare
+"Strionic Resonator";"Strionischer Resonator";2;en;3,03;"c19";rare
+"Mimic Vat";"Bottich der Nachäffung";3;en;0,23;"c19";rare
+"Heartstone";"Pulsierender Stein";3;en;1,52;"sth";uncommon
+"Library of Leng";"Bibliothek von Leng";1;en;1,00;"4ed";uncommon
+"Tormod's Crypt";"Tormods Krypta";0;en;0,21;"m21";uncommon
+"Conjurer's Closet";"Schrank des Beschwörers";5;en;6,41;"avr";rare
+"Staff of Nin";"Nins Stab";6;en;1,13;"m13";rare
+"Ratchet Bomb";"Knarrenbombe";2;en;0,39;"som";rare
+"Unwinding Clock";"Abwicklungsuhr";4;en;5,31;"c18";rare
+"Cloud Key";"Wolkenschlüssel";3;en;1,66;"brr";rare
+"Panharmonicon";"Panharmonikon";4;en;3,08;"kld";rare
+"Nevinyrral's Disk";"Nevinyrrals Wunderscheibe";4;en;0,42;"c16";rare
+"Matzalantli, the Great Door // The Core";"";3;en;0,60;"lci";rare
 "The Millennium Calendar";"Der Jahrtausendkalender";1;en;1,60;"lci";mythic
-"Instrument of the Bards";"Bardeninstrument";1;en;0,18;"afr";rare
-"Rhonas's Monument";"Rhonas' Monument";3;en;0,93;"akh";uncommon
+"Instrument of the Bards";"Bardeninstrument";1;en;0,22;"afr";rare
+"Rhonas's Monument";"Rhonas' Monument";3;en;0,71;"akh";uncommon
 "Collector's Cage";"Käfig des Sammlers";2;en;;"big";mythic
-"";"Ausgewählter der Ahnfrau";0;;;"";
-"Swiftfoot Boots";"Flinkfuß-Stiefel";2;en;0,95;"c17";uncommon
-"Sunforger";"Sonnenschmieder";3;en;1,03;"2xm";rare
-"Thran Power Suit";"Thran-Kraftpanzer";2;en;0,22;"bro";uncommon
-"Lavaspur Boots";"Lavasporenstiefel";1;en;1,57;"otj";uncommon
-"Sword of Sinew and Steel";"Schwert aus Sehnen und Stahl";3;en;7,81;"mh1";mythic
-"Sword of War and Peace";"Schwert aus Krieg und Frieden";3;en;5,06;"2xm";mythic
-"Sword of Once and Future";"Schwert aus Vergangenheit und Zukunft";3;en;3,38;"mom";mythic
-"Sword of Light and Shadow";"Schwert aus Licht und Schatten";3;en;7,10;"dst";rare
-"Helm of the Host";"Helm der Schar";4;en;5,11;"dom";rare
-"Scytheclaw";"Sensenkralle";5;en;0,17;"znc";rare
-"Quietus Spike";"Todesstoß-Nadel";3;en;0,63;"c17";rare
-"Gorgon's Head";"Kopf der Gorgo";1;en;1,30;"bng";uncommon
-"Gorgon Flail";"Gorgonenflegel";2;en;1,25;"m10";uncommon
-"Horn of Valhalla // Ysgard's Call";"undefined";2;en;0,57;"clb";rare
-"Zephyr Boots";"Westwindstiefel";1;en;0,12;"stx";uncommon
-"Prowler's Helm";"Helm des Herumtreibers";2;en;0,82;"ths";uncommon
-"Lightning Greaves";"Beinschienen des Blitzes";2;en;4,57;"c16";uncommon
-"Whispersilk Cloak";"Mantel aus Flüsterseide";3;en;1,06;"dst";common
-"Heirloom Blade";"Zweischneidiges Erbstück";3;en;0,33;"c17";uncommon
-"Moonsilver Spear";"Speer aus Mondsilber";4;en;0,30;"avr";rare
-"Trailblazer's Boots";"Pionierstiefel";2;en;0,93;"zen";uncommon
-"Umbral Mantle";"Schattenhafter Mantel";3;en;9,40;"plst";uncommon
-"Monster Manual // Zoological Study";"undefined";4;en;6,31;"clb";rare
-"Shameless Charlatan";"Schamloser Scharlatan";2;en;0,16;"clb";rare
-"Agent of the Shadow Thieves";"Agent der Schattendiebe";2;en;0,17;"clb";uncommon
-"Tavern Brawler";"Raufbold";3;en;0,14;"clb";common
+"Commander's Sphere";"Sphäre des Kommandeurs";3;en;;"pw24";rare
+"Swiftfoot Boots";"Flinkfuß-Stiefel";2;en;1,07;"c17";uncommon
+"Sunforger";"Sonnenschmieder";3;en;1,05;"2xm";rare
+"Thran Power Suit";"Thran-Kraftpanzer";2;en;0,28;"bro";uncommon
+"Lavaspur Boots";"Lavasporenstiefel";1;en;1,62;"otj";uncommon
+"Sword of Sinew and Steel";"Schwert aus Sehnen und Stahl";3;en;8,45;"mh1";mythic
+"Sword of War and Peace";"Schwert aus Krieg und Frieden";3;en;5,00;"2xm";mythic
+"Sword of Once and Future";"Schwert aus Vergangenheit und Zukunft";3;en;3,44;"mom";mythic
+"Sword of Light and Shadow";"Schwert aus Licht und Schatten";3;en;7,44;"dst";rare
+"Helm of the Host";"Helm der Schar";4;en;4,55;"dom";rare
+"Scytheclaw";"Sensenkralle";5;en;0,11;"znc";rare
+"Quietus Spike";"Todesstoß-Nadel";3;en;0,48;"c17";rare
+"Gorgon's Head";"Kopf der Gorgo";1;en;1,24;"bng";uncommon
+"Gorgon Flail";"Gorgonenflegel";2;en;1,17;"m10";uncommon
+"Horn of Valhalla // Ysgard's Call";"";2;en;0,55;"clb";rare
+"Zephyr Boots";"Westwindstiefel";1;en;0,14;"stx";uncommon
+"Prowler's Helm";"Helm des Herumtreibers";2;en;0,49;"ths";uncommon
+"Lightning Greaves";"Beinschienen des Blitzes";2;en;4,02;"c16";uncommon
+"Whispersilk Cloak";"Mantel aus Flüsterseide";3;en;0,91;"dst";common
+"Heirloom Blade";"Zweischneidiges Erbstück";3;en;0,21;"c17";uncommon
+"Moonsilver Spear";"Speer aus Mondsilber";4;en;0,36;"avr";rare
+"Trailblazer's Boots";"Pionierstiefel";2;en;0,97;"zen";uncommon
+"Umbral Mantle";"Schattenhafter Mantel";3;en;8,68;"plst";uncommon
+"Monster Manual // Zoological Study";"";4;en;6,21;"clb";rare
+"Shameless Charlatan";"Schamloser Scharlatan";2;en;0,21;"clb";rare
+"Agent of the Shadow Thieves";"Agent der Schattendiebe";2;en;0,14;"clb";uncommon
+"Tavern Brawler";"Raufbold";3;en;0,07;"clb";common
 "Far Traveler";"Weitreisender";3;en;0,16;"clb";uncommon
-"Flaming Fist";"Flammende Faust";3;en;0,12;"clb";common
-"Hardy Outlander";"Abgehärteter Sonderling";2;en;0,10;"clb";uncommon
+"Flaming Fist";"Flammende Faust";3;en;0,13;"clb";common
+"Hardy Outlander";"Abgehärteter Sonderling";2;en;0,17;"clb";uncommon
 "Candlekeep Sage";"Weiser aus Kerzenburg";3;en;0,09;"clb";common
-"Raised by Giants";"Aufgewachsen bei den Riesen";6;en;0,20;"clb";rare
-"Agent of the Iron Throne";"Agent des Eisernen Throns";3;en;0,37;"clb";uncommon
-"Street Urchin";"Straßenkind";2;en;0,10;"clb";uncommon
-"Sword Coast Sailor";"Schwertküstenmatrose";2;en;0,13;"clb";uncommon
-"Folk Hero";"Volksheld";2;en;3,84;"clb";mythic
-"Ugin, the Ineffable";"Ugin der Unergründliche";6;en;1,10;"war";rare
-"Angel of Suffering";"Engel des Leids";5;en;1,54;"snc";mythic
+"Raised by Giants";"Aufgewachsen bei den Riesen";6;en;0,23;"clb";rare
+"Agent of the Iron Throne";"Agent des Eisernen Throns";3;en;0,35;"clb";uncommon
+"Street Urchin";"Straßenkind";2;en;0,15;"clb";uncommon
+"Sword Coast Sailor";"Schwertküstenmatrose";2;en;0,12;"clb";uncommon
+"Folk Hero";"Volksheld";2;en;4,14;"clb";mythic
+"Ugin, the Ineffable";"Ugin der Unergründliche";6;en;1,05;"war";rare
+"Angel of Suffering";"Engel des Leids";5;en;1,50;"snc";mythic
 "Sanitarium Skeleton";"Skelett aus dem Sanatorium";1;en;0,12;"c19";common
-"Grasping Scoundrel";"Habgieriger Halunke";1;en;0,14;"rix";common
-"";"Ausgewählter der Ahnfrau";0;;;"";
-"";"Ausgewählter der Ahnfrau";0;;;"";
+"Grasping Scoundrel";"Habgieriger Halunke";1;en;0,12;"rix";common
+"Ravenous Chupacabra";"Ausgehungerter Chupacabra";4;en;0,23;"rix";uncommon
+"Viscera Seer";"Eingeweideleser";1;en;0,25;"cmr";common
 "Shriekmaw";"Kreischmaul";5;en;0,18;"c20";uncommon
-"Plaguecrafter";"Seuchensäer";3;en;0,27;"grn";uncommon
-"Vampiric Rites";"Vampirische Riten";1;en;0,19;"scd";uncommon
-"Animate Dead";"Belebung der Toten";2;en;5,31;"ema";uncommon
-"Scheming Symmetry";"Raffinierte Symmetrie";1;en;4,25;"m20";rare
-"Sign in Blood";"Mit Blut unterschreiben";2;en;1,70;"sta";rare
-"In Garruk's Wake";"Auf Garruks Pfad";9;en;1,00;"znc";rare
-"Stitch Together";"Zusammenflicken";2;en;2,43;"c18";uncommon
-"Pact of the Serpent";"Pakt der Schlange";3;en;1,47;"khc";rare
-"Painful Truths";"Schmerzliche Wahrheit";3;en;0,24;"moc";rare
-"Atrocious Experiment";"Grausames Experiment";3;en;0,13;"clb";common
-"Shoot the Sheriff";"Schuss auf den Sheriff";2;en;0,21;"otj";uncommon
-"Fake Your Own Death";"Tod vortäuschen";2;en;0,06;"otj";common
-"Corrupted Conviction";"Verdorbene Überzeugung";1;en;0,13;"otj";common
-"Insatiable Avarice";"Unstillbare Habgier";1;en;4,13;"otj";rare
+"Plaguecrafter";"Seuchensäer";3;en;0,32;"grn";uncommon
+"Vampiric Rites";"Vampirische Riten";1;en;0,18;"scd";uncommon
+"Animate Dead";"Belebung der Toten";2;en;5,63;"ema";uncommon
+"Scheming Symmetry";"Raffinierte Symmetrie";1;en;4,48;"m20";rare
+"Sign in Blood";"Mit Blut unterschreiben";2;en;1,59;"sta";rare
+"In Garruk's Wake";"Auf Garruks Pfad";9;en;0,65;"znc";rare
+"Stitch Together";"Zusammenflicken";2;en;2,17;"c18";uncommon
+"Pact of the Serpent";"Pakt der Schlange";3;en;1,27;"khc";rare
+"Painful Truths";"Schmerzliche Wahrheit";3;en;0,23;"moc";rare
+"Atrocious Experiment";"Grausames Experiment";3;en;0,15;"clb";common
+"Shoot the Sheriff";"Schuss auf den Sheriff";2;en;0,20;"otj";uncommon
+"Fake Your Own Death";"Tod vortäuschen";2;en;0,05;"otj";common
+"Corrupted Conviction";"Verdorbene Überzeugung";1;en;0,10;"otj";common
+"Insatiable Avarice";"Unstillbare Habgier";1;en;4,05;"otj";rare
 "Overwhelming Forces";"Übermächtige Streitkraft";8;en;;"otp";mythic
-"Rush of Dread";"Angstrausch";3;en;0,59;"otj";rare
+"Rush of Dread";"Angstrausch";3;en;0,55;"otj";rare
 "Pitiless Carnage";"Erbarmungsloses Gemetzel";4;en;0,23;"otj";rare
-"Rush of Dread";"Angstrausch";3;en;0,59;"otj";rare
-"Exhume";"Exhumierer des Skirk-Gebirges";2;en;5,27;"jmp";uncommon
-"Read the Bones";"Aus den Knochen lesen";3;en;0,37;"moc";common
-"Bone Splinters";"Knochenspreißel";1;en;0,07;"ddn";common
-"Graveyard Shift";"Friedhofsdienst";5;en;0,11;"snc";uncommon
-"Painful Lesson";"Schmerzhafte Lektion";3;en;0,12;"bbd";common
+"Rush of Dread";"Angstrausch";3;en;0,55;"otj";rare
+"Exhume";"Exhumierer des Skirk-Gebirges";2;en;5,02;"jmp";uncommon
+"Read the Bones";"Aus den Knochen lesen";3;en;0,27;"moc";common
+"Bone Splinters";"Knochenspreißel";1;en;0,09;"ddn";common
+"Graveyard Shift";"Friedhofsdienst";5;en;0,12;"snc";uncommon
+"Painful Lesson";"Schmerzhafte Lektion";3;en;0,14;"bbd";common
 "Feed the Swarm";"Futter für den Schwarm";2;en;0,24;"znr";common
-"Smallpox";"Blattern";2;en;0,23;"cns";uncommon
-"Blood for Bones";"Blut für Knochen";4;en;0,24;"m20";uncommon
-"Go Blank";"Gedankenaussetzer";3;en;0,49;"stx";uncommon
-"Diabolic Tutor";"Teuflischer Lehrmeister";4;en;0,41;"m14";uncommon
-"Ambition's Cost";"Preis des Ehrgeizes";4;en;0,22;"khc";uncommon
-"Damnable Pact";"Schändlicher Pakt";2;en;0,18;"c21";rare
-"Kindred Dominance";"Vorherrschaft der Sippe";7;en;7,01;"woc";rare
-"Dredge the Mire";"Morast umgraben";4;en;0,21;"c20";rare
-"Deadly Tempest";"Tödlicher Sturmwind";6;en;0,58;"c20";rare
-"Infernal Grasp";"Höllischer Griff";2;en;1,27;"mid";uncommon
-"Dark Ritual";"Schwarzer Ritus";1;en;4,69;"a25";common
-"Cast Down";"Niederschlagen";2;en;0,46;"dom";uncommon
-"You Are Already Dead";"Du bist bereits tot";1;en;0,07;"neo";common
-"Village Rites";"Dorfrituale";1;en;0,31;"sta";uncommon
-"Pile On";"Helmspecht-Versorger";4;en;0,48;"mom";rare
+"Smallpox";"Blattern";2;en;0,22;"cns";uncommon
+"Blood for Bones";"Blut für Knochen";4;en;0,41;"m20";uncommon
+"Go Blank";"Gedankenaussetzer";3;en;0,65;"stx";uncommon
+"Diabolic Tutor";"Teuflischer Lehrmeister";4;en;0,23;"m14";uncommon
+"Ambition's Cost";"Preis des Ehrgeizes";4;en;0,18;"khc";uncommon
+"Damnable Pact";"Schändlicher Pakt";2;en;0,27;"c21";rare
+"Kindred Dominance";"Vorherrschaft der Sippe";7;en;6,51;"woc";rare
+"Dredge the Mire";"Morast umgraben";4;en;0,17;"c20";rare
+"Deadly Tempest";"Tödlicher Sturmwind";6;en;0,56;"c20";rare
+"Infernal Grasp";"Höllischer Griff";2;en;1,16;"mid";uncommon
+"Dark Ritual";"Schwarzer Ritus";1;en;4,35;"a25";common
+"Cast Down";"Niederschlagen";2;en;0,44;"dom";uncommon
+"You Are Already Dead";"Du bist bereits tot";1;en;0,11;"neo";common
+"Village Rites";"Dorfrituale";1;en;0,23;"sta";uncommon
+"Pile On";"Helmspecht-Versorger";4;en;0,35;"mom";rare
 "Stinging Study";"Stechendes Studium";5;en;5,18;"c21";rare
-"Black Sun's Twilight";"Dämmerung der Schwarzen Sonne";1;en;0,30;"one";rare
-"Deadly Dispute";"Tödlicher Disput";2;en;1,83;"clb";common
-"Reckless Spite";"Skrupelloser Wahn";3;en;0,10;"woc";uncommon
-"Sickening Shoal";"Krankmachender Schwarm";2;en;1,86;"bok";rare
-"Homicide Investigator";"Mordinspektorin";2;en;0,17;"mkm";rare
-"Extract a Confession";"Ein Geständnis entlocken";2;en;0,14;"mkm";common
-"Snarling Gorehound";"Knurrender Bluthund";1;en;0,10;"mkm";common
-"Outrageous Robbery";"Unverschämte Räuberei";2;en;0,45;"mkm";rare
-"Victimize";"Ausschlachten";3;en;0,63;"cmr";uncommon
-"Tragic Slip";"Tragischer Ausrutscher";1;en;0,41;"dka";common
-"Ghastly Demise";"Grausiges Ableben";1;en;0,07;"cmr";common
-"";"Ausgewählter der Ahnfrau";0;;;"";
-"Reverse the Sands";"Die Sanduhr umdrehen";8;en;0,32;"c16";rare
-"Planar Cleansing";"Weltenreinigung";6;en;0,25;"m14";rare
-"Bovine Intervention";"Aua-Ochse";2;en;0,17;"otj";uncommon
-"Claim Jumper";"Landräuber";3;en;0,74;"otj";rare
-"Another Round";"Noch eine Runde";3;en;0,21;"otj";rare
-"Swords to Plowshares";"Schwerter zu Pflugscharen";1;en;0,99;"moc";uncommon
-"Path to Exile";"Weg ins Exil";1;en;0,74;"moc";uncommon
-"Mentor of the Meek";"Mentor der Sanften";3;en;0,21;"onc";rare
-"Generous Gift";"Großzügiges Geschenk";3;en;0,59;"onc";uncommon
-"Hour of Reckoning";"Stunde der Abrechnung";7;en;0,22;"onc";rare
-"Tocasia's Welcome";"Tocasias Begrüßung";3;en;3,51;"bro";rare
-"Clever Concealment";"Kluge Tarnung";4;en;12,13;"onc";rare
-"Collective Effort";"Vereinte Kräfte";3;en;0,20;"onc";rare
-"Cut a Deal";"Geschäft abschließen";3;en;0,18;"onc";uncommon
-"Martial Coup";"Kriegscoup";2;en;0,18;"onc";rare
-"Felidar Retreat";"Felidar-Zuflucht";4;en;0,83;"onc";rare
-"Flawless Maneuver";"Beispielloses Manöver";3;en;9,73;"onc";rare
-"Finale of Glory";"Finale des Ruhms";2;en;0,54;"onc";mythic
-"Path to Exile";"Weg ins Exil";1;en;0,69;"onc";uncommon
-"Vanquish the Horde";"Sieg über die Horde";8;en;3,09;"mid";rare
-"Unyielding Gatekeeper";"Unnachgiebiger Torwächter";2;en;0,14;"mkm";rare
+"Black Sun's Twilight";"Dämmerung der Schwarzen Sonne";1;en;0,43;"one";rare
+"Deadly Dispute";"Tödlicher Disput";2;en;1,78;"clb";common
+"Reckless Spite";"Skrupelloser Wahn";3;en;0,06;"woc";uncommon
+"Sickening Shoal";"Krankmachender Schwarm";2;en;1,76;"bok";rare
+"Homicide Investigator";"Mordinspektorin";2;en;0,11;"mkm";rare
+"Extract a Confession";"Ein Geständnis entlocken";2;en;0,10;"mkm";common
+"Snarling Gorehound";"Knurrender Bluthund";1;en;0,11;"mkm";common
+"Outrageous Robbery";"Unverschämte Räuberei";2;en;0,33;"mkm";rare
+"Victimize";"Ausschlachten";3;en;0,46;"cmr";uncommon
+"Tragic Slip";"Tragischer Ausrutscher";1;en;0,29;"dka";common
+"Ghastly Demise";"Grausiges Ableben";1;en;0,11;"cmr";common
+"Oltec Matterweaver";"Oltec-Materieweber";3;en;;"pw24";mythic
+"Reverse the Sands";"Die Sanduhr umdrehen";8;en;0,29;"c16";rare
+"Planar Cleansing";"Weltenreinigung";6;en;0,31;"m14";rare
+"Bovine Intervention";"Aua-Ochse";2;en;0,19;"otj";uncommon
+"Claim Jumper";"Landräuber";3;en;0,58;"otj";rare
+"Another Round";"Noch eine Runde";3;en;0,26;"otj";rare
+"Swords to Plowshares";"Schwerter zu Pflugscharen";1;en;1,07;"moc";uncommon
+"Path to Exile";"Weg ins Exil";1;en;0,89;"moc";uncommon
+"Mentor of the Meek";"Mentor der Sanften";3;en;0,15;"onc";rare
+"Generous Gift";"Großzügiges Geschenk";3;en;0,53;"onc";uncommon
+"Hour of Reckoning";"Stunde der Abrechnung";7;en;0,19;"onc";rare
+"Tocasia's Welcome";"Tocasias Begrüßung";3;en;3,84;"bro";rare
+"Clever Concealment";"Kluge Tarnung";4;en;12,61;"onc";rare
+"Collective Effort";"Vereinte Kräfte";3;en;0,21;"onc";rare
+"Cut a Deal";"Geschäft abschließen";3;en;0,21;"onc";uncommon
+"Martial Coup";"Kriegscoup";2;en;0,13;"onc";rare
+"Felidar Retreat";"Felidar-Zuflucht";4;en;0,78;"onc";rare
+"Flawless Maneuver";"Beispielloses Manöver";3;en;9,25;"onc";rare
+"Finale of Glory";"Finale des Ruhms";2;en;0,44;"onc";mythic
+"Path to Exile";"Weg ins Exil";1;en;0,73;"onc";uncommon
+"Vanquish the Horde";"Sieg über die Horde";8;en;3,11;"mid";rare
+"Unyielding Gatekeeper";"Unnachgiebiger Torwächter";2;en;0,16;"mkm";rare
 "Wojek Investigator";"Wojek-Ermittlerin";3;en;0,02;"mkm";rare
-"Unbreakable Formation";"Unzerstörbare Formation";3;en;0,31;"moc";rare
-"Loyal Warhound";"Loyaler Kriegshund";2;en;0,44;"afr";rare
-"Glory";"Ruhmschuppen-Viashino";5;en;0,25;"dmr";rare
-"Everything Comes to Dust";"Jeder wird zu Staub";10;en;1,35;"who";rare
-"Masako the Humorless";"Masako die Humorlose";3;en;1,39;"chk";rare
-"Felidar Sovereign";"Felidar-Herrscher";6;en;1,06;"bfz";rare
-"Grand Abolisher";"Großer Abschaffer";2;en;5,89;"e01";rare
-"Loyal Unicorn";"Loyales Einhorn";4;en;0,25;"c18";uncommon
-"Selfless Savior";"Selbstloser Retter";1;en;0,27;"m21";uncommon
+"Unbreakable Formation";"Unzerstörbare Formation";3;en;0,30;"moc";rare
+"Loyal Warhound";"Loyaler Kriegshund";2;en;0,38;"afr";rare
+"Glory";"Ruhmschuppen-Viashino";5;en;0,27;"dmr";rare
+"Everything Comes to Dust";"Jeder wird zu Staub";10;en;1,58;"who";rare
+"Masako the Humorless";"Masako die Humorlose";3;en;2,26;"chk";rare
+"Felidar Sovereign";"Felidar-Herrscher";6;en;1,22;"bfz";rare
+"Grand Abolisher";"Großer Abschaffer";2;en;5,86;"e01";rare
+"Loyal Unicorn";"Loyales Einhorn";4;en;0,23;"c18";uncommon
+"Selfless Savior";"Selbstloser Retter";1;en;0,24;"m21";uncommon
 "Eidolon of Rhetoric";"Eidolon der Redekunst";3;en;;"plst";uncommon
-"Moon-Blessed Cleric";"Mondgesegnete Klerikerin";3;en;0,70;"afr";uncommon
-"Defiler of Faith";"Verseucher des Glaubens";5;en;0,35;"dmu";rare
-"Windborn Muse";"Muse des Windgeflüsters";4;en;0,35;"c21";rare
-"Mirror Entity";"Spiegelwesen";3;en;0,63;"c16";rare
-"Keeper of the Accord";"Hüter des Einklangs";4;en;0,53;"cmr";rare
-"Deafening Silence";"Ohrenbetäubende Stille";1;en;1,13;"eld";uncommon
+"Moon-Blessed Cleric";"Mondgesegnete Klerikerin";3;en;0,84;"afr";uncommon
+"Defiler of Faith";"Verseucher des Glaubens";5;en;0,34;"dmu";rare
+"Windborn Muse";"Muse des Windgeflüsters";4;en;0,28;"c21";rare
+"Mirror Entity";"Spiegelwesen";3;en;0,61;"c16";rare
+"Keeper of the Accord";"Hüter des Einklangs";4;en;0,36;"cmr";rare
+"Deafening Silence";"Ohrenbetäubende Stille";1;en;1,24;"eld";uncommon
 "Intangible Virtue";"Unangreifbare Tugend";2;en;0,21;"c19";uncommon
-"Ghostly Prison";"Gespenstisches Gefängnis";3;en;2,51;"c19";uncommon
-"Blind Obedience";"Blinder Gehorsam";2;en;2,35;"c16";rare
-"Nine Lives";"Neun Leben";3;en;0,38;"m21";rare
-"Sigarda's Aid";"Sigardas Hilfe";1;en;8,53;"emn";rare
-"Glorious Anthem";"Glorreiche Hymne";3;en;0,39;"9ed";rare
-"Radiant Destiny";"Strahlende Verheißung";3;en;0,10;"rix";rare
+"Ghostly Prison";"Gespenstisches Gefängnis";3;en;2,44;"c19";uncommon
+"Blind Obedience";"Blinder Gehorsam";2;en;2,09;"c16";rare
+"Nine Lives";"Neun Leben";3;en;0,35;"m21";rare
+"Sigarda's Aid";"Sigardas Hilfe";1;en;8,33;"emn";rare
+"Glorious Anthem";"Glorreiche Hymne";3;en;0,34;"9ed";rare
+"Radiant Destiny";"Strahlende Verheißung";3;en;0,27;"rix";rare
 "Rally the Ranks";"Zusammenkunft der Krieger";2;en;0,20;"khm";rare
-"Kismet";"Kismet";4;en;0,37;"5ed";uncommon
-"Authority of the Consuls";"Autorität der Konsuln";1;en;8,89;"kld";rare
-"Aura of Silence";"Aura des Schweigens";3;en;3,38;"c15";uncommon
-"Cut a Deal";"Geschäft abschließen";3;en;0,24;"clb";uncommon
-"Revoke Existence";"Existenz aberkennen";2;en;0,12;"bng";common
-"Makindi Stampede // Makindi Mesas";"undefined";5;en;0,15;"znr";uncommon
-"Planar Cleansing";"Weltenreinigung";6;en;0,28;"m13";rare
-"Doomskar";"Doomskar";5;en;0,84;"khm";rare
-"Approach of the Second Sun";"Herannahen der zweiten Sonne";7;en;1,30;"akh";rare
-"Akroma's Vengeance";"Akromas Rache";6;en;0,28;"c20";rare
-"Promise of Loyalty";"Treueversprechen";5;en;0,30;"moc";rare
-"Faceless One";"Der Gesichtslose";5;en;0,10;"clb";special
-"Storm Herd";"Sturmherde";10;en;0,29;"c19";rare
-"Martial Coup";"Kriegscoup";2;en;0,30;"c18";rare
-"Descend upon the Sinful";"Sturzflug auf die Sünder";6;en;0,27;"c20";mythic
-"Slaughter the Strong";"Die Starken metzeln";3;en;0,54;"rix";rare
-"Phyrexian Rebirth";"Phyrexianische Wiedergeburt";6;en;0,21;"c19";rare
-"Idyllic Tutor";"Idyllischer Lehrmeister";3;en;3,75;"thb";rare
+"Kismet";"Kismet";4;en;0,26;"5ed";uncommon
+"Authority of the Consuls";"Autorität der Konsuln";1;en;9,78;"kld";rare
+"Aura of Silence";"Aura des Schweigens";3;en;3,15;"c15";uncommon
+"Cut a Deal";"Geschäft abschließen";3;en;0,18;"clb";uncommon
+"Revoke Existence";"Existenz aberkennen";2;en;0,11;"bng";common
+"Makindi Stampede // Makindi Mesas";"";5;en;0,11;"znr";uncommon
+"Planar Cleansing";"Weltenreinigung";6;en;0,25;"m13";rare
+"Doomskar";"Doomskar";5;en;1,17;"khm";rare
+"Approach of the Second Sun";"Herannahen der zweiten Sonne";7;en;1,42;"akh";rare
+"Akroma's Vengeance";"Akromas Rache";6;en;0,31;"c20";rare
+"Promise of Loyalty";"Treueversprechen";5;en;0,29;"moc";rare
+"EMPTY";"Kannushi des leeren Schreins";0;;;"";
+"Storm Herd";"Sturmherde";10;en;0,21;"c19";rare
+"Martial Coup";"Kriegscoup";2;en;0,29;"c18";rare
+"Descend upon the Sinful";"Sturzflug auf die Sünder";6;en;0,34;"c20";mythic
+"Slaughter the Strong";"Die Starken metzeln";3;en;0,37;"rix";rare
+"Phyrexian Rebirth";"Phyrexianische Wiedergeburt";6;en;0,18;"c19";rare
+"Idyllic Tutor";"Idyllischer Lehrmeister";3;en;3,80;"thb";rare
 "Austere Command";"Nüchterner Befehl";6;en;0,56;"clb";rare
-"Entreat the Angels";"Anrufung der Engel";3;en;1,33;"c18";mythic
-"Wrath of God";"Zorn Gottes";4;en;2,84;"5ed";rare
-"Terminus";"Endpunkt";6;en;0,90;"c18";rare
-"Dismantling Wave";"Zerlegende Welle";3;en;0,64;"c20";rare
-"Fumigate";"Ausräuchern";5;en;0,31;"kld";rare
-"Farewell";"Abschied";6;en;4,96;"neo";rare
-"Boreas Charger";"Boreas-Streitross";3;en;0,29;"c18";rare
-"Dawn Charm";"Amulett der Dämmerung";2;en;0,64;"uma";uncommon
-"Return to Dust";"Zu Staub zurückkehren";4;en;0,10;"moc";uncommon
-"Your Temple Is Under Attack";"Dein Tempel wird angegriffen";3;en;0,22;"clb";common
-"Stroke of Midnight";"Es schlägt Mitternacht";3;en;1,29;"woe";uncommon
-"Angelic Ascension";"Engelhafter Aufstieg";2;en;0,06;"m21";uncommon
-"Afterlife";"Tor zum Jenseits";3;en;0,11;"c14";uncommon
-"Rebuff the Wicked";"Zurückweisung der Bösen";1;en;1,78;"plc";uncommon
-"Rootborn Defenses";"Verwurzelter Verteidiger";3;en;0,14;"rtr";common
-"Wing Shards";"Flügelscherben";3;en;0,05;"mh1";uncommon
-"Condemn";"Verdammen";1;en;0,16;"c17";uncommon
-"Calamity's Wake";"Spuren der Verheerung";2;en;0,12;"bro";uncommon
-"Disenchant";"Entzauberung";2;en;0,08;"ima";common
-"Crib Swap";"Wechselbalg";3;en;0,13;"clb";common
-"Generous Gift";"Großzügiges Geschenk";3;en;0,42;"cmm";common
-"Mana Tithe";"Manazehnt";1;en;0,78;"sta";rare
-"Get Lost";"Das Weite suchen";2;en;6,18;"lci";rare
-"Flawless Maneuver";"Beispielloses Manöver";3;en;10,08;"c20";rare
-"Make a Stand";"Widerstand leisten";3;en;0,13;"cmr";uncommon
-"Tragic Arrogance";"Tragische Arroganz";5;en;0,84;"ori";rare
+"Entreat the Angels";"Anrufung der Engel";3;en;1,32;"c18";mythic
+"Wrath of God";"Zorn Gottes";4;en;2,76;"5ed";rare
+"Terminus";"Endpunkt";6;en;1,26;"c18";rare
+"Dismantling Wave";"Zerlegende Welle";3;en;0,65;"c20";rare
+"Fumigate";"Ausräuchern";5;en;0,27;"kld";rare
+"Farewell";"Abschied";6;en;4,90;"neo";rare
+"Entrapment Maneuver";"Fallensteller-Manöver";4;en;0,96;"c16";rare
+"Dawn Charm";"Amulett der Dämmerung";2;en;0,50;"uma";uncommon
+"Return to Dust";"Zu Staub zurückkehren";4;en;0,07;"moc";uncommon
+"Your Temple Is Under Attack";"Dein Tempel wird angegriffen";3;en;0,18;"clb";common
+"Stroke of Midnight";"Es schlägt Mitternacht";3;en;1,24;"woe";uncommon
+"Angelic Ascension";"Engelhafter Aufstieg";2;en;0,16;"m21";uncommon
+"Afterlife";"Tor zum Jenseits";3;en;0,09;"c14";uncommon
+"Rebuff the Wicked";"Zurückweisung der Bösen";1;en;1,85;"plc";uncommon
+"Rootborn Defenses";"Verwurzelter Verteidiger";3;en;0,15;"rtr";common
+"Wing Shards";"Flügelscherben";3;en;0,12;"mh1";uncommon
+"Condemn";"Verdammen";1;en;0,15;"c17";uncommon
+"Calamity's Wake";"Spuren der Verheerung";2;en;0,13;"bro";uncommon
+"Disenchant";"Entzauberung";2;en;0,07;"ima";common
+"Crib Swap";"Wechselbalg";3;en;0,09;"clb";common
+"Generous Gift";"Großzügiges Geschenk";3;en;0,35;"cmm";common
+"Mana Tithe";"Manazehnt";1;en;0,84;"sta";rare
+"Get Lost";"Das Weite suchen";2;en;6,26;"lci";rare
+"Flawless Maneuver";"Beispielloses Manöver";3;en;10,02;"c20";rare
+"Make a Stand";"Widerstand leisten";3;en;0,16;"cmr";uncommon
+"Tragic Arrogance";"Tragische Arroganz";5;en;0,79;"ori";rare
 "Novice Inspector";"Inspektor-Neuling";1;en;0,32;"mkm";common
-"Forum Familiar";"Forum-Vertrauter";1;en;0,08;"mkm";uncommon
-"Steppe Lynx";"Steppenluchs";1;en;0,14;"zen";common
+"Forum Familiar";"Forum-Vertrauter";1;en;0,06;"mkm";uncommon
+"Steppe Lynx";"Steppenluchs";1;en;0,25;"zen";common
+"Warstorm Surge";"Anschwellender Kriegssturm";6;en;0,34;"clb";rare
+"Chain Reaction";"Kettenreaktion";4;en;0,29;"onc";rare
+"Mizzium Mortars";"Mizziummörser";2;en;0,26;"clb";rare
+"Valakut Awakening // Valakut Stoneforge";"";3;en;7,12;"znr";rare
+"Zada, Hedron Grinder";"Zada, Polyederschleiferin";4;en;0,25;"a25";uncommon
+"Wild Ricochet";"Wilder Querschläger";4;en;0,25;"m14";rare
+"Thunder Salvo";"Donnersalve";2;en;0,03;"otj";common
+"Scalding Viper // Steam Clean";"";2;en;0,41;"woe";rare
+"Skewer the Critics";"Den Spieß umdrehen";3;en;0,09;"otp";uncommon
+"Great Train Heist";"Großer Eisenbahnraub";1;en;1,92;"otj";rare
+"Galvanize";"Galvanisieren";2;en;0,07;"mkm";common
+"Felonious Rage";"Verbrecherische Raserei";1;en;0,12;"mkm";common
+"Crime Novelist";"Kriminalschriftstellerin";3;en;0,85;"mkm";uncommon
+"Expedited Inheritance";"Beschleunigte Erbschaft";2;en;0,40;"mkm";mythic
+"Blazing Volley";"Glühender Pfeilhagel";1;en;0,09;"akh";common
+"Urabrask the Hidden";"Urabrask der Versteckte";5;en;0,78;"clb";mythic
+"Birgi, God of Storytelling // Harnfel, Horn of Bounty";"";3;en;12,34;"khm";rare
+"Zo-Zu the Punisher";"Zo-Zu der Bestrafer";3;en;4,74;"dds";rare
+"Young Pyromancer";"Junger Pyromagier";2;en;0,32;"m14";uncommon
+"Firebrand Archer";"Flammenpfeil-Bogenschützin";2;en;0,85;"hou";common
+"Harsh Mentor";"Harscher Mentor";2;en;0,71;"akh";rare
+"Mountain Goat";"Bergziege";1;en;0,19;"5ed";common
+"Electrostatic Field";"Elektrostatisches Feld";2;en;0,88;"grn";uncommon
+"Magus of the Wheel";"Magus des Rads";3;en;0,71;"a25";rare
+"Anger";"Unkontrollierbarer Zorn";4;en;1,84;"uma";uncommon
+"Archetype of Aggression";"Sinnbild der Aggression";3;en;0,49;"bng";uncommon
+"Goblin Bombardment";"Goblin-Bombardierung";2;en;1,23;"ddn";uncommon
+"Pyrohemia";"Pyrohämie";4;en;7,92;"plc";uncommon
+"Virtue of Courage // Embereth Blaze";"";5;en;1,99;"woe";mythic
+"Breath of Fury";"Zorniger Atem";4;en;7,12;"c16";rare
+"Curse of Opulence";"Fluch des Reichtums";1;en;1,31;"c17";uncommon
+"Jaya's Immolating Inferno";"Jayas brennendes Inferno";2;en;0,37;"dom";rare
+"By Force";"Mit Gewalt";1;en;0,74;"akh";uncommon
+"Structural Assault";"Angriff auf die Bausubstanz";5;en;0,11;"snc";rare
+"Devil's Play";"Teufelsspiel";1;en;0,17;"c19";rare
+"Shattered Perception";"Zerbrochene Vorstellungen";3;en;0,25;"dka";uncommon
+"Mana Geyser";"Manageysir";5;en;1,29;"5dn";common
+"Collective Defiance";"Vereinter Widerstand";3;en;0,27;"emn";rare
+"Harmless Offering";"Harmloses Präsent";3;en;0,33;"emn";rare
+"Light Up the Stage";"In Szene setzen";3;en;0,22;"rna";uncommon
+"Reckless Impulse";"Verwegener Impuls";2;en;1,67;"vow";common
+"Blasphemous Act";"Blasphemische Tat";9;en;2,15;"c18";rare
+"Soulfire Eruption";"Seelenfeuer-Eruption";9;en;0,72;"cmr";mythic
+"Khorvath's Fury";"";5;en;1,65;"bbd";rare
+"Into the Fire";"Ins Feuer geworfen";3;en;0,25;"mom";rare
+"Irencrag Feat";"Eisenfels-Großtat";4;en;0,29;"eld";rare
+"Fury of the Horde";"Wut der Horde";7;en;1,98;"ddn";rare
+"Apex of Power";"Gipfel der Macht";10;en;0,33;"m19";mythic
+"Banefire";"Bannfeuer";1;en;0,61;"m19";rare
+"Change of Fortune";"Schicksalswende";4;en;0,18;"vow";rare
+"Burn from Within";"Von innen verbrennen";1;en;0,11;"soi";rare
+"Disrupt Decorum";"Verstoß gegen die Etikette";4;en;0,48;"afc";rare
+"Insurrection";"Aufruhr";8;en;4,51;"ons";rare
+"Raze the Effigy";"Zerstörung des Abbilds";1;en;0,11;"mid";common
+"Abrade";"Aufscheuern";2;en;0,09;"lci";common
+"Pyretic Ritual";"Pyretisches Ritual";2;en;;"plst";common
+"Smash to Smithereens";"In Stückchen zerschmettern";2;en;0,27;"ori";common
+"Red Elemental Blast";"Roter Urknall";1;en;3,46;"3ed";common
+"Shock";"Schock";1;en;0,10;"m14";common
+"Ricochet Trap";"Querschläger-Falle";4;en;0,38;"wwk";uncommon
+"Thrill of Possibility";"Verlockung der Möglichkeiten";2;en;0,04;"m21";common
+"Lightning Bolt";"Blitzschlag";1;en;1,28;"clb";common
+"Fury Storm";"Kolaghan, Zorn der Stürme";4;en;4,05;"c18";rare
+"Reverberate";"Nachhallen";2;en;1,19;"m11";rare
+"Fateful Showdown";"Schicksalsträchtige Machtprobe";4;en;0,25;"kld";rare
+"Commune with Lava";"Zwiesprache mit der Lava";2;en;0,27;"dtk";rare
+"Divergent Transformations";"Abweichende Transformationen";7;en;1,04;"c16";rare
+"Shunt";"Beiseiteschieben";3;en;0,30;"dst";rare
+"Increasing Vengeance";"Zunehmende Rache";2;en;0,58;"c19";rare
+"Reiterate";"Ständige Wiederholung";3;en;1,62;"tsr";rare
+"Pyroblast";"Pyroknall";1;en;;"pw23";rare
+"March of Reckless Joy";"Prozession der unbändigen Freude";1;en;0,21;"neo";rare
+"Price of Progress";"Preis des Fortschritts";2;en;4,48;"ema";uncommon
+"Seize the Day";"Carpe Diem";4;en;5,57;"ody";rare
+"Cathartic Pyre";"Reinigender Scheiterhaufen";2;en;0,21;"mid";uncommon
+"Relentless Assault";"Unnachgiebiger Ansturm";4;en;3,02;"cmr";rare
+"Tormenting Voice";"Quälende Stimme";2;en;0,06;"soi";common
+"Kogla, the Titan Ape";"Kogla der Affentitan";6;en;3,15;"iko";rare
+"Railway Brawler";"Eisenbahn-Raufbold";5;en;5,86;"otj";mythic
+"Jiang Yanggu, Wildcrafter";"Jiang Yanggu, Wildnisformer";3;en;0,23;"war";uncommon
+"Colossification";"Kolossifizierung";7;en;0,49;"iko";rare
+"Colossal Rattlewurm";"Kolossaler Klapperwurm";4;en;0,30;"otj";rare
+"Ornery Tumblewagg";"Störrischer Steppenköter";3;en;0,23;"otj";rare
+"Pest Infestation";"Schädlingsbefall";1;en;0,64;"otp";rare
+"Time of Need";"Zeit der Not";2;en;0,78;"chk";uncommon
+"Vivien's Arkbow";"Viviens Essenzbogen";2;en;0,14;"war";rare
+"Reki, the History of Kamigawa";"Reki, die Geschichte Kamigawas";3;en;;"plst";rare
+"Dosan the Falling Leaf";"Dosan, das fallende Blatt";3;en;7,33;"chk";rare
+"Jolrael, Mwonvuli Recluse";"Jolrael, Mwonvuli-Einsiedlerin";2;en;0,18;"m21";rare
+"Hua Tuo, Honored Physician";"Hua Tuo, Geachteter Mediziner";3;en;0,50;"c13";rare
+"Kolvori, God of Kinship // The Ringhart Crest";"";4;en;0,26;"khm";rare
+"Arasta of the Endless Web";"Arasta die Endlos-Weberin";4;en;0,35;"thb";rare
+"Shisato, Whispering Hunter";"Shisato, flüsternde Jägerin";4;en;0,35;"chk";rare
+"Isao, Enlightened Bushi";"Isao, Erleuchteter Bushi";3;en;0,63;"bok";rare
+"Sakiko, Mother of Summer";"Sakiko, Mutter des Sommers";6;en;0,60;"bok";rare
+"Kami of Empty Graves";"Kami der leeren Gräber";4;en;0,07;"sok";common
+"Mowu, Loyal Companion";"Mowu, treuer Begleiter";4;en;0,11;"war";uncommon
+"Syr Faren, the Hengehammer";"Syr Faren, Hammer des Steinkreises";2;en;0,14;"eld";uncommon
+"Baru, Wurmspeaker";"Baru der Wurmflüsterer";4;en;0,41;"dmc";rare
+"Anara, Wolvid Familiar";"Anara, Wolfid-Vertraute";4;en;0,17;"cmr";uncommon
+"Nissa, Vastwood Seer // Nissa, Sage Animist";"";3;en;4,39;"ori";mythic
+"Yeva, Nature's Herald";"Yeva, die Botin der Natur";4;en;1,11;"ddu";rare
+"Azusa, Lost but Seeking";"Azusa die Suchende";3;en;4,59;"m21";rare
+"Omnath, Locus of Mana";"Omnath, der Sammelpunkt des Manas";3;en;1,67;"wwk";mythic
+"Selvala, Heart of the Wilds";"Selvala, Herz der Wildnis";3;en;8,48;"cn2";mythic
+"Nylea, God of the Hunt";"Nylea, Göttin der Jagd";4;en;6,55;"ths";mythic
+"Toski, Bearer of Secrets";"Toski, Träger der Geheimnisse";4;en;4,67;"khm";rare
+"Nissa, Who Shakes the World";"Nissa, Erschütterin der Welt";5;en;2,44;"war";rare
+"Viridian Shaman";"Viridischer Schamane";3;en;0,09;"ddu";uncommon
+"Manglehorn";"Malmhorn";3;en;0,33;"akh";uncommon
+"Sakura-Tribe Elder";"Ältester des Sakura-Stamms";2;en;0,87;"c16";common
+"Ilysian Caryatid";"Ilysischer Karyatide";2;en;0,12;"thb";common
+"Karametra's Acolyte";"Tempeldienerin der Karametra";4;en;0,44;"ths";uncommon
+"Paragon of Eternal Wilds";"Inbild der ewigen Wildnis";4;en;0,07;"m15";uncommon
+"Archetype of Endurance";"Sinnbild der Zähigkeit";8;en;;"plst";uncommon
+"Wickerbough Elder";"Galgenast-Ältester";4;en;0,09;"uma";common
+"Ranger's Guile";"Arglist des Waldläufers";1;en;0,19;"isd";common
+"Whisperer of the Wilds";"Flüsterin der Wildnis";2;en;0,10;"2xm";common
+"Llanowar Elves";"Llanowarelfen";1;en;0,34;"4ed";common
+"Brawn";"Die Muskelkraft";4;en;0,16;"uma";uncommon
+"Whisperer of the Wilds";"Flüsterin der Wildnis";2;en;0,06;"frf";common
+"Patient Naturalist";"Geduldige Naturalistin";3;en;0,07;"otj";common
+"Bedrock Tortoise";"Felssohlenschildkröte";4;en;0,18;"lci";rare
+"Bane of Progress";"Verderber des Fortschritts";6;en;4,09;"cma";rare
+"Thunderfoot Baloth";"Donnernder Baloth";6;en;0,96;"c16";rare
+"Soul of the Harvest";"Seele der Ernte";6;en;1,07;"w16";rare
+"Mwonvuli Beast Tracker";"Mwonvuli-Bestienfängerin";3;en;0,31;"m13";uncommon
+"Garruk's Packleader";"Garruks Rudelführer";5;en;0,20;"m11";uncommon
+"Arbor Elf";"Lauben-Elf";1;en;0,30;"wwk";common
+"Intrepid Paleontologist";"Furchtlose Paläontologin";2;en;0,30;"lci";rare
+"Dryad Arbor";"Laube der Dryaden";0;en;3,30;"tsr";rare
+"Soul's Majesty";"Majestät der Seele";5;en;0,92;"c17";rare
+"Triumph of the Hordes";"Triumph der Horden";4;en;12,03;"nph";uncommon
+"Overwhelming Stampede";"Überwältigender Ansturm";5;en;2,98;"c19";rare
+"Genesis Storm";"Genesissturm";6;en;0,33;"c18";rare
+"Creeping Renaissance";"Kriechende Wiedergeburt";5;en;0,60;"c18";rare
+"Green Sun's Zenith";"Zenit der Grünen Sonne";1;en;;"v13";mythic
+"Turntimber Symbiosis // Turntimber, Serpentine Wood";"";7;en;2,94;"znr";mythic
+"Selvala's Stampede";"";6;en;6,70;"cn2";rare
+"Road of Return";"Weg der Wiederkehr";2;en;0,57;"c19";rare
+"Explosive Vegetation";"Explosive Vegetation";4;en;0,29;"cn2";uncommon
+"Rabid Bite";"Tollwütiger Biss";2;en;0,03;"znr";common
+"Retrieve";"Myr-Wiederholer";3;en;0,07;"vow";uncommon
+"Skyshroud Claim";"Anspruch des Wolkenwaldes";4;en;1,72;"bbd";common
+"Overcome";"Niederreiten";5;en;0,09;"m20";uncommon
+"Overrun";"Überrennen";5;en;0,40;"tmp";uncommon
+"Commune with Nature";"Kommunikation mit der Natur";1;en;0,07;"chk";common
+"Aggressive Instinct";"";2;en;0,18;"gs1";common
+"Atraxa's Fall";"Atraxas Fall";2;en;0,15;"mom";common
+"Shamanic Revelation";"Schamanische Offenbarung";5;en;0,43;"frf";rare
+"Primal Surge";"Urwoge";10;en;3,77;"avr";mythic
+"Hurricane";"Hurrikan";1;en;0,25;"10e";rare
+"Collective Unconscious";"Gemeinsames Bewusstsein";6;en;0,33;"c14";rare
+"Rishkar's Expertise";"Rishkars Expertise";6;en;1,50;"aer";rare
+"Glimpse of Nature";"Einblick in die Natur";1;en;5,90;"chk";rare
+"Oath of Nissa";"Nissas Eid";1;en;1,78;"ogw";rare
+"Growing Rites of Itlimoc // Itlimoc, Cradle of the Sun";"";3;en;3,57;"xln";rare
+"Vernal Bloom";"Beträchtliche Blüte";4;en;3,60;"usg";rare
+"Greater Good";"Größeres Wohl";4;en;5,83;"bbd";rare
+"Colossal Majesty";"Kolossale Erhabenheit";3;en;0,76;"m19";uncommon
+"Rites of Flourishing";"Rituale des Gedeihens";3;en;0,75;"c16";rare
+"Wilderness Reclamation";"Wilde Renaturierung";4;en;0,82;"rna";uncommon
+"Season of Growth";"Zeit des Wachstums";2;en;0,33;"m20";uncommon
+"Elemental Bond";"Elementarer Bund";3;en;5,43;"ori";uncommon
+"Garruk's Uprising";"Garruks Aufstand";3;en;0,68;"m21";uncommon
+"Exploration";"Erforschung";1;en;13,09;"2xm";rare
+"Vernal Equinox";"Frühlingssonnenwende";4;en;0,89;"mmq";rare
+"Frontier Siege";"Belagerung des Grenzlandes";4;en;0,42;"frf";rare
+"Beastmaster Ascension";"Aufstieg des Bändigers";3;en;3,05;"zen";rare
+"Heartbeat of Spring";"Herzschlag des Frühlings";3;en;1,13;"chk";rare
+"Ground Seal";"Bodensiegel";2;en;0,22;"c18";rare
+"Defense of the Heart";"Verteidigung des Herzens";4;en;7,52;"ulg";rare
+"Nature's Will";"Wille der Nature";4;en;2,88;"chk";rare
+"Zendikar Resurgent";"Zendikars Wiederaufleben";7;en;2,83;"c17";rare
+"Fertile Ground";"Fruchtbarer Boden";2;en;0,15;"c18";common
+"Mark of Sakiko";"Sakikos Mal";2;en;1,40;"bok";uncommon
+"Elemental Resonance";"Grundlegende Resonanz";4;en;0,57;"dis";rare
+"Bear Umbra";"Schattenhafter Bär";4;en;3,52;"c18";rare
+"Keen Sense";"Feines Gespür";1;en;1,13;"plc";uncommon
+"Overgrowth";"Übermäßiges Wachstum";3;en;0,29;"c18";common
+"Sixth Sense";"Sechster Sinn";1;en;0,16;"akh";uncommon
+"Snake Umbra";"Schattenhafte Ophis";3;en;0,24;"c18";common
+"Lignify";"Verholzen";2;en;0,99;"gvl";common
+"Dawn's Reflection";"Sonnenaufgangsspiegelung";4;en;0,22;"c18";common
+"Band Together";"Sich verbünden";3;en;0,10;"clb";common
+"Shared Summons";"Gemeinsame Beschwörung";5;en;1,48;"m20";rare
+"Return to Nature";"Rückkehr zur Natur";2;en;0,07;"eld";common
+"Krosan Grip";"Krosas Eingriff";3;en;0,49;"mma";uncommon
+"Eternal Witness";"Ewige Zeugin";3;en;0,98;"uma";uncommon
+"Kodama's Reach";"Zugriff des Kodamas";3;en;0,84;"clb";common
+"Loxodon Eavesdropper";"Loxodon-Lauscher";4;en;0,08;"mkm";common
+"Nervous Gardener";"Nervöse Gärtnerin";2;en;0,08;"mkm";common
+"Topiary Panther";"Topiari-Panther";6;en;0,05;"mkm";common
+"Tunnel Tipster";"Tunnelnder Tippgeber";2;en;0,17;"mkm";common
+"Primeval Bounty";"Urtümliche Belohnung";6;en;0,58;"clb";mythic
+"Archdruid's Charm";"Amulett des Erzdruiden";3;en;5,89;"mkm";rare
+"Get a Leg Up";"Auf die Sprünge helfen";1;en;0,12;"mkm";uncommon
+"Savage Summoning";"Wilde Beschwörung";1;en;0,44;"m14";rare
+"Return of the Wildspeaker";"Rückkehr des Wildsprechers";5;en;0,82;"clb";rare
+"End-Raze Forerunners";"Vorboten der Apokalypse";8;en;0,30;"clb";rare
+"Nature's Lore";"Naturgeheimnisse";2;en;1,38;"clb";common
+"Underdark Explorer";"Unterreich-Entdecker";5;en;0,19;"clb";common
+"Ezuri's Predation";"Ezuris Hetzjagd";8;en;0,56;"clb";rare
+"End-Raze Forerunners";"Vorboten der Apokalypse";8;en;0,31;"rna";rare
+"Scavenging Ooze";"Aasfressender Schlamm";2;en;0,45;"c16";rare
+"Incubation Druid";"Inkubationsdruidin";2;en;1,33;"rna";rare
+"Yenna, Redtooth Regent";"Yenna, Rotzahn-Regentin";4;en;0,54;"woe";rare
+"Dragonwing Glider";"Drachenschwingengleiter";5;en;0,13;"one";rare
+"Assemble the Legion";"Aufmarsch der Legion";5;en;0,13;"onc";rare
+"Defiant Vanguard";"Trotzende Vorhut";3;en;0,11;"tsb";special
+"Lightbringer";"Lichtbringer";3;en;0,13;"nem";common
+"Harmonious Archon";"Harmonischer Archon";6;en;0,16;"onc";mythic
+"Loyal Apprentice";"Loyaler Lehrling";2;en;0,45;"onc";uncommon
+"Adriana, Captain of the Guard";"Adriana, Hauptmann der Stadtwache";5;en;0,16;"onc";rare
+"Lawbringer";"Rechtsbringer";3;en;0,15;"nem";common
+"Goldwardens' Gambit";"Goldwehr-Gambit";8;en;0,26;"onc";rare
+"Bladehold War-Whip";"Kriegspeitsche der Klingenfeste";3;en;0,14;"one";uncommon
+"Myr Battlesphere";"Myr-Kampfkugel";7;en;0,19;"onc";rare
+"Cho-Manno, Revolutionary";"Cho-Manno";4;en;0,47;"mmq";rare
+"Knight of the Holy Nimbus";"Ritter des Heiligenscheins";2;en;0,16;"tsp";uncommon
+"Reveille Squad";"Alarmschwadron";4;en;0,29;"pcy";uncommon
+"Neyali, Suns' Vanguard";"Neyali, Vorhut der Sonnen";4;en;0,73;"onc";mythic
+"Glimmer Lens";"Glimmerlinse";2;en;0,44;"onc";rare
+"Court of Grace";"Hof der Anmut";4;en;0,67;"onc";rare
+"Emeria Angel";"Emerias Engel";4;en;0,21;"onc";rare
+"Prava of the Steel Legion";"Prava von der Stahllegion";3;en;0,21;"onc";uncommon
+"Idol of Oblivion";"Abgott der Vergessenheit";2;en;0,68;"onc";rare
+"Jor Kadeen, the Prevailer";"Jor Kadeen der Obwalter";5;en;0,09;"onc";rare
+"Legion Warboss";"Kriegsboss der Legion";3;en;0,43;"onc";rare
+"Staff of the Storyteller";"Stab des Geschichtenerzählers";2;en;2,87;"onc";rare
+"Mace of the Valiant";"Streitkolben des Recken";3;en;0,21;"onc";rare
+"Increasing Devotion";"Zunehmende Hingabe";5;en;0,16;"onc";rare
+"Roar of Resistance";"Gebrüll des Widerstands";2;en;0,56;"onc";rare
+"Battle Screech";"Kampfkreischen";4;en;0,12;"onc";uncommon
+"Hexplate Wallbreaker";"Hexplatten-Mauerbrecher";5;en;0,59;"onc";rare
+"Intangible Virtue";"Unangreifbare Tugend";2;en;0,12;"onc";uncommon
+"Call the Coppercoats";"Ruft die Kupferjacken";3;en;1,10;"onc";rare
+"Silverwing Squadron";"Silberschwingen-Schwadron";6;en;0,14;"onc";rare
+"Kemba's Banner";"Kembas Banner";4;en;0,24;"onc";rare
+"Vulshok Factory";"Vulshokfabrik";3;en;0,21;"onc";rare
+"Barbed Batterfist";"Gestachelte Schlagfaust";2;en;0,18;"one";common
+"Hordeling Outburst";"Hordling-Ansturm";3;en;0,19;"onc";uncommon
+"Goldnight Commander";"Goldnacht-Kommandant";4;en;0,16;"onc";uncommon
+"Otharri, Suns' Glory";"Otharri, Ruhm der Sonnen";5;en;0,76;"onc";mythic
+"Norn's Choirmaster";"Elesh Norns Chormeister";5;en;3,42;"onc";rare
+"Vega, the Watcher";"Vega der Beobachter";3;en;0,14;"khm";uncommon
+"Brago, King Eternal";"Brago, der ewige König";4;en;1,53;"khc";rare
+"Oji, the Exquisite Blade";"Oji, die Auserlesene Klinge";4;en;0,14;"clb";uncommon
+"Ranar the Ever-Watchful";"Ranar, der schlaflose Wächter";4;en;0,37;"khc";mythic
+"Yorion, Sky Nomad";"Yorion der Himmelsnomade";5;en;;"mul";rare
+"The Council of Four";"Der Viererrat";5;en;0,43;"clb";rare
+"Stoic Farmer";"Stoischer Bauer";4;en;0,18;"khc";rare
+"Angel of Finality";"Engel der Endgültigkeit";4;en;0,21;"khc";rare
+"Glorious Protector";"Glorreiche Beschützerin";4;en;0,25;"khm";rare
+"Ethereal Valkyrie";"Sphärenhafte Walküre";6;en;0,36;"khc";rare
+"Charming Prince";"Bezaubernder Prinz";2;en;1,50;"eld";rare
+"Deadeye Navigator";"Hohläugiger Navigator";6;en;5,56;"avr";rare
+"Champion of Wits";"Champion des Scharfsinns";3;en;0,19;"c21";rare
+"Amphin Mutineer";"Amphin-Meuterer";4;en;0,19;"cmr";rare
+"Aether Channeler";"Äther-Kanalisierer";3;en;0,52;"dmu";rare
+"Displacer Kitten";"Täuschungskätzchen";4;en;11,99;"clb";rare
+"Glasspool Mimic // Glasspool Shore";"";3;en;4,47;"znr";rare
+"Solemn Simulacrum";"Erhabenes Scheinbild";4;en;0,51;"c19";rare
+"Mistmeadow Witch";"Nebelwiesenhexe";2;en;0,14;"khc";uncommon
+"Soulherder";"Seelentreiber";3;en;0,70;"khc";uncommon
+"Cloudblazer";"Wolken-Wegbereiterin";5;en;0,13;"khc";uncommon
+"Flickerwisp";"Flimmerwisch";3;en;0,18;"khc";uncommon
+"Wall of Omens";"Mauer der Omen";2;en;0,30;"khc";uncommon
+"Cloud of Faeries";"Feenwolke";2;en;0,67;"ulg";common
+"Augur of Bolas";"Bolas' Augur";2;en;0,29;"war";uncommon
+"Watcher for Tomorrow";"Hüter des Morgen";2;en;0,28;"mh1";uncommon
+"Mulldrifter";"Grübelschlängler";5;en;0,31;"c18";uncommon
+"Nevermaker";"Wegmacher";4;en;0,31;"mor";uncommon
+"Peregrine Drake";"Wandernder Sceada";5;en;0,32;"ema";common
+"Eldrazi Displacer";"Eldrazi-Verdränger";3;en;1,40;"ogw";rare
+"Arcane Artisan";"Arkane Handwerkerin";3;en;0,22;"khc";mythic
+"Wall of Stolen Identity";"Mauer der gestohlenen Identität";4;en;1,47;"c19";rare
+"Pegasus Guardian // Rescue the Foal";"";6;en;0,16;"clb";common
+"Inevitable Betrayal";"Unvermeidlicher Verrat";0;en;0,48;"mh2";rare
+"Tales of the Ancestors";"Geschichten der Vorfahren";4;en;0,30;"khc";rare
+"Alrund's Epiphany";"Alrunds Eingebung";7;en;4,61;"khm";mythic
+"Curse of the Swine";"Fluch des Borstenviehs";2;en;0,39;"khc";rare
+"Ancestral Vision";"Vision der Ahnen";0;en;3,31;"tsr";mythic
+"Ravenform";"Rabengestalt";3;en;0,16;"khm";common
+"Hallowed Respite";"Heilige Ruhepause";2;en;0,23;"mid";rare
+"Eerie Interlude";"Schauriges Intermezzo";3;en;4,14;"khc";rare
+"Lae'zel's Acrobatics";"Lae'zels Akrobatik";4;en;0,96;"clb";rare
+"Cosmic Intervention";"Kosmisches Eingreifen";4;en;3,34;"khc";rare
+"Momentary Blink";"Kurzzeitiges Flimmern";2;en;0,19;"khc";common
+"Ghostly Flicker";"Gespenstisches Flimmern";3;en;1,73;"khc";common
+"Behold the Multiverse";"Erblicke das Multiversum";4;en;0,14;"khm";common
+"Saw It Coming";"Es kommen sehen";3;en;0,18;"khm";uncommon
+"Depart the Realm";"Abschied vom Reich";2;en;0,05;"khm";common
+"Blur";"Verschwimmen";3;en;0,15;"clb";common
+"Scrollshift";"Schriftrollenteleport";3;en;0,14;"mom";common
+"Slip On the Ring";"Den Ring anstecken";2;en;0,13;"ltr";common
+"Mox Tantalite";"Tantalitmox";0;en;6,47;"mh1";mythic
+"Sol Talisman";"Sonnentalisman";0;en;0,46;"mh2";rare
+"Sekki, Seasons' Guide";"Sekki, Lenker der Jahreszeiten";8;en;1,07;"sok";rare
+"Masumaro, First to Live";"Masumaro, als Erster lebend";6;en;0,41;"sok";rare
+"Patron of the Orochi";"Patron der Orochi";8;en;2,01;"bok";rare
+"Kura, the Boundless Sky";"Kura der Füllehimmel";5;en;2,34;"neo";mythic
+"Kodama of the West Tree";"Kodama des Westbaumes";3;en;16,75;"neo";mythic
+"Kodama of the Center Tree";"Kodama des Mittelbaumes";5;en;0,21;"bok";rare
+"Kodama of the North Tree";"Kodama des Nordbaumes";5;en;0,24;"chk";rare
+"Myojin of Life's Web";"Myojin des Lebensnetzes";9;en;;"plst";rare
+"Iname, Life Aspect";"Iname, Lebensaspekt";6;en;0,24;"chk";rare
+"Bounteous Kirin";"Freigebiger Kirin";7;en;0,30;"sok";rare
+"Kodama of the South Tree";"Kodama des Südbaumes";4;en;0,27;"chk";rare
+"Kodama of the East Tree";"Kodama des Ostbaumes";6;en;3,48;"cmr";rare
+"Jugan, the Rising Star";"Jugan, der aufstrebende Stern";6;en;0,87;"chk";rare
+"Ayumi, the Last Visitor";"Ayumi, die letzte Besucherin";5;en;0,47;"sok";rare
+"Briarknit Kami";"Dorngeflecht-Kami";5;en;0,13;"sok";uncommon
+"Blossom Prancer";"Blütenstolzierer";5;en;0,06;"neo";uncommon
+"Lifespinner";"Lebenskreisel";4;en;0,15;"bok";uncommon
+"Body of Jukai";"Jukais Körper";9;en;0,15;"bok";uncommon
+"Loam Dweller";"Lehmbewohner";2;en;0,19;"bok";uncommon
+"Thousand-legged Kami";"Tausendbeiniger Kami";8;en;0,10;"chk";uncommon
+"Child of Thorns";"Dornenkind";1;en;0,04;"bok";common
+"Elder Pine of Jukai";"Älteste Föhre Jukais";3;en;0,06;"sok";common
+"Hana Kami";"Hana-Kami";1;en;0,07;"chk";uncommon
+"Geothermal Kami";"Geothermischer Kami";4;en;0,03;"neo";common
+"Soilshaper";"Schollenformer";2;en;0,07;"chk";uncommon
+"Orbweaver Kumo";"Sphärenweber-Kumo";6;en;0,04;"chk";uncommon
+"Fiddlehead Kami";"Farnwedel-Kami";5;en;0,05;"sok";common
+"Moss Kami";"Moos-Kami";6;en;0,03;"chk";common
+"Carven Caryatid";"Geschnitzte Karyatide";3;en;0,14;"ima";uncommon
+"Rootrunner";"Wurzelrenner";4;en;0,06;"chk";uncommon
+"Dripping-Tongue Zubera";"Traufenzungen-Zubera";2;en;0,08;"chk";common
+"Burr Grafter";"Gratpfropfer";4;en;0,03;"chk";common
+"Petalmane Baku";"Blütenmähnen-Baku";2;en;0,08;"bok";common
+"Traproot Kami";"Wurzelfallen-Kami";1;en;0,28;"bok";common
+"Orochi Sustainer";"Orochi-Erhalterin";2;en;0,07;"chk";common
+"Haru-Onna";"Haru-Onna";4;en;0,14;"sok";uncommon
+"Kami of the Tended Garden";"Kami der gehüteten Gärten";4;en;0,07;"sok";uncommon
+"Promised Kannushi";"Versprochener Kannushi";1;en;0,05;"sok";common
+"Vine Kami";"Ranken-Kami";7;en;0,06;"chk";common
+"Loam Dweller";"Lehmbewohner";2;en;0,19;"bok";uncommon
+"Shinen of Life's Roar";"Shinen des Urschreis";2;en;0,14;"sok";common
+"Yew Spirit";"Eibengeist";5;en;0,07;"avr";uncommon
+"Feral Deceiver";"Wilder Täuscher";4;en;0,04;"chk";common
+"Ghost-Lit Nourisher";"Geisterlicht-Ernährer";3;en;0,09;"sok";uncommon
+"EMPTY";"Kannushi des leeren Schreins";0;;;"";
+"Strangleroot Geist";"Würgewurzelgeist";2;en;0,39;"dka";uncommon
+"Kami of the Hunt";"Kami der Jagd";3;en;0,04;"chk";common
+"Forked-Branch Garami";"Gabelzweig-Garami";5;en;0,13;"bok";uncommon
+"Budoka Pupil // Ichiga, Who Topples Oaks";"";3;en;0,07;"bok";uncommon
+"Kami of Whispered Hopes";"Kami der geraunten Hoffnungen";3;en;1,00;"mom";uncommon
+"Kami of Transience";"Kami der Vergänglichkeit";2;en;0,32;"neo";rare
+"Elvish Spirit Guide";"Geist einer elfischen Mentorin";3;en;2,85;"all";uncommon
+"Permeating Mass";"Durchdringende Masse";1;en;0,24;"emn";rare
+"Primordial Sage";"Uralter Weiser";6;en;0,54;"rav";rare
+"Sorcerer's Broom";"Besen des Hexenmeisters";2;en;0,02;"eld";uncommon
+"Ugin's Conjurant";"Ugins Beschwörung";0;en;0,28;"war";uncommon
+"Teachings of the Kirin // Kirin-Touched Orochi";"";2;en;0,17;"neo";rare
+"Genju of the Cedars";"Genju der Zedern";1;en;0,16;"bok";uncommon
+"One with the Kami";"Eins mit den Kami";4;en;0,16;"nec";rare
+"Uproot";"Entwurzeln";4;en;0,03;"bok";common
+"Feast of Worms";"Würmerfest";5;en;0,04;"chk";uncommon
+"Joyous Respite";"Fröhliche Ruhepause";4;en;0,04;"chk";common
+"Invoke the Ancients";"Anrufung der Urwesen";5;en;0,09;"neo";rare
+"Roar of Jukai";"Jukais Geräusche";3;en;0,06;"bok";common
+"Unchecked Growth";"Ungehemmtes Wachstum";3;en;0,11;"bok";uncommon
+"Wear Away";"Abnutzen";2;en;0,11;"chk";common
+"Strength of Cedars";"Stärke der Zedern";5;en;0,10;"chk";uncommon
+"Rending Vines";"Zerreißende Ranken";3;en;0,09;"sok";common
+"Kodama's Might";"Macht des Kodamas";1;en;0,08;"chk";common
+"Vital Surge";"Lebenswoge";2;en;0,05;"bok";common
+"Long-Forgotten Gohei";"Lang vergessenes Gohei";3;en;0,26;"mm2";rare
+"Baku Altar";"Baku-Altar";2;en;0,39;"bok";rare
+"Slumbering Tora";"Schlummernde Tora";3;en;0,24;"bok";rare
+"Nazahn, Revered Bladesmith";"Nazahn, ehrwürdiger Klingenschmied";6;en;;"c17";mythic
+"Mirri, Weatherlight Duelist";"Mirri, Duellantin der Wetterlicht";3;en;;"c17";mythic
+"Kaheera, the Orphanguard";"Kaheera, Behüter der Verlassenen";3;en;0,63;"iko";rare
+"Arahbo, Roar of the World";"Arahbo, Gebrüll der Welten";5;en;;"c17";mythic
+"Jedit Ojanen of Efrava";"Jedit Ojanen aus Efrava";6;en;0,49;"c17";rare
+"Balan, Wandering Knight";"Balan, wandernde Ritterin";4;en;0,88;"c17";rare
+"Jazal Goldmane";"Jazal Goldmähne";4;en;0,46;"c17";mythic
+"Prava of the Steel Legion";"Prava von der Stahllegion";3;en;0,24;"cmr";uncommon
+"Raksha Golden Cub";"Raksha Goldjunges";7;en;0,32;"c17";rare
+"Jareth, Leonine Titan";"Jareth, der Löwentitan";6;en;0,21;"c17";rare
+"Kemba, Kha Regent";"Kemba, Kha-Herrscherin";3;en;0,31;"c17";rare
+"Kemba, Kha Enduring";"Kemba, beständige Kha";2;en;0,24;"one";rare
+"Kutzil, Malamet Exemplar";"Kutzil, Malamet-Vorbild";3;en;0,28;"lci";uncommon
+"Feline Sovereign";"Katzenherrscher";3;en;0,53;"m21";rare
+"Qasali Slingers";"Qasal-Schleuderer";5;en;6,09;"c17";rare
+"Hungry Lynx";"Hungriger Luchs";2;en;3,87;"c17";rare
+"Prowling Serpopard";"Lauernder Serpopard";3;en;1,64;"akh";rare
+"Regal Caracal";"Erhabene Karakals";5;en;0,85;"akh";rare
+"Stalking Leonin";"Lauernde Leonidin";3;de;;"c17";rare
+"Ironpaw Aspirant";"Eisenpranken-Anwärterin";2;en;0,02;"lci";common
+"Leonin Warleader";"Leoniden-Kriegsführer";4;en;3,97;"m19";rare
+"Spirit of the Hearth";"Geist der Herdstelle";6;en;0,33;"c17";rare
+"Leonin Arbiter";"Leoniden-Schlichter";2;en;0,63;"c17";rare
+"Armored Skyhunter";"Gepanzerte Himmeljägerin";4;en;4,27;"cmr";rare
+"Seht's Tiger";"Sehts Tiger";4;en;0,19;"c17";rare
+"Alms Collector";"Almosensammler";4;en;0,88;"c17";rare
+"Adorned Pouncer";"Geschmückte Raubkatze";2;en;0,37;"hou";rare
+"Fleecemane Lion";"Vliesmähnen-Löwe";2;en;0,21;"c17";rare
+"Trained Caracal";"Gezähmtes Caracal";1;en;0,07;"rtr";common
+"Basri's Acolyte";"Basris Anhängerin";4;en;0,04;"m21";common
+"Charmed Stray";"Verzauberter Streuner";1;en;0,08;"war";common
+"Garrison Cat";"Garnisonskatze";1;en;0,17;"iko";common
+"Graceful Cat";"Anmutige Katze";3;en;0,08;"akh";common
+"Sanctuary Cat";"Katze des Heiligtums";1;en;0,14;"dka";common
+"King of the Pride";"König des Rudels";3;en;0,23;"mh1";uncommon
+"Leonin Relic-Warder";"Reliktenwächter-Leonide";2;en;0,20;"c17";uncommon
+"Prowling Caracal";"Lauernder Karakal";2;en;0,08;"rna";common
+"Taj-Nar Swordsmith";"Schwertschmied des Taj-Nar";4;en;0,17;"c17";uncommon
+"Pouncing Lynx";"Springender Luchs";2;en;0,15;"war";common
+"Oreskos Explorer";"Oreskos-Erforscherin";2;en;0,20;"c17";uncommon
+"Felidar Guardian";"Felidar-Wächter";4;en;1,06;"aer";uncommon
+"Keeper of Fables";"Hüter der Fabeln";5;en;0,06;"eld";uncommon
+"Nacatl War-Pride";"Nacatl-Kriegsrudel";6;en;0,93;"fut";uncommon
+"Temur Sabertooth";"Temur-Säbelzahntiger";4;en;1,82;"c17";uncommon
+"King Cheetah";"Königsgepard";4;en;0,15;"9ed";uncommon
+"Territorial Scythecat";"Revierverteidigender Sichelpanther";3;en;0,12;"znr";common
+"Wily Bandar";"Listiger Bandar";1;en;0,11;"kld";common
+"Pridemalkin";"Stolze Mieze";3;en;0,09;"m21";common
+"Canopy Stalker";"Blätterdach-Schleicher";4;en;0,06;"m21";uncommon
+"Sabertooth Mauler";"Säbelzahnreißer";4;en;0,07;"m21";common
+"Penumbra Bobcat";"Halbschatten-Puma";3;de;;"apc";common
+"Initiate's Companion";"Gefährte der Geweihten";2;en;0,05;"jmp";common
+"Scythe Leopard";"Sensenleopard";1;en;0,11;"bfz";uncommon
+"Qasali Pridemage";"Qasal-Rudelmagier";2;en;0,14;"arb";common
+"Envoy of Okinec Ahau";"Gesandter von Okinec Ahau";3;en;0,03;"lci";common
+"Malamet Veteran";"Malamet-Veteran";5;en;0,08;"lci";common
+"Ironpaw Aspirant";"Eisenpranken-Anwärterin";2;en;0,02;"lci";common
+"Malamet Brawler";"Malamet-Schläger";2;en;0,04;"lci";common
+"White Sun's Zenith";"Zenit der Weißen Sonne";3;en;0,33;"c17";rare
+"Gateway Sneak";"Torschleicherin";3;en;0,11;"rna";uncommon
+"Journey to the Lost City";"Reise in die verlorene Stadt";4;en;0,33;"clb";rare
+"Hypergenesis";"Hypergenese";0;en;0,36;"tsp";rare
+"Druid Class";"Klasse der Druiden";2;en;0,90;"afr";uncommon
+"Search for Tomorrow";"Suche nach dem Morgen";3;en;0,14;"ima";common
+"Natural Reclamation";"Natürliche Renaturierung";5;en;0,13;"clb";common
+"Tectonic Giant";"Tektonischer Riese";4;en;0,22;"clb";rare
+"Fury Charm";"Amulett des Zorns";2;en;0,11;"plc";common
+"Ignite the Future";"Die Zukunft entfachen";4;en;0,22;"clb";rare
+"Stromkirk Occultist";"Stromkirch-Okkultistin";3;en;0,16;"voc";rare
+"Bigger on the Inside";"Drinnen größer als draußen";5;en;0,62;"who";uncommon
+"Outpost Siege";"Belagerung des Außenpostens";4;en;0,21;"clb";rare
+"The Foretold Soldier";"Die Prophezeiung";4;en;0,26;"who";rare
+"Demon Bolt";"Dämonischer Blitz";3;en;0,28;"clb";common
+"Green Slime";"Grüner Schlick";3;en;0,68;"clb";rare
+"Chaos Wand";"Chaosstab";3;en;0,14;"clb";rare
+"Into the Time Vortex";"In den Zeit-Vortex";5;en;0,27;"who";rare
+"Delayed Blast Fireball";"Spätzündender Feuerball";3;en;15,50;"clb";rare
+"Laelia, the Blade Reforged";"Laelia, neu geschmiedete Klinge";3;en;0,80;"clb";rare
+"Volcanic Torrent";"Vulkanische Strömung";5;en;0,19;"clb";uncommon
+"Lotus Bloom";"Lotus-Blütezeit";0;en;1,21;"tsr";rare
+"Light Up the Stage";"In Szene setzen";3;en;0,15;"clb";uncommon
+"Audacious Swap";"Dreister Tausch";4;en;0,16;"ncc";rare
+"Wild-Magic Sorcerer";"Zauberer der Wilden Magie";4;en;2,66;"clb";rare
+"Rob the Archives";"Archivraub";2;en;0,16;"snc";uncommon
+"Sweet-Gum Recluse";"Bernsteinsekret-Einsiedlerspinne";6;en;0,24;"clb";rare
+"Bloodbraid Elf";"Blutzopf-Elf";4;en;0,21;"clb";uncommon
+"Hit the Mother Lode";"Auf Gold stoßen";7;en;0,16;"lci";rare
+"EMPTY";"Kannushi des leeren Schreins";0;;;"";
+"Ecstatic Beauty";"Ekstatische Schönheit";3;en;0,20;"who";rare
+"Jhoira's Timebug";"Jhoiras Zeitkäfer";2;en;0,07;"tsr";common
+"The Parting of the Ways";"Getrennte Wege";6;en;0,37;"who";rare
+"Tlincalli Hunter // Retrieve Prey";"";7;en;0,61;"clb";rare
+"EMPTY";"Kannushi des leeren Schreins";0;;;"";
+"Headliner Scarlett";"";4;en;4,01;"clu";rare
+"Expedited Inheritance";"Beschleunigte Erbschaft";2;en;0,40;"mkm";mythic
+"Urabrask, Heretic Praetor";"Urabrask, ketzerischer Prätor";5;en;3,03;"snc";mythic
+"Izzet Chemister";"Izzet-Chemister";3;en;0,15;"clb";rare
+"Wild Wasteland";"Wildes Ödland";3;en;1,48;"pip";rare
+"Venture Forth";"Ins Abenteuer wagen";4;en;0,32;"clb";rare
+"Escape to the Wilds";"Flucht in die Wildnis";5;en;0,34;"clb";rare
+"Rift Elemental";"Zeitrisselementar";1;en;0,08;"tsr";common
+"Dream Pillager";"Traumplünderer";7;en;0,15;"clb";rare
+"Terramorph";"Immerändernde Weite";4;en;0,31;"clb";uncommon
+"Wheel of Fate";"Schicksalsrad";0;en;1,74;"tsp";rare
+"Passionate Archaeologist";"Passionierter Archäologe";2;en;14,96;"clb";mythic
+"Sibylline Soothsayer";"Sibyllinische Wahrsagerin";3;en;0,20;"who";uncommon
+"Bonecrusher Giant // Stomp";"";3;en;0,47;"eld";rare
+"Aurora Phoenix";"Aurora-Phoenix";6;en;0,24;"clb";rare
+"Rift Sower";"Zeitriss-Säer";3;en;0,10;"mh2";common
+"Nalfeshnee";"Nalfeshnee";6;en;2,97;"clb";rare
+"Search for Tomorrow";"Suche nach dem Morgen";3;en;0,16;"clb";common
+"Faldorn, Dread Wolf Herald";"Faldorn, Schreckenswolf-Heroldin";3;en;3,01;"clb";mythic
+"Stolen Strategy";"Gestohlene Strategie";5;en;0,29;"clb";rare
+"Timecrafting";"Zeitumformung";1;en;0,31;"plc";uncommon
+"Dire Fleet Daredevil";"Schreckensflotten-Draufgängerin";2;en;0,18;"clb";rare
+"Glimpse of Tomorrow";"Einblick in die Zukunft";0;en;0,13;"mh2";rare
+"Gargadon";"Größeres Gargadon";7;en;0,07;"mh2";common
+"Gaea's Will";"Gaeas Wille";0;en;0,36;"mh2";rare
+"Rift Bolt";"Entladung aus dem Zeitriss";3;en;0,19;"tsr";common
+"Shivan Meteor";"Shivanischer Meteor";5;en;0,09;"plc";uncommon
+"Detritivore";"Schuttfresser";4;en;0,60;"plc";rare
+"Arc Blade";"Lichtbogen-Klinge";5;en;1,13;"fut";uncommon
+"Venture Forth";"Ins Abenteuer wagen";4;en;0,32;"clb";rare
+"Zimone, Quandrix Prodigy";"Zimone, Quandrix-Genie";2;en;0,13;"stx";uncommon
+"Skyshroud Ranger";"Wolkenwaldläufer";1;en;0,36;"10e";common
+"Gateway Shade";"Pfortenschatten";3;en;0,14;"gtc";uncommon
+"Explore the Underdark";"Erkundung des Unterreichs";5;en;0,18;"clb";uncommon
+"Opal Lake Gatekeepers";"Torwächter des Opalsees";4;en;0,07;"dgm";common
+"Saruli Gatekeepers";"Torwächter von Saruli";4;en;0,23;"dgm";common
+"Retreat to Hagra";"Rückzug nach Hagra";3;en;0,30;"bfz";uncommon
+"Railway Brawler";"Eisenbahn-Raufbold";5;en;5,86;"otj";mythic
+"Demonic Ruckus";"Dämonischer Krawall";2;en;0,17;"otj";uncommon
+"Highway Robbery";"Straßenräuberei";2;en;0,14;"otj";common
+"Pyretic Charge";"Pyretischer Ansturm";5;en;0,31;"otc";rare
+"Stingerback Terror";"Stachelschwanz-Schrecken";4;en;0,28;"otj";rare
+"Shivan Sand-Mage";"Shivanischer Sandmagier";4;en;0,19;"fut";uncommon
+"Durnan of the Yawning Portal";"Durnan vom Gähnenden Portal";4;en;0,64;"clb";mythic
+"Greater Gargadon";"Größeres Gargadon";10;en;0,14;"clb";rare
+"Ancient Imperiosaur";"Uralter Imperiosaurus";7;en;0,52;"mom";rare
+"Itzquinth, Firstborn of Gishath";"Itzquinth, Gishaths Erstgeborener";2;en;0,15;"lci";uncommon
+"Nurturing Bristleback";"Fürsorglicher Borstenkamm";7;en;0,04;"lci";common
+"Pathfinding Axejaw";"Wegsucher-Axtmaul";4;en;0,05;"lci";common
+"Seismic Monstrosaur";"Seismischer Megalosaurus";6;en;0,04;"lci";common
+"Armored Kincaller";"Gepanzerter Sippenrufer";3;en;0,02;"lci";common
+"Earthshaker Dreadmaw";"Erdrüttler-Schreckensmaul";6;en;0,09;"lci";uncommon
+"Cresting Mosasaurus";"Wellenbrechender Mosasaurus";8;en;;"rex";rare
+"Sinuous Benthisaur";"Gewundener Benthisaurus";6;en;0,05;"lci";uncommon
+"Soaring Sandwing";"Gleitender Sandflügel";6;en;0,03;"lci";common
+"Colossadactyl";"Kolossodactylus";4;en;0,07;"lci";uncommon
+"Dinotomaton";"Dinomat";4;en;0,04;"lci";common
+"Rampaging Spiketail";"Tobender Dornenschwanz";6;en;0,04;"lci";common
+"Panicked Altisaur";"Aufgeschreckter Altisaurus";5;en;0,04;"lci";common
+"Burning Sun Cavalry";"Kavalleristin der Lodernden Sonne";2;en;0,03;"lci";common
+"Scytheclaw Raptor";"Sensenkrallenraptor";3;en;0,08;"lci";uncommon
+"Earthshaker Dreadmaw";"Erdrüttler-Schreckensmaul";6;en;0,09;"lci";uncommon
+"Inti, Seneschal of the Sun";"Inti, Seneschall der Sonne";2;en;3,75;"lci";rare
+"Palani's Hatcher";"Palanis Brutmutter";5;en;0,26;"lci";rare
+"Ripscale Predator";"Schuppiger Raubreißer";6;en;0,05;"m20";common
+"Frenzied Raptor";"Tobsüchtiger Raptor";3;en;0,04;"xln";common
+"Raptor Hatchling";"Raptor-Junges";2;en;0,21;"xln";uncommon
+"Otepec Huntmaster";"Otepec-Jagdführer";2;en;0,78;"xln";uncommon
+"Frilled Deathspitter";"Gefiederter Todesspeier";3;en;0,12;"rix";common
+"War-Trained Slasher";"Kriegserprobter Schlitzer";4;en;0,03;"mom";common
+"Dinosaur Stampede";"Ansturm der Dinosaurier";3;en;0,09;"xln";uncommon
+"Charging Monstrosaur";"Anstürmender Megalosaurus";5;en;0,10;"xln";uncommon
+"Sun-Crowned Hunters";"Sonnenkamm-Jäger";6;en;0,06;"xln";common
+"Ripscale Predator";"Schuppiger Raubreißer";6;en;0,07;"gtc";uncommon
+"Needletooth Raptor";"Nadelzahn-Raptor";4;en;0,21;"rix";uncommon
+"Forerunner of the Empire";"Vorbote des Imperiums";4;en;0,86;"rix";uncommon
+"Thrash of Raptors";"Raptorenhorde";4;en;0,03;"xln";common
+"Bonded Horncrest";"Gezäumtes Kammhorn";4;en;0,05;"xln";uncommon
+"Shifting Ceratops";"Unberechenbarer Ceratops";4;en;0,14;"m20";rare
+"Bellowing Aegisaur";"Brüllender Aegisaurus";6;en;0,08;"xln";uncommon
+"Huatli's Snubhorn";"Huatlis Stumpfhorn";2;en;0,08;"xln";common
+"Majestic Heliopterus";"Majestätischer Heliopterus";4;en;0,10;"rix";uncommon
+"Territorial Hammerskull";"Revierverteidigender Hammerschädel";3;en;0,04;"xln";common
+"Raptor Companion";"Raptor-Gefährte";2;en;0,05;"bbd";common
+"Imperial Lancer";"Imperiale Lanzenträgerin";1;en;0,03;"xln";uncommon
+"Imposing Vantasaur";"Imposanter Vantasaurus";6;en;0,07;"iko";common
+"Kinjalli's Caller";"Kinjallis Ruferin";1;en;0,11;"xln";common
+"Shining Aerosaur";"Gleißender Aerosaurus";5;en;0,04;"xln";common
+"Imperial Aerosaur";"Imperialer Aerosaurus";4;en;0,09;"xln";uncommon
+"Steadfast Armasaur";"Standhafter Armasaurus";4;en;0,02;"xln";uncommon
+"_____-o-saurus";"Allosaurus-Hirte";6;en;0,14;"unf";common
+"Thunderherd Migration";"Wanderung der Donnerherde";2;en;0,15;"rix";uncommon
+"Thundering Spineback";"Donnernder Stachelrücken";7;en;0,04;"xln";uncommon
+"Ravenous Daggertooth";"Gefräßiger Dolchzahn";3;en;0,08;"xln";common
+"Cacophodon";"Kakofodon";4;en;0,15;"rix";uncommon
+"Ranging Raptors";"Umherstreifende Raptoren";3;en;0,58;"xln";uncommon
+"Overgrown Armasaur";"Überwachsener Armasaurus";5;en;0,06;"rix";common
+"Thrashing Brontodon";"Verwüstendes Brontodon";3;en;0,09;"m20";uncommon
+"Snapping Sailback";"Schnappender Segelrücken";5;en;0,05;"xln";uncommon
+"Drowsing Tyrannodon";"Schlummerndes Tyrannodon";2;en;0,02;"m21";common
+"Ancient Brontodon";"Uraltes Brontodon";8;en;0,04;"xln";common
+"Ravenous Sailback";"Unersättlicher Segelrücken";5;en;0,06;"mom";uncommon
+"Thrashing Brontodon";"Verwüstendes Brontodon";3;en;0,16;"j22";uncommon
+"Urban Daggertooth";"Städtischer Dolchzahn";4;en;0,09;"mh2";common
+"Drover of the Mighty";"Hirte der Kolosse";2;en;0,18;"xln";uncommon
+"Colossal Dreadmaw";"Kolossales Schreckensmaul";6;en;0,64;"xln";common
+"Runic Armasaur";"Runenbewehrter Armasaurus";3;en;1,16;"m19";rare
+"Crested Herdcaller";"Gehörnter Herdenrufer";5;en;0,05;"rix";uncommon
+"Ornery Dilophosaur";"Störrischer Dilophosaurus";4;en;0,11;"m21";common
+"Cherished Hatchling";"Umsorgtes Jungtier";2;en;0,12;"rix";uncommon
+"Thornscape Familiar";"Vertrauter des Dornenpfads";2;en;0,15;"pls";common
+"Spike-Tailed Ceratops";"Stachelschwanz-Ceratops";5;en;0,04;"xln";common
+"Fountain of Ichor";"Sekretbrunnen";3;en;0,07;"mh1";common
+"Blasting Station";"Sprengstation";3;en;4,15;"5dn";uncommon
+"Gruul War Chant";"Gruul-Kriegsgesang";4;en;0,14;"cn2";uncommon
+"Belligerent Brontodon";"Angriffslustiges Brontodon";7;en;0,06;"xln";uncommon
+"Sky Terror";"Schrecken des Himmels";2;en;0,11;"xln";uncommon
+"Atzocan Seer";"Atzocan-Seher";3;en;0,09;"rix";uncommon
+"Huatli's Raptor";"Huatlis Raptor";2;en;0,12;"war";uncommon
+"Raging Swordtooth";"Wütender Schwertzahn";5;en;0,12;"xln";uncommon
+"Raging Regisaur";"Tobender Regisaurus";4;en;0,17;"rix";uncommon
+"Rhythm of the Wild";"Rhythmus der Wildnis";3;en;1,96;"rna";uncommon
+"Priest of the Wakening Sun";"Priester der Erwachenden Sonne";1;en;0,18;"xln";rare
+"Trapjaw Tyrant";"Todesmaul-Tyrann";5;en;7,26;"rix";mythic
+"Temple Altisaur";"Tempel-Altisaurus";5;en;0,46;"rix";rare
+"Kinjalli's Sunwing";"Kinjallis Sonnenschwinge";3;en;0,60;"xln";rare
+"Wakening Sun's Avatar";"Avatar der Erwachenden Sonne";8;en;0,87;"xln";mythic
+"Goring Ceratops";"Durchbohrender Ceratops";7;en;0,46;"xln";rare
+"Zetalpa, Primal Dawn";"Zetalpa die Ursonne";8;de;;"rix";rare
+"Star of Extinction";"Meteor der Auslöschung";7;en;0,97;"xln";mythic
+"Silverclad Ferocidons";"Silbergepanzerte Ferocidons";7;en;5,11;"rix";rare
+"Rampaging Ferocidon";"Tobendes Ferocidon";3;en;7,68;"xln";rare
+"Marauding Raptor";"Marodierender Raptor";2;en;1,16;"m20";rare
+"Burning Sun's Avatar";"Avatar der Lodernden Sonne";6;en;0,19;"xln";rare
+"Etali, Primal Storm";"Etali der Ursturm";6;en;0,36;"clb";rare
+"Wayward Swordtooth";"Halsstarriger Schwertzahn";3;en;2,08;"rix";rare
+"Verdant Sun's Avatar";"Avatar der Blühenden Sonne";7;en;0,31;"xln";rare
+"Topiary Stomper";"Topiari-Stampfer";3;en;1,44;"snc";rare
+"Rampaging Brontodon";"Tobendes Brontodon";7;en;;"g18";rare
+"Deathgorge Scavenger";"Todesschlucht-Aasfresser";3;en;0,18;"xln";rare
+"Ripjaw Raptor";"Reißmaulraptor";4;en;1,39;"xln";rare
+"Apex Altisaur";"Apex-Altisaurus";9;en;4,28;"c19";rare
+"Gigantosaurus";"Gigantosaurus";5;en;1,65;"m19";rare
+"Polyraptor";"Polyraptor";8;en;11,76;"rix";mythic
+"Ghalta, Primal Hunger";"Ghalta der Urhunger";12;en;2,43;"rix";rare
+"Siegehorn Ceratops";"Rammschädel-Ceratops";2;en;0,43;"rix";rare
+"Quartzwood Crasher";"Quarzwald-Schmetterer";5;en;0,94;"iko";rare
+"Sun-Blessed Mount";"Sonnengeweihtes Reittier";5;en;0,31;"xln";rare
+"Regisaur Alpha";"Regisaurus-Alphatier";5;en;0,99;"xln";rare
+"Domri, Anarch of Bolas";"Domri, Anarchist des Bolas";3;en;1,20;"war";rare
+"Huatli, Warrior Poet";"Huatli, Poetin des Krieges";5;en;2,88;"xln";mythic
+"Huatli, Dinosaur Knight";"Huatli, Saurierkriegerin";6;en;;"xln";mythic
+"Etali, Primal Conqueror // Etali, Primal Sickness";"";7;en;12,10;"mom";rare
+"Zacama, Primal Calamity";"Zacama das Urchaos";9;en;2,35;"rix";mythic
+"Gishath, Sun's Avatar";"Gishath, Avatar der Sonne";8;en;;"sld";mythic
+"Ghalta and Mavren";"Ghalta und Mavren";7;en;1,21;"mom";rare
+"Gishath, Sun's Avatar";"Gishath, Avatar der Sonne";8;en;4,96;"xln";mythic
+"Regal Behemoth";"Nobler Behemoth";6;en;0,49;"cmm";rare
+"Rampaging Ceratops";"Tobender Ceratops";5;en;0,03;"lci";uncommon
+"Knight of the White Orchid";"Ritter der weißen Orchidee";2;en;1,11;"moc";rare
+"Knights' Charge";"Ansturm der Ritter";3;en;0,22;"moc";rare
+"Aryel, Knight of Windgrace";"Aryel, Ritterin von Windgrace";4;en;0,16;"moc";rare
+"The Circle of Loyalty";"Kreis der Loyalität";6;en;0,33;"dmc";mythic
+"Werefox Bodyguard";"Werfuchs-Leibwächterin";3;en;0,68;"woe";rare
+"Forsworn Paladin";"Abgeschworener Paladin";1;en;0,22;"afr";rare
+"Sister of Silence";"Schwester der Stille";5;en;0,33;"40k";rare
+"Corpse Knight";"Leichenritter";2;en;0,72;"moc";uncommon
+"Locthwain Lancer";"Locthwain-Lanzenträgerin";5;en;0,23;"moc";rare
+"Order of Midnight // Alter Fate";"";2;en;0,16;"moc";uncommon
+"Foulmire Knight // Profane Insight";"";1;en;0,19;"moc";uncommon
+"Dakmor Lancer";"Dakmor-Lanzenträger";6;en;0,21;"7ed";uncommon
+"Marshal of Zhalfir";"Marschall aus Zhalfir";2;en;0,16;"mom";uncommon
+"Worthy Knight";"Würdige Ritterin";2;en;0,21;"moc";rare
+"Midnight Reaper";"Mitternachts-Sensenmann";3;en;0,27;"moc";rare
+"Murderous Rider // Swift End";"";3;en;1,03;"moc";rare
+"Hero of Bladehold";"Held der Klingenfeste";4;en;2,92;"moc";mythic
+"Chivalric Alliance";"Ritterliche Allianz";2;en;6,69;"moc";rare
+"Exsanguinator Cavalry";"Entblutungskavallerie";3;en;2,32;"moc";rare
+"Knight-Errant of Eos";"Fahrende Ritterin aus Eos";5;en;2,36;"mom";rare
+"Smitten Swordmaster // Curry Favor";"";2;en;0,09;"moc";common
+"Vodalian Wave-Knight";"Vodalische Wellenritterin";4;en;0,67;"moc";rare
+"Acclaimed Contender";"Bejubelte Wettstreiterin";3;en;0,17;"moc";rare
+"Josu Vess, Lich Knight";"Josu Vess, Lich-Ritter";4;en;0,15;"moc";rare
+"Cavalier of Night";"Reiter der Nacht";5;en;4,34;"m20";mythic
+"Syr Konrad, the Grim";"Syr Konrad der Grimmige";5;en;0,81;"moc";uncommon
+"Knight Exemplar";"Vorbildlicher Ritter";3;en;1,86;"moc";rare
+"Valiant Knight";"Tapfere Ritterin";4;en;0,19;"moc";rare
+"Herald of Hoofbeats";"Heroldin des Hufschlags";4;en;4,37;"moc";rare
+"Haakon, Stromgald Scourge";"Haakon, Geißel von Stromgald";3;en;0,34;"moc";rare
+"Vona, Butcher of Magan";"Vona, Schlächterin von Magan";5;en;0,37;"moc";mythic
+"Adeline, Resplendent Cathar";"Adeline, strahlende Katharerin";3;en;9,05;"moc";rare
+"Ethersworn Adjudicator";"Äthergläubiger Aburteiler";5;en;0,21;"moc";mythic
+"Wintermoor Commander";"Wintermoor-Kommandant";2;en;0,18;"moc";uncommon
+"Silverwing Squadron";"Silberschwingen-Schwadron";6;en;0,19;"moc";rare
+"Knight of the Last Breath";"Ritter des letzten Atemzugs";7;en;0,06;"moc";uncommon
+"Elenda and Azor";"Elenda und Azor";6;en;0,36;"moc";mythic
+"Stormfist Crusader";"Sturmfaust-Kreuzritterin";2;en;0,40;"eld";rare
+"Order of Midnight // Alter Fate";"";2;en;0,08;"eld";uncommon
+"Sarevok, Deathbringer";"Sarevok der Todbringer";4;en;0,10;"clb";uncommon
+"East-Mark Cavalier";"Reiter der Ostmark";2;en;0,04;"ltr";common
+"Xerex Strobe-Knight";"Xerex-Kaleidoritterin";3;en;0,05;"mom";uncommon
+"Syr Elenora, the Discerning";"Syr Elenora die Scharfsichtige";5;en;0,08;"moc";uncommon
+"Sigiled Sentinel";"Ausgezeichneter Wachposten";3;en;0,05;"mom";common
+"Zhalfirin Lancer";"Zhalfirinische Lanzenträgerin";3;en;0,07;"mom";uncommon
+"Knight of the New Coalition";"Ritter der Neuen Koalition";4;en;0,05;"mom";common
+"Arvad the Cursed";"Arvad der Verfluchte";5;en;0,20;"moc";uncommon
+"Knights of the Black Rose";"Ritter der Schwarzen Rose";5;en;0,16;"moc";uncommon
+"Knight of the White Orchid";"Ritter der weißen Orchidee";2;en;0,70;"c20";rare
+"Ayara's Oathsworn";"Ayaras Eidgebundene";2;de;;"mat";rare
+"Sidar Jabari of Zhalfir";"Sidar Jabari aus Zhalfir";4;en;0,22;"moc";mythic
+"Nalia de'Arnise";"Nalia de'Arnise";3;en;0,88;"clb";mythic
+"Glorious Protector";"Glorreiche Beschützerin";4;en;0,19;"clb";rare
+"Bygone Bishop";"Verblichener Bischof";3;en;0,16;"clb";rare
+"Aven Mindcensor";"Avior-Gedankenzensor";3;en;0,25;"clb";uncommon
+"Mirror Entity";"Spiegelwesen";3;en;0,34;"clb";rare
+"Priest of Ancient Lore";"Priester der uralten Geheimnisse";3;en;0,10;"clb";common
+"Burakos, Party Leader";"Burakos, Anführerin der Gruppe";4;en;1,18;"clb";mythic
+"Corpse Augur";"Leichen-Augur";4;en;0,11;"clb";uncommon
+"Grim Hireling";"Grimmiger Söldling";4;en;14,70;"clb";rare
+"Grim Haruspex";"Grimmige Haruspex";3;en;0,86;"clb";rare
+"Mindblade Render";"Gedankenklingenreißerin";2;en;0,24;"clb";rare
+"Mother of Runes";"Mutter der Runen";1;en;5,06;"clb";uncommon
+"Stick Together";"Zusammenbleiben";5;en;0,18;"clb";rare
+"Magus of the Balance";"Magus der Balance";2;en;0,15;"clb";rare
+"Rumor Gatherer";"Gerüchtesammlerin";3;en;0,25;"clb";uncommon
+"Felisa, Fang of Silverquill";"Felisa, Fangzahn von Silberkiel";4;en;0,31;"clb";mythic
+"Selfless Spirit";"Selbstloser Geist";2;en;1,25;"clb";rare
+"Dire Fleet Ravager";"Schreckensflotten-Verwüster";5;en;0,29;"clb";mythic
+"Nighthawk Scavenger";"Nachtschwärmer-Plünderer";3;en;0,40;"clb";rare
+"Archpriest of Iona";"Erzpriester von Iona";1;en;0,07;"clb";rare
+"Butcher of Malakir";"Schlächter von Malakir";7;en;0,25;"clb";rare
+"Solemn Doomguide";"Erhabener Schicksalsführer";5;en;0,22;"clb";rare
+"Jazal Goldmane";"Jazal Goldmähne";4;en;0,24;"clb";mythic
+"Bloodsoaked Champion";"Blutbesudelter Champion";1;en;0,23;"clb";rare
+"Mikaeus, the Lunarch";"Lunarch Mikaeus";1;en;0,26;"clb";mythic
+"Order of Whiteclay";"Orden des Weißlehms";3;de;;"clb";rare
+"High Priest of Penance";"Hohepriester der Buße";2;en;0,14;"clb";rare
+"Eight-and-a-Half-Tails";"Acht-Schwänze-und-ein-halber";2;en;0,27;"clb";rare
+"Mardu Strike Leader";"Mardu-Kommandoführer";3;en;0,18;"clb";rare
+"Deep Gnome Terramancer";"Tiefengnom-Erdmagier";2;en;3,05;"clb";rare
+"Malakir Blood-Priest";"Malakir-Blutpriester";2;en;0,07;"clb";common
+"Zulaport Cutthroat";"Zulaport-Mordgeselle";2;en;0,97;"clb";uncommon
+"Seasoned Dungeoneer";"Routinierte Gewölbeforscherin";4;en;5,44;"clb";rare
+"Squad Commander";"Truppenkommandeur";4;en;0,11;"clb";rare
+"Frontline Medic";"Frontarzt";3;en;0,20;"clb";rare
+"Harper Recruiter";"Harfner-Anwerberin";3;en;0,35;"clb";rare
+"Puppeteer Clique";"Puppenspieler-Clique";5;en;0,23;"clb";rare
+"Mage's Attendant";"Assistentin des Magiers";3;en;0,12;"clb";uncommon
+"Calculating Lich";"Berechnender Lich";6;en;0,40;"clb";mythic
+"Galepowder Mage";"Sturmpulver-Magier";4;en;0,17;"clb";rare
+"Multiclass Baldric";"Multiklassen-Wehrgehänge";1;en;0,40;"clb";rare
+"Thwart the Grave";"Dem Grab entgehen";6;en;0,08;"clb";uncommon
+"Irregular Cohort";"Irreguläre Kohorte";4;en;0,14;"clb";common
+"Changeling Outcast";"Ausgestoßener Wandelwicht";1;en;0,61;"clb";common
+"Valiant Changeling";"Tapferer Wandelwicht";7;en;0,22;"clb";uncommon
+"Solemn Recruit";"Ernste Rekrutin";3;en;0,12;"clb";rare
+"Gonti, Lord of Luxury";"Gonti, Fürst der Opulenz";4;en;0,18;"clb";rare
+"Pontiff of Blight";"Pontifex der Fäulnis";6;en;0,23;"clb";rare
+"Eternal Skylord";"Verewigte Himmelsfürstin";5;en;0,16;"scd";uncommon
+"Jason Bright, Glowing Prophet";"Jason Bright, Prophet der Leuchtenden";3;en;0,19;"pip";rare
+"Gisa and Geralf";"Gisa und Geralf";4;en;;"scd";mythic
+"Diver Skaab";"Skaab-Taucher";5;en;0,03;"vow";uncommon
+"Bladestitched Skaab";"Klingendurchbohrter Skaab";2;en;0,15;"mid";uncommon
+"Gleaming Overseer";"Glänzender Aufseher";3;en;0,18;"scd";uncommon
+"Curse of Disturbance";"Fluch der Rastlosigkeit";3;en;0,87;"scd";uncommon
+"Spark Reaper";"Funkenschnitter";3;en;0,08;"scd";common
+"Lord of the Accursed";"Fürstin der Verfluchten";3;en;0,24;"scd";uncommon
+"Carrion Feeder";"Aasfresser";1;en;1,24;"mh1";uncommon
+"Liliana's Devotee";"Lilianas Verehrer";3;en;0,11;"scd";uncommon
+"Syphon Flesh";"Fleischansauger";5;en;0,17;"scd";uncommon
+"Geralf's Mindcrusher";"Geralfs Gedankenbrecher";6;en;0,20;"scd";rare
+"Army of the Damned";"Armee der Verdammten";8;en;0,41;"c18";mythic
+"Liliana's Mastery";"Lilianas Regentschaft";5;en;0,18;"scd";rare
+"Open the Graves";"Öffnet die Gräber";5;en;0,41;"scd";rare
+"Gravespawn Sovereign";"Herrscher der Erdbrut";6;en;0,15;"scd";rare
+"Josu Vess, Lich Knight";"Josu Vess, Lich-Ritter";4;en;0,20;"scd";rare
+"Unbreathing Horde";"Atemlose Horde";3;en;0,49;"scd";rare
+"Cemetery Reaper";"Friedhofs-Sensenmann";3;en;0,82;"scd";rare
+"Vizier of the Scorpion";"Wesir des Skorpions";3;en;0,20;"scd";uncommon
+"Army of the Damned";"Armee der Verdammten";8;en;0,53;"scd";mythic
+"Lazotep Reaver";"Lazotep-Plünderer";2;en;0,12;"scd";common
+"Jadar, Ghoulcaller of Nephalia";"Jadar, Ghulrufer aus Nefalen";2;en;3,42;"mid";rare
+"Drownyard Amalgam";"Unterwassergrab-Flickwerk";5;en;0,07;"mid";common
+"Bladestitched Skaab";"Klingendurchbohrter Skaab";2;en;0,15;"mid";uncommon
+"Overcharged Amalgam";"Energiegeladene Ausgeburt";4;en;0,28;"clb";rare
+"Crow of Dark Tidings";"Unheilverkündende Krähe";3;en;0,04;"cmr";common
+"Havengul Lich";"Lich aus Pfuhlhaven";5;en;1,62;"scd";mythic
+"Liliana's Reaver";"Lilianas Plünderer";4;en;0,81;"m14";rare
+"Lifebane Zombie";"Verderbenbringender Zombie";3;en;0,45;"m14";rare
+"Grim Return";"Grimmige Rückkehr";3;en;0,56;"m14";rare
+"Laboratory Drudge";"Laborsklave";4;en;0,17;"scd";rare
+"Mire Triton";"Sumpfland-Tritonierin";2;en;0,21;"scd";uncommon
+"Loyal Subordinate";"Loyaler Untergebener";3;en;0,33;"scd";uncommon
+"Corpse Connoisseur";"Leichenkenner";5;en;0,18;"ala";uncommon
+"Nantuko Husk";"Nantukohülle";3;en;0,11;"ons";common
+"Ainok Survivalist";"Ainok-Überlebenskünstler";2;en;0,06;"c19";common
+"Nantuko Vigilante";"Wachsamer Nantuko";4;en;0,14;"c19";common
+"Secret Plans";"Geheime Pläne";2;en;0,11;"c19";uncommon
+"Icefeather Aven";"Frostfeder-Avior";2;en;0,13;"c19";uncommon
+"Sultai Emissary";"Gesandter der Sultai";2;en;0,09;"frf";common
+"Skinthinner";"Hautspalter";2;en;0,14;"c19";common
+"Ruthless Ripper";"Unbarmherzige Schlitzerin";1;en;0,11;"ktk";uncommon
+"Aphetto Exterminator";"Aphettonischer Ausrotter";3;en;0,13;"lgn";uncommon
+"Scroll of Fate";"Schriftrolle des Schicksals";3;en;0,49;"c19";rare
+"Teferi, Mage of Zhalfir";"Teferi, Magier von Zhalfir";5;en;1,24;"ima";rare
+"Leyline of Anticipation";"Ley-Linie der Vorahnung";4;en;1,11;"m20";rare
+"Primordial Mist";"Urnebel";5;en;1,14;"c18";rare
+"Chromeshell Crab";"Chrompanzerkrabbe";5;en;0,17;"c19";rare
+"Mischievous Quanar";"Unheilbringender Quanar";5;en;0,35;"scg";rare
+"Kheru Spellsnatcher";"Kheru-Zauberdiebin";4;en;0,18;"c19";rare
+"Weaver of Lies";"Lügenweber";7;en;0,44;"lgn";rare
+"Vesuvan Shapeshifter";"Vesuvischer Gestaltwandler";5;en;0,18;"c19";rare
+"Kadena's Silencer";"Kadenas Auslöscher";2;en;0,23;"c19";rare
+"Dulcet Sirens";"Liebliche Sirenen";3;en;0,85;"c14";rare
+"Stratus Dancer";"Stratustänzerin";2;en;0,23;"c19";rare
+"Ixidor, Reality Sculptor";"Ixidor, Realitätsgestalter";5;en;1,87;"ons";rare
+"Thousand Winds";"Tausend Winde";6;en;0,17;"ddn";rare
+"Ixidron";"Ixidron";5;en;0,29;"c19";rare
+"Ghastly Conscription";"Grausige Einberufung";7;en;0,32;"c19";mythic
+"Gift of Doom";"Geschenk der Verdammnis";5;en;3,20;"c19";rare
+"Bane of the Living";"Bann alles Lebens";4;en;0,22;"c19";rare
+"Thieving Amalgam";"Diebisches Mischwesen";7;en;0,37;"c19";rare
+"Silumgar Assassin";"Silumgar-Meuchlerin";2;en;0,24;"c19";rare
+"Grim Haruspex";"Grimmige Haruspex";3;en;1,00;"c19";rare
+"Temur War Shaman";"Kriegsschamane der Temur";6;en;0,14;"frf";rare
+"Deathmist Raptor";"Todesnebel-Raptor";3;en;0,43;"c19";mythic
+"Den Protector";"Beschützerin des Baus";2;en;0,26;"c19";rare
+"Sagu Mauler";"Sagu-Malmer";6;en;0,12;"c19";rare
+"Kadena, Slinking Sorcerer";"Kadena, schlängelnde Hexerin";4;en;;"c19";mythic
+"Obscuring Aether";"Verschleiernder Äther";1;en;0,27;"dtk";rare
+"Wildcall";"Wildruf";2;en;0,11;"frf";rare
+"Dream Chisel";"Traummeißel";2;en;2,53;"ons";rare
+"Reality Shift";"Realitätsverschiebung";2;en;0,49;"frf";uncommon
+"Write into Being";"Ins Leben rufen";3;en;0,11;"frf";common
+"Trail of Mystery";"Pfad der Geheimnisse";2;en;0,18;"c19";rare
+"Vivien, Champion of the Wilds";"Vivien, Beschützerin der Wildnis";3;en;0,63;"war";rare
+"Backslide";"Rückrutsch";2;en;0,11;"ons";common
+"Mistfire Weaver";"Nebelfeuer-Weberin";4;en;0,13;"ktk";uncommon
+"Qarsi Deceiver";"Qarsi-Täuscherin";2;en;0,22;"dtk";uncommon
+"Aphetto Runecaster";"Aphettonischer Runenleser";4;en;0,40;"scg";uncommon
+"Monastery Loremaster";"Lehrmeister des Klosters";4;en;0,08;"dtk";common
+"Brine Elemental";"Laugenelementar";6;en;0,18;"c14";uncommon
+"Disruptive Pitmage";"Störender Grubenmagier";3;en;0,17;"ons";common
+"Unblinking Bleb";"Unerschrockene Blase";4;en;0,21;"fut";common
+"Master of the Veil";"Meister der Verschleierung";4;en;0,33;"lgn";uncommon
+"Voidmage Apprentice";"Nichtigmacher-Lehrling";2;en;0,85;"jvc";common
+"Aquamorph Entity";"Aquamorphes Etwas";4;en;0,07;"ddn";common
+"Echo Tracer";"Echoverfolger";3;en;0,33;"ddn";common
+"Willbender";"Gedankenverdreher";2;en;0,16;"ddn";uncommon
+"Coral Trickster";"Korallenschlawiner";2;en;0,05;"ddn";common
+"Fathom Seer";"Einsichtiger Seher";2;en;0,06;"ddn";common
+"Gudul Lurker";"Gudul-Lauerer";1;en;1,17;"dtk";uncommon
+"Salt Road Ambushers";"Salzstraßen-Überfallskommando";4;en;0,09;"dtk";uncommon
+"Pine Walker";"Streunende Kiefer";5;en;0,07;"ktk";uncommon
+"Chandra, Torch of Defiance";"Chandra, Fackel des Widerstands";4;en;2,87;"ss3";mythic
+"Mila, Crafty Companion // Lukka, Wayward Bonder";"";3;en;2,02;"stx";mythic
+"Chandra's Phoenix";"Chandras Phoenix";3;en;0,29;"m12";rare
+"Keral Keep Disciples";"Keralberg-Klosterschüler";4;en;0,22;"m21";uncommon
+"Chandra's Incinerator";"Chandras Einäscherer";6;en;1,10;"m21";rare
+"Chandra, Fire of Kaladesh // Chandra, Roaring Flame";"";3;en;1,54;"ori";mythic
+"Chandra, Acolyte of Flame";"Chandra, Dienerin des Feuers";3;en;0,68;"m20";rare
+"Chandra, Awakened Inferno";"Chandra, erwachtes Inferno";6;en;2,39;"m20";mythic
+"Chandra's Regulator";"Chandras Regulator";2;en;0,13;"m20";rare
+"Chandra's Triumph";"Chandras Triumph";2;en;0,05;"war";uncommon
+"Chandra, Dressed to Kill";"Chandra, todschick";3;en;6,97;"vow";mythic
+"Leori, Sparktouched Hunter";"Leori, funkenberührter Jäger";3;en;;"cmm";mythic
+"Chandra's Revolution";"Chandras Revolution";4;en;0,03;"aer";common
+"Pyromancer's Goggles";"Schutzbrille der Pyromagierin";5;en;1,36;"ori";mythic
+"The Chain Veil";"Der Kettenschleier";4;en;4,12;"m15";mythic
+"Ensnaring Bridge";"Lebendige Brücke";3;en;12,13;"8ed";rare
+"Pyromancer's Gauntlet";"Handschuh des Pyromagiers";5;en;0,40;"m14";rare
+"Cursed Mirror";"Verfluchter Spiegel";3;en;0,84;"brc";rare
+"Chandra's Ignition";"Chandras Entflammen";5;en;3,29;"ori";rare
+"Uphill Battle";"Hangstellung";3;en;0,30;"mmq";uncommon
+"Smoke";"Rauch";2;en;3,36;"5ed";rare
+"Smoke";"Rauch";2;en;3,51;"4ed";rare
+"Oath of Chandra";"Chandras Eid";2;en;0,32;"ogw";rare
+"Furnace of Rath";"Der Schmelzofen von Rath";4;en;2,26;"9ed";rare
+"Mechanized Warfare";"Mechanisierte Kriegsführung";3;en;0,62;"bro";rare
+"Fiery Emancipation";"Entfesselung der Feuermacht";6;en;4,77;"m21";mythic
+"Dictate of the Twin Gods";"Gebot der Zwillingsgötter";5;en;1,04;"jou";rare
+"Aether Flash";"Ätherblitz";4;en;0,40;"wth";uncommon
+"Angrath's Marauders";"Angraths Plünderer";7;en;0,46;"xln";rare
+"Chandra's Firemaw";"Chandras Feuerschlund";5;en;0,28;"m21";rare
+"Soul-Scar Mage";"Seelennarben-Magier";1;en;1,89;"akh";rare
+"Chandra's Phoenix";"Chandras Phoenix";3;en;0,33;"m14";rare
+"Runaway Steam-Kin";"Durchgebrannter Dampfsippler";2;en;0,52;"grn";rare
+"Chandra Nalaar";"Chandra Nalaar";5;en;1,17;"m10";mythic
+"Chandra, the Firebrand";"Chandra Hitzkopf";4;en;1,49;"m13";mythic
+"Chandra Ablaze";"Chandra die Lodernde";6;en;2,74;"zen";mythic
+"Chandra, Hope's Beacon";"Chandra, Leuchtfeuer der Hoffnung";6;en;4,69;"mom";mythic
+"Chandra, Pyromaster";"Chandra, Pyromeisterin";4;en;0,57;"e01";mythic
+"Chandra, Novice Pyromancer";"Chandra, Pyromagier-Novizin";4;en;0,16;"m20";uncommon
+"Torbran, Thane of Red Fell";"Torbran, Than von Bluthall";4;en;0,92;"eld";rare
+"Chandra, Fire Artisan";"Chandra, Feuerformerin";4;en;0,42;"war";rare
+"Chandra, Flamecaller";"Chandra die Flammenruferin";6;en;0,48;"c20";mythic
+"Chandra, Heart of Fire";"Chandra, Herz aus Feuer";5;en;0,32;"m21";mythic
+"Chandra, Flame's Catalyst";"Chandra, Auslöserin der Flamme";6;en;;"m21";mythic
+"Chandra, Bold Pyromancer";"Chandra, kühne Pyromagierin";6;en;;"dom";mythic
+"Eiganjo Exemplar";"Eiganjo-Vorbild";2;en;0,02;"neo";common
+"Iizuka the Ruthless";"Iizuka der Mitleidslose";5;en;1,25;"sok";rare
+"Raiyuu, Storm's Edge";"Raiyuu, Klinge des Sturms";4;en;0,20;"neo";rare
+"Godo, Bandit Warlord";"Godo, Fürst der Banditen";6;en;0,91;"chk";rare
+"Ronin Cliffrider";"Ronin-Klippenreiter";5;en;0,18;"bok";uncommon
+"Imperial Subduer";"Kaiserliche Unterdrückerin";3;en;0,06;"neo";common
+"Konda, Lord of Eiganjo";"Konda, Fürst von Eiganjo";7;en;2,51;"chk";rare
+"Experimental Synthesizer";"Experimenteller Synthetisierer";1;en;1,23;"neo";common
+"Michiko Konda, Truth Seeker";"Michiko Konda, Wahrheitssucherin";4;en;1,90;"j22";rare
+"Reinforced Ronin";"Verstärkter Ronin";1;en;0,13;"neo";uncommon
+"Nagao, Bound by Honor";"Nagao, durch Ehre gebunden";4;en;0,19;"chk";uncommon
+"Peerless Samurai";"Unvergleichliche Samurai";3;en;0,03;"neo";common
+"Samurai of the Pale Curtain";"Samurai des bleichen Vorhangs";2;en;0,39;"chk";uncommon
+"Fumiko the Lowblood";"Fumiko, die Tiefgeborene";4;en;0,17;"c20";rare
+"Hand of Honor";"Hand der Ehre";2;en;0,43;"sok";uncommon
+"Opal-Eye, Konda's Yojimbo";"Opalauge, Kondas Yojimbo";3;en;1,20;"bok";rare
+"Sigil of Valor";"Siegel der Tapferkeit";2;en;0,05;"brr";uncommon
+"Konda's Hatamoto";"Kondas Hatamoto";2;en;0,18;"chk";uncommon
+"Heiko Yamazaki, the General";"Heiko Yamazaki, die Generalin";4;en;0,11;"neo";uncommon
+"Norika Yamazaki, the Poet";"Norika Yamazaki, die Poetin";3;en;0,11;"neo";uncommon
+"Sokenzan Spellblade";"Sokenzan-Haudegen";5;en;0,07;"sok";common
+"Kentaro, the Smiling Cat";"Kentaro, die Grinsekatze";2;en;0,72;"bok";rare
+"Call to Glory";"Ruf zum Ruhm";2;en;0,11;"chk";common
+"Oathkeeper, Takeno's Daisho";"Eidbewahrer, Takenos Daisho";3;en;2,24;"chk";rare
+"Kitsune Blademaster";"Kitsune-Klingenmeister";3;en;0,09;"chk";common
+"Risona, Asari Commander";"Risona, Asari-Kommandeurin";3;en;0,13;"neo";rare
+"Selfless Samurai";"Selbstloser Samurai";2;en;0,08;"neo";uncommon
+"Asari Captain";"Asari-Hauptmann";5;en;0,04;"neo";uncommon
+"Akki Ronin";"Akki-Ronin";2;en;0,05;"neo";common
+"Araba Mothrider";"Araba-Mottenreiter";2;en;0,13;"sok";common
+"Takeno, Samurai General";"Takeno, Samurai-General";6;en;0,34;"chk";rare
+"Devoted Retainer";"Eifriger Gefolgsmann";1;en;0,15;"chk";common
+"Scion of Oona";"Oonas Spross";3;en;1,84;"woc";rare
+"Alela, Cunning Conqueror";"Alela, listige Eroberin";4;en;0,72;"woc";mythic
+"Faerie Seer";"Prophezeiende Fee";1;en;0,51;"woc";common
+"Sower of Temptation";"Säerin der Versuchung";4;en;0,56;"woc";rare
+"Cloud of Faeries";"Feenwolke";2;en;0,16;"woc";common
+"Brazen Borrower // Petty Theft";"";3;en;6,40;"woc";mythic
+"Glen Elendra Archmage";"Erzmagier der Elendraschlucht";4;en;4,41;"woc";rare
+"Faerie Bladecrafter";"Feen-Klingenschmied";3;en;0,27;"woc";rare
+"Faerie Tauntings";"Feenspott";3;en;0,53;"lrw";uncommon
+"Spellstutter Sprite";"Stotterzauber-Sylphide";2;en;3,20;"lrw";common
+"Faerie Artisans";"Feen-Handwerker";4;en;1,01;"cmm";rare
+"Nymris, Oona's Trickster";"Nymris, Oonas Gauner";5;en;0,17;"woc";rare
+"Nightveil Sprite";"Nachtschleiersylphide";2;en;0,11;"woc";uncommon
+"Archmage of Echoes";"Erzmagier der Echos";5;en;1,26;"woc";rare
+"Mocking Sprite";"Spottende Sylphide";3;en;0,08;"woe";common
+"Nettling Nuisance";"Quälende Nervensäge";3;en;0,20;"woc";rare
+"Quickling";"Flinkling";2;en;0,11;"woc";uncommon
+"Talion, the Kindly Lord";"Talion der Großzügige";4;en;4,81;"woe";mythic
+"Tegwyll's Scouring";"Tegwylls Säuberung";6;en;0,29;"woc";rare
+"Picklock Prankster // Free the Fae";"";2;en;0,71;"woe";uncommon
+"Faerie Slumber Party";"Schlummerfeier der Feen";6;en;0,91;"woe";rare
+"Faerie Formation";"Feenformation";5;en;0,17;"woc";rare
+"Glen Elendra Liege";"Vasall der Elendraschlucht";4;en;0,31;"woc";rare
+"Malleable Impostor";"Verformbarer Hochstapler";4;en;0,98;"woc";rare
+"Faerie Harbinger";"Feen-Vorbote";4;en;1,39;"lrw";uncommon
+"Halo Forager";"Halo-Erbeuterin";3;en;0,14;"woc";uncommon
+"Tegwyll, Duke of Splendor";"Tegwyll, Fürst der Pracht";3;en;0,48;"woc";mythic
+"Rankle, Master of Pranks";"Rankel, Meister der Streiche";4;en;0,76;"woc";rare
+"Spell Stutter";"Stotterzauber-Sylphide";2;en;0,11;"woe";common
+"Shadow Puppeteers";"Puppenspieler der Schatten";7;en;0,32;"woc";rare
+"Notorious Throng";"Berüchtigte Schar";4;en;1,98;"znc";rare
+"Puppeteer Clique";"Puppenspieler-Clique";5;en;0,20;"woc";rare
+"Obyra, Dreaming Duelist";"Obyra, träumende Duellantin";2;en;0,11;"woe";uncommon
+"Likeness Looter";"Abbild-Aneigner";2;en;0,89;"woe";rare
+"Oona, Queen of the Fae";"Oona, Königin der Feen";6;en;0,29;"woc";rare
+"Blightwing Bandit";"Fäulnisflügel-Banditin";4;en;0,57;"woc";rare
+"Faerie Vandal";"Feen-Vandale";2;en;0,18;"znc";uncommon
+"Hypnotic Sprite // Mesmeric Glare";"";2;en;0,10;"woc";uncommon
+"Spellscorn Coven // Take It Back";"";4;en;0,06;"woe";uncommon
+"Stolen by the Fae";"Von Feen gestohlen";2;en;0,16;"j22";rare
+"Wydwen, the Biting Gale";"Wydwen, das harsche Lüftchen";4;en;0,24;"c20";rare
+"Faerie Trickery";"Feen-Trickserei";3;en;0,30;"lrw";common
+"Elspeth Tirel";"Elspeth Tirel";5;en;0,56;"onc";mythic
+"Thousand Moons Infantry";"Infanterist der Tausend Monde";3;en;0,03;"lci";common
+"Oltec Cloud Guard";"Oltec-Wolkenwächterin";4;en;0,06;"lci";common
+"Selfless Squire";"Selbstlose Junkerin";4;en;0,83;"c16";rare
+"Mobilization";"Mobilisierung";3;en;0,47;"c14";rare
+"Alliance of Arms";"Waffenbrüderschaft";1;en;4,23;"cmd";rare
+"Darien, King of Kjeldor";"Darien, König von Kjeldor";6;en;1,21;"csp";rare
+"Platoon Dispenser";"Kolonnenverteiler";5;en;0,82;"bro";mythic
+"Throne of the God-Pharaoh";"Thron des Gott-Pharaos";2;en;4,88;"akh";rare
+"Faramir, Prince of Ithilien";"Faramir, Prinz von Ithilien";4;en;0,37;"ltr";rare
+"Odric, Master Tactician";"Odric der Meistertaktiker";4;en;0,32;"m13";rare
+"Rescue Retriever";"Rettungshund";5;en;0,38;"bro";rare
+"Call the Coppercoats";"Ruft die Kupferjacken";3;en;1,13;"ncc";rare
+"Ambush Paratrooper";"Hinterhalt-Absprungjäger";2;en;0,11;"bro";common
+"Cathar Commando";"Katharer-Kommandosoldatin";2;en;0,34;"mid";common
+"Aven Wind Guide";"Avior-Windführer";4;en;0,13;"akh";uncommon
+"Daru Warchief";"Daru-Kriegshäuptling";4;en;0,53;"scg";uncommon
+"Resolute Reinforcements";"Entschlossene Verstärkungen";2;en;0,23;"dmu";uncommon
+"You're Confronted by Robbers";"Du wirst von Räubern aufgehalten";4;en;0,09;"clb";common
+"Haazda Marshal";"Haazda-Marschall";1;en;0,14;"grn";uncommon
+"Survivor of Korlis";"Überlebende aus Korlis";1;en;0,08;"bro";common
+"Sworn Companions";"Treue Verbündete";3;en;0,05;"grn";common
+"Valiant Veteran";"Tapferer Veteran";2;en;0,59;"dmu";rare
+"Captain of the Watch";"Hauptmann der Wache";6;en;0,47;"m13";rare
+"Finale of Glory";"Finale des Ruhms";2;en;0,73;"war";mythic
+"Recruitment Officer";"Rekrutierungsoffizierin";1;en;0,19;"bro";uncommon
+"Skystrike Officer";"Luftangriffsoffizier";3;en;0,20;"bro";rare
+"Fortified Beachhead";"Befestigter Brückenkopf";0;en;0,55;"bro";rare
+"Harbin, Vanguard Aviator";"Harbin, Pilot der Vorhut";2;en;0,21;"bro";rare
+"Raise the Alarm";"Alarmschlagen";2;en;0,08;"cmr";common
+"Veteran Swordsmith";"Erfahrener Schwertschmied";3;en;0,17;"ddo";common
+"Captain's Call";"Ruf des Hauptmanns";4;en;0,05;"cmr";common
+"Wyrm's Crossing Patrol";"Wyrmübergang-Patrouille";1;en;0,15;"clb";common
+"Esquire of the King";"Schildknappe des Königs";1;en;0,04;"ltr";common
+"Pippin, Guard of the Citadel";"Pippin, Wächter der Zitadelle";2;en;0,54;"ltr";rare
+"Siege Veteran";"Belagerungsveteranin";3;en;0,40;"bro";rare
+"Boromir, Warden of the Tower";"Boromir, Wächter des Turms";3;en;2,55;"ltr";rare
+"Launch the Fleet";"Die Flotte aussenden";1;en;0,37;"jou";rare
+"Captain's Call";"Ruf des Hauptmanns";4;en;0,03;"dmu";common
+"Argivian Phalanx";"Argivische Phalanx";6;en;0,06;"dmu";common
+"Mass Production";"Massenproduktion";6;en;0,08;"bro";uncommon
+"Tura Kennerüd, Skyknight";"Tura Kennerüd, die Himmelsritterin";5;en;0,08;"dmu";uncommon
+"Repel Intruders";"Eindringlinge zurücktreiben";4;en;0,17;"shm";uncommon
+"Protect the Negotiators";"Schutz der Unterhändler";2;en;0,12;"dmu";uncommon
+"Skystrike Officer";"Luftangriffsoffizier";3;en;0,20;"bro";rare
+"Lu Xun, Scholar General";"Lu Xun, Hochgelehrter General";4;en;0,34;"c13";rare
+"Gideon's Avenger";"Gideons Rächer";3;en;0,72;"m12";rare
+"Bastion Protector";"Beschützerin der Bastion";3;en;0,86;"c15";rare
+"Crovax, Ascendant Hero";"Crovax, aufsteigender Held";6;en;0,33;"tsr";mythic
+"EMPTY";"Kannushi des leeren Schreins";0;;;"";
+"Oracle's Attendants";"Gefolgsmann des Orakels";4;en;0,16;"8ed";rare
+"Spectator Seating";"Zuschauerränge";0;en;8,33;"cmr";rare
+"Vault of Champions";"Grabgewölbe der Champions";0;en;9,14;"cmr";rare
+"Rejuvenating Springs";"Verjüngende Quellen";0;en;4,26;"cmr";rare
+"Sea of Clouds";"Wolkenmeer";0;en;7,11;"bbd";rare
+"Watery Grave";"Nasses Grab";0;en;13,47;"grn";rare
+"Breeding Pool";"Aufzuchttümpel";0;en;14,99;"gtc";rare
+"Sacred Foundry";"Heilige Schmelze";0;en;15,09;"gtc";rare
+"Steam Vents";"Dampfschlote";0;en;12,41;"grn";rare
+"Dreamroot Cascade";"Traumwurz-Kaskade";0;en;2,93;"vow";rare
+"Stormcarved Coast";"Sturmgepeitschte Küste";0;en;4,77;"vow";rare
+"Shattered Sanctum";"Heiligtum der zerschellten Höhen";0;en;12,24;"vow";rare
+"Deserted Beach";"Verlassener Strand";0;en;4,69;"mid";rare
+"Karplusan Forest";"Karplusanischer Wald";0;en;3,47;"c16";rare
+"Caves of Koilos";"Höhlen von Koilos";0;en;0,72;"md1";rare
+"Yavimaya Coast";"Yavimayaküste";0;en;0,63;"ori";rare
+"Sulfurous Springs";"Schwefelquellen";0;en;4,09;"6ed";rare
+"Llanowar Wastes";"Llanowar-Ödland";0;en;1,25;"c19";rare
+"Shivan Reef";"Shivanisches Riff";0;en;0,93;"dmu";rare
+"Adarkar Wastes";"Adarkarwüste";0;en;2,29;"dmu";rare
+"Battlefield Forge";"Feldschmiede";0;en;1,38;"ori";rare
+"Clifftop Retreat";"Felskuppenzuflucht";0;en;1,28;"isd";rare
+"Sulfur Falls";"Schwefelfälle";0;en;0,85;"dom";rare
+"Hinterland Harbor";"Hinterlandhafen";0;en;0,91;"dom";rare
+"Dragonskull Summit";"Drachenschädel-Pass";0;en;1,57;"c16";rare
+"Isolated Chapel";"Isolierte Kapelle";0;de;;"dom";rare
+"Woodland Cemetery";"Waldfriedhof";0;en;1,06;"dom";rare
+"Glacial Fortress";"Gletscherfestung";0;en;1,45;"m13";rare
+"Temple of Abandon";"Tempel der Unbekümmertheit";0;en;0,32;"thb";rare
+"Temple of Epiphany";"Tempel der Eingebung";0;en;0,21;"m20";rare
+"Temple of Triumph";"Tempel des Triumphes";0;en;0,15;"onc";rare
+"Temple of Deceit";"Tempel der Täuschung";0;en;0,18;"woc";rare
+"Temple of Mystery";"Tempel der Geheimnisse";0;en;0,17;"m20";rare
+"Temple of Malady";"Tempel des Siechtums";0;en;0,19;"m20";rare
+"Temple of Silence";"Tempel des Schweigens";0;en;0,19;"clb";rare
+"Temple of Enlightenment";"Tempel der Erleuchtung";0;en;0,20;"thb";rare
+"Game Trail";"Wildpfad";0;en;0,34;"soi";rare
+"Vineglimmer Snarl";"Rankenschimmer-Knoten";0;en;0,58;"stx";rare
+"Shineshadow Snarl";"Leuchtschatten-Knoten";0;en;0,29;"moc";rare
+"Frostboil Snarl";"Siedefrost-Knoten";0;en;0,57;"stx";rare
+"Necroblossom Snarl";"Nekroblüten-Knoten";0;en;0,86;"stx";rare
+"Choked Estuary";"Tote Flussmündung";0;en;0,22;"moc";rare
+"Port Town";"Hafenstadt";0;en;0,32;"soi";rare
+"Furycalm Snarl";"Zornesruh-Knoten";0;en;0,22;"onc";rare
+"Mossfire Valley";"Moosfeuer-Tal";0;en;2,69;"ody";rare
+"Sungrass Prairie";"Sonnengras-Prärie";0;en;0,28;"c16";rare
+"Shadowblood Ridge";"Schattenblut-Grat";0;en;0,29;"c20";rare
+"Skycloud Expanse";"Himmelswolken-Weite";0;en;0,18;"c20";rare
+"Darkwater Catacombs";"Dunkelwasser-Katakomben";0;en;0,19;"woc";rare
+"Fetid Heath";"Stinkende Heide";0;en;2,70;"2xm";rare
+"Graven Cairns";"Behauene Steinpyramiden";0;en;6,39;"2xm";rare
+"Fire-Lit Thicket";"Feuerhelles Dickicht";0;en;8,93;"2xm";rare
+"Mystic Gate";"Mystisches Tor";0;en;3,79;"2xm";rare
+"Rugged Prairie";"Wilde Prärie";0;en;1,56;"2xm";rare
+"Hengegate Pathway // Mistgate Pathway";"";0;en;8,41;"khm";rare
+"Cragcrown Pathway // Timbercrown Pathway";"";0;en;4,77;"znr";rare
+"Barkchannel Pathway // Tidechannel Pathway";"";0;en;4,82;"khm";rare
+"Brightclimb Pathway // Grimclimb Pathway";"";0;en;3,73;"znr";rare
+"Needleverge Pathway // Pillarverge Pathway";"";0;en;4,70;"znr";rare
+"Sheltered Thicket";"Geschütztes Gestrüpp";0;en;0,27;"akh";rare
+"Fetid Pools";"Verweste Tümpel";0;en;0,76;"akh";rare
+"Irrigated Farmland";"Bewässertes Ackerland";0;en;0,32;"akh";rare
+"Scattered Groves";"Verstreute Haine";0;en;0,33;"akh";rare
+"Forgotten Cave";"Vergessene Höhle";0;en;0,13;"c20";uncommon
+"Tranquil Thicket";"Stilles Dickicht";0;en;0,14;"ddu";common
+"Lonely Sandbar";"Einsame Sandbank";0;en;0,12;"c20";uncommon
+"Barren Moor";"Ödes Moor";0;en;0,27;"c19";uncommon
+"Secluded Steppe";"Abgelegene Steppe";0;en;0,10;"mh1";uncommon
+"Blasted Landscape";"Verwüsteter Landstrich";0;en;0,79;"cm2";uncommon
+"Sunken Hollow";"Versunkener Talkessel";0;en;0,39;"woc";rare
+"Smoldering Marsh";"Schwelendes Marschland";0;en;0,48;"c20";rare
+"Cinder Glade";"Zunderwald-Lichtung";0;en;0,47;"bfz";rare
+"Sunken Hollow";"Versunkener Talkessel";0;en;0,45;"bfz";rare
+"Prairie Stream";"Präriefluss";0;en;0,22;"moc";rare
+"Seat of the Synod";"Sitz der Synode";0;en;1,15;"ddu";common
+"Darksteel Citadel";"Nachtstahl-Zitadelle";0;en;0,72;"ddu";uncommon
+"Secluded Glen";"Abgelegene Schlucht";0;en;0,62;"woc";rare
+"Mystic Monastery";"Mystisches Kloster";0;en;0,24;"ddn";uncommon
+"Savage Lands";"Wilde Landschaften";0;en;0,36;"c18";uncommon
+"Seaside Citadel";"Seeküstenzitadelle";0;en;0,30;"c18";uncommon
+"Nomad Outpost";"Nomadenaußenposten";0;en;0,38;"c20";uncommon
+"Jungle Shrine";"Dschungelschrein";0;en;0,30;"c16";uncommon
+"Arcane Sanctum";"Mysteriöses Sanktum";0;en;0,38;"moc";uncommon
+"Sokenzan, Crucible of Defiance";"Sokenzan, Schmelztiegel des Widerstands";0;en;4,07;"neo";rare
+"Takenuma, Abandoned Mire";"Takenuma, verlassenes Schlammloch";0;en;9,93;"neo";rare
+"Eiganjo, Seat of the Empire";"Eiganjo, Sitz des Kaiserreichs";0;en;7,99;"neo";rare
+"Otawara, Soaring City";"Otawara, die schwebende Stadt";0;en;20,01;"neo";rare
+"Castle Garenbrig";"Schloss Garenbruck";0;en;3,67;"eld";rare
+"Castle Ardenvale";"Schloss Ardenthal";0;en;0,34;"onc";rare
+"Castle Locthwain";"Schloss Locthwain";0;en;4,23;"clb";rare
+"Castle Embereth";"Schloss Funkenhort";0;en;0,24;"onc";rare
+"Minas Tirith";"Heldinnen von Minas Tirith";0;en;2,95;"ltr";rare
+"Mines of Moria";"Minen von Moria";0;en;0,79;"ltr";rare
+"Windbrisk Heights";"Hurtigwindhöhen";0;en;0,22;"clb";rare
+"Mosswort Bridge";"Mooswurz-Brücke";0;en;0,22;"clb";rare
+"Spinerock Knoll";"Rückenfels-Hügelchen";0;en;0,37;"clb";rare
+"Secluded Steppe";"Abgelegene Steppe";0;en;0,10;"onc";uncommon
+"Forgotten Cave";"Vergessene Höhle";0;en;0,11;"onc";uncommon
+"Bant Panorama";"Panorama von Bant";0;en;0,23;"ala";common
+"Jund Panorama";"Panorama von Jund";0;en;0,29;"c18";common
+"Esper Panorama";"Panorama von Esper";0;en;0,13;"ala";common
+"Naya Panorama";"Panorama von Naya";0;en;0,20;"c19";common
+"Gargoyle Castle";"Schloss des Gargoyle";0;en;0,25;"c19";rare
+"Mutavault";"Ändergewölbe";0;en;8,10;"clb";rare
+"Shambling Vent";"Schlurfender Schlot";0;en;0,16;"clb";rare
+"Restless Reef";"Rastloses Riff";0;en;0,81;"lci";rare
+"Needle Spires";"Nadelfels-Plateau";0;en;0,20;"znc";rare
+"Restless Prairie";"Rastlose Prärie";0;en;0,30;"lci";rare
+"Hidden Volcano";"Versteckter Vulkan";0;en;0,09;"lci";common
+"Hidden Necropolis";"Versteckte Nekropolis";0;en;0,05;"lci";common
+"Hidden Cataract";"Versteckter Katarakt";0;en;0,06;"lci";common
+"EMPTY";"Kannushi des leeren Schreins";0;;;"";
+"Hidden Courtyard";"Versteckter Lichthof";0;de;;"lci";common
+"Adventurers' Guildhouse";"";0;en;9,93;"leg";uncommon
+"Khalni Garden";"Khalni-Garten";0;en;1,77;"c18";common
+"Oran-Rief, the Vastwood";"Oran-Rief, das Riesenholz";0;en;0,95;"ddu";rare
+"Yavimaya, Cradle of Growth";"Yavimaya, Wiege des Wachstums";0;en;7,14;"mh2";rare
+"Okina, Temple to the Grandfathers";"Okina, Tempel der Großväter";0;en;2,11;"chk";rare
+"Skemfar Elderhall";"Skemfar-Ältestenhalle";0;en;0,10;"khm";uncommon
+"Raging Ravine";"Tosende Klamm";0;en;0,16;"clb";rare
+"Halimar Depths";"Halimar-Untiefe";0;en;0,46;"c18";common
+"Faerie Conclave";"Feenkonklave";0;en;0,41;"woc";uncommon
+"Soaring Seacliff";"Schwebende Steilklippe";0;en;0,15;"c20";common
+"Hall of Storm Giants";"Halle der Sturmriesen";0;en;3,11;"afr";rare
+"Valakut, the Molten Pinnacle";"Valakut, die geschmolzene Zinne";0;en;11,69;"zen";rare
+"Shivan Gorge";"Shivanische Schlucht";0;en;;"v12";mythic
+"Escape Tunnel";"Fluchttunnel";0;en;0,20;"mkm";common
+"Echoing Deeps";"Widerhallende Tiefen";0;en;0,77;"lci";rare
+"Witch's Cottage";"Hexenhaus";0;en;0,47;"eld";common
+"Memorial to Folly";"Gedenkstätte der Torheit";0;en;0,13;"dom";uncommon
+"Mortuary Mire";"Totenschlamm";0;en;0,13;"bfz";common
+"Bojuka Bog";"Bojukamoor";0;en;1,40;"clb";common
+"Cavern of Souls";"Seelengewölbe";0;en;39,53;"lci";mythic
+"Maze of Ith";"Labyrinth von Ith";0;en;4,33;"2xm";rare
+"Vesuvan Shapeshifter";"Vesuvischer Gestaltwandler";5;en;0,13;"tsr";rare
+"Junktown";"Junktown";0;en;0,23;"pip";rare
+"Starlit Sanctum";"Sternenlicht-Heiligtum";0;en;0,15;"clb";uncommon
+"Vault of the Archangel";"Gruft des Erzengels";0;en;0,50;"clb";rare
+"Nimbus Maze";"Labyrinth des Heiligenscheins";0;en;3,54;"afc";rare
+"Gavony Township";"Kleinstadt in Gaven";0;en;1,35;"isd";rare
+"Desolate Lighthouse";"Trostloser Leuchtturm";0;en;0,21;"uma";rare
+"Grove of the Burnwillows";"Hain der Brandweiden";0;en;7,65;"ima";rare
+"Rix Maadi, Dungeon Palace";"Rix Maadi, Palast aus Kerkern";0;en;0,11;"c19";uncommon
+"Skarrg, the Rage Pits";"Skarrg, die Gruben des Zorns";0;en;0,23;"pc2";uncommon
+"Tainted Field";"Verseuchtes Feld";0;en;0,21;"clb";uncommon
+"Grim Backwoods";"Grimmiger Hinterwald";0;en;0,27;"cma";rare
+"Slayers' Stronghold";"Festung der Monstertöter";0;en;0,22;"onc";rare
+"Tainted Isle";"Verseuchtes Eiland";0;en;0,66;"woc";uncommon
+"Promising Vein";"Vielversprechende Ader";0;en;0,09;"lci";common
+"Exotic Orchard";"Exotischer Obstgarten";0;en;0,18;"woc";rare
+"Plaza of Harmony";"Platz der Harmonie";0;en;0,45;"rna";rare
+"Crucible of the Spirit Dragon";"Hort des Geisterdrachen";0;en;0,36;"frf";rare
+"Mishra's Foundry";"Mishras Schmelze";0;en;0,50;"bro";rare
+"Sunken Citadel";"Versunkene Zitadelle";0;en;3,51;"lci";rare
+"Voldaren Estate";"Voldaren-Anwesen";0;en;0,25;"vow";rare
+"Access Tunnel";"Zugangstunnel";0;en;0,32;"stx";uncommon
+"Endless Sands";"Endlose Sande";0;en;0,17;"c20";rare
+"Mikokoro, Center of the Sea";"Mikokoro, Mitte des Meeres";0;en;2,19;"c21";rare
+"Path of Ancestry";"Pfad der Ahnen";0;en;0,15;"clb";common
+"Ancient Ziggurat";"Uralte Zikkurat";0;en;2,12;"con";uncommon
+"Animal Sanctuary";"Tierschutzgebiet";0;en;0,48;"m21";rare
+"Command Tower";"Befehlsturm";0;en;0,16;"znc";common
+"Reflecting Pool";"Widerspiegelnder Teich";0;en;7,67;"clb";rare
+"War Room";"Kriegskabinett";0;en;1,75;"clb";rare
+"The Biblioplex";"Der Biblioplex";0;en;0,10;"stx";rare
+"Palace Siege";"Belagerung des Palastes";5;pt;;"c17";rare
+"Base Camp";"Basislager";0;en;0,06;"znr";uncommon
+"Interplanar Beacon";"Interplanarer Signalturm";0;en;0,10;"war";uncommon
+"Isolated Watchtower";"Abgelegener Wachturm";0;en;0,65;"c18";rare
+"Forge of Heroes";"Schmiede der Helden";0;en;0,26;"c18";common
+"Foundry of the Consuls";"Gießerei der Konsule";0;en;0,16;"ddu";uncommon
+"Temple of the False God";"Tempel der falschen Göttin";0;en;0,16;"c17";uncommon
+"Phyrexia's Core";"Phyrexias Kern";0;en;0,12;"ddu";uncommon
+"Cryptic Caves";"Kryptische Höhlen";0;en;0,15;"m20";uncommon
+"Zoetic Cavern";"Vitale Kaverne";0;en;0,14;"fut";uncommon
+"Reliquary Tower";"Turm des Reliquienschreins";0;en;0,93;"m19";uncommon
+"Field of Ruin";"Schauplatz der Verheerung";0;en;0,23;"thb";uncommon
+"Nesting Grounds";"Brutgründe";0;en;0,60;"c20";rare
+"Blast Zone";"Sprengzone";0;en;0,45;"war";rare
+"Drownyard Temple";"Unterwassergrab-Tempel";0;en;0,18;"c19";rare
+"Hostile Desert";"Feindliche Wüste";0;en;0,18;"c20";rare
+"Westvale Abbey // Ormendahl, Profane Prince";"";0;en;4,70;"soi";rare
+"Sanctum of Eternity";"Heiligtum der Ewigkeit";0;en;3,54;"c19";rare
+"Geier Reach Sanitarium";"Geierberg-Sanatorium";0;en;1,28;"c19";rare
+"Nykthos, Shrine to Nyx";"Nykthos, Schrein von Nyx";0;en;26,85;"ths";rare
+"Treasure Vault";"Schatzkammer";0;en;3,57;"afr";rare
+"Karn's Bastion";"Karns Bastion";0;en;1,23;"war";rare
+"Shrine of the Forsaken Gods";"Schrein der vergessenen Götter";0;en;0,28;"c19";rare
+"Command Beacon";"Kommando-Signalturm";0;en;5,72;"cmr";rare
+"Unclaimed Territory";"Unbeanspruchtes Territorium";0;en;0,47;"xln";uncommon
+"Demolition Field";"Abrisszone";0;en;0,84;"bro";uncommon
+"Buried Ruin";"Verschüttete Ruinen";0;en;0,38;"onc";uncommon
+"Kessig Wolf Run";"Wolfspfad in Kessig";0;en;0,28;"clb";rare
+"Myriad Landscape";"Mannigfaltige Landschaft";0;en;0,21;"moc";uncommon
+"Kher Keep";"Kherburg";0;en;0,16;"onc";rare
+"Abstergo Entertainment";"Abstergo Entertainment";0;en;0,58;"acr";rare
+"Emerald Medallion";"Smaragdmedaillon";2;en;5,99;"tmp";rare
+"Pearl Medallion";"Perlenmedaillon";2;en;3,27;"c14";rare
+"Ruby Medallion";"Rubinmedaillon";2;en;14,09;"tmp";rare
+"Sapphire Medallion";"Saphirmedaillon";2;en;2,46;"cmm";rare
+"Jet Medallion";"Anthrazitmedaillon";2;en;3,31;"cmm";rare
+"Mana Crypt";"Manakrypta";0;en;150,24;"plst";mythic
+"Scroll Rack";"Bücherregal";2;en;19,15;"cmr";mythic
+"Esper Sentinel";"Wachposten des Perlendreizacks";1;en;17,70;"mh2";rare
+"Commander's Plate";"Plattenrüstung des Kommandeurs";1;en;34,23;"cmr";mythic
+"The Great Henge";"Der Große Steinkreis";9;en;43,24;"eld";mythic
+"Akroma's Memorial";"Akromas Denkmal";7;en;19,06;"tsr";mythic
+"Iroas, God of Victory";"Iroas, Gott des Sieges";4;en;17,62;"c16";mythic
+"Allosaurus Shepherd";"Allosaurus-Hirte";1;en;26,21;"jmp";mythic
+"Craterhoof Behemoth";"Kraterhuf-Behemoth";8;en;28,70;"mm3";mythic
+"Sylvan Library";"Waldesbibliothek";2;en;21,32;"4ed";rare
+"Doubling Season";"Zeit der Verdopplung";5;en;29,69;"2xm";mythic
+"Branching Evolution";"Verzweigte Evolution";3;en;3,15;"jmp";rare
+"Guardian Project";"Wächterprojekt";4;en;5,35;"rna";rare
+"Parallel Lives";"Parallel-Leben";4;en;22,86;"isd";rare
+"Finale of Devastation";"Finale der Vernichtung";2;en;22,17;"war";mythic
+"Force of Vigor";"Vitalitätskraft";4;en;7,82;"mh1";rare
+"Forest Bear";"";2;en;12,54;"ptk";common
+"Razorclaw Bear";"Messerklauenbär";4;en;21,57;"p02";rare
+"Worldly Tutor";"Irdischer Lehrmeister";1;en;9,32;"6ed";uncommon
+"Scapeshift";"Landschaftswechsel";4;en;11,01;"mor";rare
+"Vaultborn Tyrant";"Tresorgeborener Tyrann";7;en;;"big";mythic
+"Elspeth, Sun's Champion";"Elspeth, Auserwählte der Sonne";6;en;;"slc";mythic
+"Myrel, Shield of Argive";"Myrel, Schild von Argivia";4;en;14,37;"bro";mythic
+"Mondrak, Glory Dominus";"Mondrak, Dominus des Ruhms";4;en;29,64;"one";mythic
+"Elesh Norn, Grand Cenobite";"Elesh Norn, Hohe Zönobitin";7;en;13,67;"plst";mythic
+"Anointed Procession";"Prozession der Gesalbten";4;en;35,57;"akh";rare
+"Land Tax";"Grundsteuer";1;fr;13,41;"ren";uncommon
+"Smothering Tithe";"Erdrückender Zehnt";4;en;18,38;"rna";rare
+"Teferi's Protection";"Teferis Schutzbann";3;en;29,71;"plst";rare
+"Akroma's Will";"Akromas Wille";4;en;11,90;"cmr";rare
+"Faerie Mastermind";"Feen-Genie";2;en;9,20;"mom";rare
+"Rhystic Study";"Rhystisches Studium";3;en;31,11;"pcy";common
+"Expropriate";"";9;en;14,73;"plst";mythic
+"Pact of Negation";"Pakt der Verneinung";0;en;10,93;"tsr";rare
+"Mystical Tutor";"Mystischer Lehrmeister";1;en;;"sld";rare
+"Mistbind Clique";"Nebelband-Clique";4;en;8,85;"lrw";rare
+"Chandra Nalaar // Chandra Nalaar";"Chandra Nalaar";0;en;;"sld";mythic
+"Dockside Extortionist";"Erpresser vom Hafen";2;en;76,63;"c19";rare
+"Winds of Change";"Winde des Wechsels";1;fr;6,10;"ren";uncommon
+"Jeska's Will";"Jeskas Wille";3;en;17,77;"cmr";rare
+"Deflecting Swat";"Abwehrender Schlag";3;en;33,95;"c20";rare
+"Etali, Primal Storm // Etali, Primal Storm";"Etali der Ursturm";0;en;;"sld";rare
+"Black Market Connections";"Schwarzmarkt-Verbindungen";3;en;13,18;"clb";rare
+"Reanimate";"Reanimation";1;en;8,08;"jmp";rare
+"Exquisite Blood";"Vorzügliches Blut";5;en;20,57;"jmp";rare
+"Grim Tutor";"Grimmiger Lehrmeister";3;en;13,26;"m21";mythic
+"Deadly Rollick";"Tödliches Toben";4;en;17,79;"c20";rare
+"Bitterblossom";"Bitterblüte";2;en;14,86;"wot";mythic
+"Demonic Tutor";"Dämonischer Tutor";2;en;40,52;"sta";mythic
+"Ian Chesterton";"Ian Chesterton";3;en;0,25;"who";rare
+"Rite of Harmony";"Ritus der Harmonie";2;en;0,67;"mid";rare
+"Boseiju Reaches Skyward // Branch of Boseiju";"";4;en;0,09;"neo";uncommon
+"Generous Visitor";"Großzügiger Besucher";1;en;0,14;"neo";uncommon
+"The Binding of the Titans";"Die Fesselung der Titanen";2;en;0,14;"thb";uncommon
+"Cleansing Nova";"Reinigende Nova";5;en;0,49;"khc";rare
+"Weaver of Harmony";"Weber der Harmonie";2;en;1,23;"neo";rare
+"Sunpetal Grove";"Sonnenblütenhain";0;de;;"xln";rare
+"Azusa's Many Journeys // Likeness of the Seeker";"";2;en;0,09;"neo";uncommon
+"Resurgent Belief";"Wiederauflebender Glaube";0;en;0,34;"mh2";rare
+"Auramancer";"Auraschöpfer";3;en;0,14;"m14";common
+"Scholar of New Horizons";"Gelehrter der Neuen Horizonte";2;en;1,18;"brc";rare
+"Fortified Village";"Befestigtes Dorf";0;en;0,27;"soi";rare
+"Brushland";"Gestrüppland";0;en;5,16;"ice";rare
+"Michiko's Reign of Truth // Portrait of Michiko";"";2;en;0,20;"neo";uncommon
+"Femeref Enchantress";"Zauberin der Femeref";2;en;9,93;"vis";rare
+"Befriending the Moths // Imperial Moth";"";4;en;0,04;"neo";common
+"Strength of the Harvest // Haven of the Harvest";"";3;en;0,29;"mh3";uncommon
+"Jukai Naturalist";"Jukai-Naturalist";2;en;0,22;"neo";uncommon
+"Celestial Ancient";"Himmlisches Urwesen";5;en;0,34;"c15";rare
+"Archon of Sun's Grace";"Archon der Sonnengnade";4;en;0,56;"cmm";rare
+"Spirited Companion";"Lebhafter Begleiter";2;en;0,26;"neo";common
+"Elspeth Conquers Death";"Elspeth bezwingt den Tod";5;en;0,60;"thb";rare
+"Teachings of the Kirin // Kirin-Touched Orochi";"";2;en;0,17;"neo";rare
+"The Restoration of Eiganjo // Architect of Restoration";"";3;en;0,67;"neo";rare
+"Sol Ring";"Sonnenring";1;en;0,69;"moc";uncommon
+"The Birth of Meletis";"Die Gründung von Meletis";2;en;0,22;"thb";uncommon
+"Satyr Enchanter";"Satyr-Verzauberer";3;en;0,58;"m19";uncommon
+"Love Song of Night and Day";"Liebeslied von Nacht und Tag";3;en;0,06;"dmu";uncommon
+"Fall of Gil-galad";"Gil-galads Untergang";2;en;0,22;"ltr";rare
+"Historian's Boon";"Segen der Historiker";4;en;1,62;"dmc";rare
+"Command Tower";"Befehlsturm";0;en;0,13;"moc";common
+"Temple of Plenty";"Tempel des Überflusses";0;en;0,49;"bng";rare
+"Cultivate";"Kultivieren";3;en;0,45;"clb";uncommon
+"Season of Renewal";"Zeit der Erneuerung";3;en;0,11;"neo";common
+"Ajani Fells the Godsire";"Ajani bezwingt den Göttervater";5;en;0,15;"mh3";uncommon
+"Mesa Enchantress";"Tafelberg-Zauberin";3;de;;"dmr";uncommon
+"The Weatherseed Treaty";"Das Wetterkern-Abkommen";3;en;0,10;"dmu";uncommon
+"Unnatural Restoration";"Unnatürliche Wiederherstellung";2;en;0,22;"one";uncommon
+"The Fall of Lord Konda // Fragment of Konda";"";3;en;0,08;"neo";uncommon
+"Ajani's Chosen";"Ajanis Auserwählte";4;en;0,24;"c18";rare
+"Fall of the First Civilization";"Niedergang der Ersten Zivilisation";3;en;0,12;"acr";uncommon
+"Temple Garden";"Tempelgarten";0;en;10,20;"grn";rare
+"Overgrown Farmland";"Überwachsenes Ackerland";0;en;4,05;"mid";rare
+"The First Iroan Games";"Die ersten Iroanischen Spiele";3;en;0,36;"thb";rare
+"The Mending of Dominaria";"Die Wiederherstellung Dominarias";5;en;0,16;"cmm";rare
+"Jugan Defends the Temple // Remnant of the Rising Star";"";3;en;1,53;"neo";mythic
+"Barbara Wright";"Barbara Wright";2;en;0,33;"who";rare
+"The World Spell";"Der Weltenzauber";7;en;0,70;"dmu";mythic
+"Power Conduit";"Stromleiter";2;de;;"mrd";uncommon
+"Battle for Bretagard";"Schlacht um Bretagard";3;en;0,16;"khm";rare
+"Triumph of Gerrard";"Gerrards Triumph";2;en;0,23;"dom";uncommon
+"Tale of Tinúviel";"Geschichte von Tinúviel";5;en;0,06;"ltr";uncommon
+"Brilliant Restoration";"Brillante Wiederherstellung";7;en;0,78;"neo";rare
+"Storyweave";"Geschichtenflechtung";3;en;0,08;"neo";uncommon
+"Teshar, Ancestor's Apostle";"Teshar, Apostel der Ahnfrau";4;en;0,24;"dmc";rare
+"Song of Freyalise";"Freyalises Lied";2;en;0,52;"dom";uncommon
+"Tales of Master Seshiro // Seshiro's Living Legacy";"";5;en;0,04;"neo";common
+"Satsuki, the Living Lore";"Satsuki, Gelebtes Wissen";2;en;0,17;"neo";rare
+"Enchantress's Presence";"Anwesenheit der Blütenzauberin";3;en;0,48;"woc";rare
+"Moon-Blessed Cleric";"Mondgesegnete Klerikerin";3;en;0,84;"afr";uncommon
+"Canopy Vista";"Blätterdach-Panorama";0;en;0,52;"bfz";rare
+"Commune with Spirits";"Zwiesprache mit den Geistern";1;en;0,16;"neo";common
+"Stirring Wildwood";"Aufgerüttelte Waldwildnis";0;en;0,46;"c17";rare
+"Flicker of Fate";"Aufflackern des Schicksals";2;en;0,12;"thb";common
+"Fall of the Impostor";"Sturz des Emporkömmlings";3;en;0,15;"khm";uncommon
+"Ferropede";"Ferroped";3;en;0,24;"5dn";uncommon
+"Cankerbloom";"Geschwürblüte";2;en;0,19;"one";uncommon
+"Era of Enlightenment // Hand of Enlightenment";"";2;en;0,06;"neo";common
+"Starnheim Courser";"Starnheim-Renner";3;en;0,14;"khm";common
+"Sythis, Harvest's Hand";"Sythis, die erntende Hand";2;en;1,11;"mh2";rare
+"Gaea's Touch";"";2;en;2,15;"drk";common
+"Asceticism";"Asketentum";5;en;3,62;"som";rare
+"Spidersilk Armor";"Spinnenseidenrüstung";3;en;1,55;"mmq";common
+"Harmonize";"In Einklang bringen";4;en;0,39;"sta";rare
+"Druid's Familiar";"Vertrauter des Druiden";4;en;0,16;"avr";uncommon
+"Pale Bears";"Eisbären";3;en;2,84;"ice";rare
+"Werebear";"Werbär";2;en;0,12;"ema";common
+"Nature's Claim";"Forderung der Natur";1;en;0,90;"wwk";common
+"Rampant Growth";"Wucherndes Wachstum";2;en;;"pw23";rare
+"Goreclaw, Terror of Qal Sisma";"Blutpranke, Schrecken von Qal Sisma";4;en;0,84;"m19";rare
+"Game-Trail Changeling";"Wildpfad-Wandelwicht";5;en;0,12;"mor";common
+"Balduvian Bears";"Balduvianische Bären";2;en;0,16;"ice";common
+"Ohran Frostfang";"Ohran-Frostzahn";5;en;2,58;"c19";rare
+"Caller of the Claw";"Tatzenrufer";3;en;1,91;"c15";rare
+"Vivien's Grizzly";"Viviens Grizzly";3;en;0,08;"war";common
+"Surrak and Goreclaw";"Surrak und Blutpranke";6;en;5,18;"mom";rare
+"Caged Sun";"Eingesperrte Sonne";6;en;1,74;"c14";rare
+"Heroic Intervention";"Heroische Intervention";2;en;8,38;"aer";rare
+"Loyal Guardian";"Loyaler Wächter";5;en;0,36;"c18";uncommon
+"Rampaging Yao Guai";"Tobender Yao Guai";3;en;1,34;"pip";rare
+"Grizzly Fate";"Grizzliges Schicksal";5;en;0,31;"jud";uncommon
+"Wilson, Refined Grizzly";"Wilson, kultivierter Grizzly";2;en;0,16;"clb";uncommon
+"Cultivate";"Kultivieren";3;en;0,40;"c19";common
+"Obscuring Haze";"Verbergender Dunstschleier";3;en;1,94;"c20";rare
+"River Bear";"Flussbär";4;en;1,47;"9ed";uncommon
+"Alpine Grizzly";"Alpiner Grizzly";3;en;0,15;"ktk";common
+"Argoth, Sanctum of Nature";"";0;en;;"bro";rare
+"Ruxa, Patient Professor";"Ruxa, geduldiger Professor";4;en;0,94;"c21";rare
+"Grizzly Bears";"Grizzlybären";2;en;0,09;"7ed";common
+"Drover Grizzly";"Viehtreiber-Grizzly";3;en;0,15;"otj";common
+"Mother Bear";"Bärenmutter";2;en;0,11;"mh1";common
+"Runeclaw Bear";"Runenklauenbär";2;en;0,15;"m10";common
+"Golden Bear";"Goldener Bär";4;en;0,37;"p02";common
+"Inspiring Call";"Anspornender Ruf";3;en;0,43;"40k";uncommon
+"Dragon-Scarred Bear";"Drachengezeichnete Bärin";3;en;0,10;"dtk";common
+"Ashcoat Bear";"Aschenpelzbär";2;en;0,28;"tsp";common
+"Realmwalker";"Reisender der Reiche";3;en;4,33;"lcc";rare
+"Owlbear";"Eulenbär";5;en;0,12;"afr";common
+"Three Visits";"Drei Besuche";2;en;3,73;"cmr";uncommon
+"Ulvenwald Bear";"Ulvenwald-Bär";3;en;0,14;"dka";common
+"Khalni Ambush // Khalni Territory";"";3;en;0,23;"znr";uncommon
+"Masked Vandal";"Maskierter Vandale";2;en;0,65;"khm";common
+"Sylvan Anthem";"Hymne des Waldes";2;en;0,57;"mh2";rare
+"Woodland Changeling";"Waldland-Wandelwicht";2;en;0,34;"lrw";common
+"Spectral Bears";"Gespenstische Bären";2;en;0,38;"hml";uncommon
+"Nature's Lore";"Naturgeheimnisse";2;en;1,28;"5ed";common
+"Bloodline Pretender";"Blutlinien-Vortäuscher";3;en;0,59;"moc";uncommon
+"Hardened Scales";"Gehärtete Schuppen";1;en;1,40;"ktk";rare
+"Master Chef";"Gyome der Meisterkoch";3;en;0,08;"clb";common
+"Beast Whisperer";"Bestienflüsterer";4;en;2,48;"grn";rare
+"Owlbear Cub";"Owlbear Cub";3;en;0,28;"clb";rare
+"Tribute to the World Tree";"Tribut an den Weltenbaum";3;en;7,31;"mom";rare
+"Striped Bears";"Getigerte Bären";4;en;0,31;"wth";common
+"Bear Cub";"Owlbear Cub";2;en;0,32;"p02";common
+"Ozolith, the Shattered Spire";"Ozolith, die zerborstene Zinne";2;en;6,48;"mom";rare
+"Copper Host Crusher";"Zerstampfer der Kupferschar";8;en;0,07;"mom";uncommon
+"Tyvar's Stand";"Tyvars Kampf";1;en;1,46;"one";uncommon
+"Fade from History";"Verloren in der Geschichte";4;en;0,38;"bro";rare
+"Ayula, Queen Among Bears";"Ayula, Königin der Bären";2;en;0,24;"mh1";rare
+"Cindervines";"Glühende Ranken";2;en;0,30;"rna";rare
+"Night's Whisper";"Nachtgeflüster";2;en;1,28;"ema";common
+"Chaos Warp";"Chaosschleife";3;en;0,60;"c18";rare
+"Seed of Hope";"Saat der Hoffnung";1;en;0,09;"mom";common
+"Stitcher's Supplier";"Lieferantin des Leichenflickers";1;en;2,09;"m19";uncommon
+"Birds of Paradise";"Paradiesvögel";1;en;5,92;"m12";rare
+"Rockfall Vale";"Felssturz-Tal";0;en;1,33;"mid";rare
+"Luxury Suite";"Luxus-Suite";0;en;10,57;"bbd";rare
+"Vandalblast";"Vandalenrandale";1;en;1,69;"rtr";uncommon
+"Golgari Signet";"Golgari-Petschaft";2;en;0,74;"c16";common
+"Impervious Greatwurm";"Gepanzerter Riesenwurm";10;en;;"grn";mythic
+"Faithless Looting";"Treuloses Plündern";1;en;0,24;"uma";common
+"Key to the City";"Schlüssel zur Stadt";2;en;0,18;"brr";rare
+"Titanoth Rex";"Titanosaurus Rex";9;en;0,23;"iko";uncommon
+"Boldwyr Heavyweights";"Boldwyr-Schwergewicht";4;en;0,93;"mor";rare
+"Talisman of Resilience";"Talisman der Zähigkeit";2;en;0,40;"mh1";uncommon
+"Tibalt's Trickery";"Thibalts Trickserei";2;en;6,72;"khm";rare
+"Alexios, Deimos of Kosmos";"Alexios, Deimos von Kosmos";4;en;0,18;"acr";uncommon
+"Bojuka Bog";"Bojukamoor";0;en;1,20;"moc";common
+"Phyrexian Colossus";"Phyrexianischer Koloss";7;en;0,34;"8ed";rare
+"Repercussion";"Harte Auswirkungen";3;en;5,80;"uds";rare
+"Ebonblade Reaper";"Schwarzklingen-Schnitter";3;en;3,39;"ons";rare
+"Wild Guess";"Wilde Vermutung";2;en;0,25;"m13";common
+"Ulamog's Crusher";"Ulamogs Schläger";8;en;0,21;"uma";common
+"Soulgorger Orgg";"Seelenverschlingender Orgg";5;en;0,35;"jud";uncommon
+"Grisly Salvage";"Grauenhafte Bergung";2;en;0,46;"c20";common
+"Force of Despair";"Verzweiflungskraft";3;en;8,95;"mh1";rare
+"Enslaved Horror";"Versklavter Schrecken";4;en;0,30;"mmq";uncommon
+"Magewright's Stone";"Stein der Zauberwerker";2;en;;"plst";uncommon
+"Bronze Bombshell";"Bronzene Sexbombe";4;en;2,98;"dis";rare
+"Deadbridge Chant";"Todesbrücken-Gesang";6;en;0,56;"dgm";mythic
+"Raucous Theater";"Radautheater";0;en;7,77;"mkm";rare
+"Golgari Charm";"Golgari-Amulett";2;en;0,82;"uma";uncommon
+"Circle of the Land Druid";"Druidin vom Zirkel des Landes";2;en;0,20;"clb";common
+"Sting, the Glinting Dagger";"Stich, der schimmernde Dolch";2;en;0,83;"ltr";rare
+"Command Tower";"Befehlsturm";0;en;0,18;"onc";common
+"Gift of the Viper";"Gabe der Viper";1;en;0,12;"mh3";common
+"Plaza of Heroes";"Gedenkplatz der Helden";0;en;7,84;"dmu";rare
+"Rakdos Signet";"Rakdos-Petschaft";2;en;0,73;"c20";uncommon
+"Seedborn Muse";"Muse des Samenflugs";5;en;7,11;"c19";rare
+"Stomping Ground";"Stampfgelände";0;en;10,38;"rna";rare
+"Spire Garden";"Felsspitzengarten";0;en;8,86;"bbd";rare
+"Overgrown Tomb";"Überwachsene Grabstätte";0;en;10,42;"grn";rare
+"Cathartic Reunion";"Emotionales Wiedersehen";2;en;0,16;"plst";common
+"Terminate";"Terminieren";2;en;0,58;"c20";uncommon
+"Reforge the Soul";"Seelenerneuerung";5;en;5,58;"avr";rare
+"Deathcap Glade";"Giftpilz-Lichtung";0;en;11,64;"vow";rare
+"Draco";"Schwarztod der Drakolich";16;en;1,25;"plst";rare
+"Grapple with the Past";"Mit der Vergangenheit hadern";2;en;0,11;"c18";common
+"Skull Prophet";"Schädelprophetin";2;en;1,05;"iko";uncommon
+"Farseek";"Fernsuche";2;en;0,62;"m13";common
+"Three Visits";"Drei Besuche";2;en;4,09;"clb";uncommon
+"Blanchwood Prowler";"Bleichholz-Schleicher";2;en;0,13;"bro";common
+"Riftsweeper";"Zeitrissräumer";2;en;0,46;"fut";uncommon
+"Axebane Ferox";"Ferox aus dem Beilbrecherwald";4;en;0,21;"mkm";rare
+"Cathartic Pyre";"Reinigender Scheiterhaufen";2;en;0,21;"mid";uncommon
+"Haunted Ridge";"Spukender Bergkamm";0;en;5,82;"mid";rare
+"Undergrowth Stadium";"Unterholz-Stadion";0;en;9,02;"cmr";rare
+"Beast Within";"Die innere Bestie";3;en;0,99;"clb";uncommon
+"Stonehoof Chieftain";"Steinhuf-Häuptling";8;en;1,53;"c16";rare
+"Ignoble Hierarch";"Unedler Hierarch";1;en;2,28;"m3c";rare
+"Gamble";"Wagnis";1;en;4,48;"uma";rare
+"Bane of Bala Ged";"Unheil von Bala Ged";7;en;0,45;"bfz";uncommon
+"Nyx Weaver";"Nyx-Weberin";3;en;0,17;"c20";uncommon
+"Pathrazer of Ulamog";"Ulamogs Wegbereiter";11;en;2,30;"roe";uncommon
+"Riveteers Charm";"Umnieter-Amulett";3;en;0,12;"snc";uncommon
+"Seize the Spoils";"Beute fassen";3;en;0,18;"khm";common
+"Hunted Wumpus";"Gejagter Wumpus";4;en;0,10;"9ed";uncommon
+"Demon of Loathing";"Dämon des Abscheus";7;en;0,30;"thb";rare
+"Crawling Infestation";"Ungezieferbefall";3;en;0,13;"vow";uncommon
+"Malevolent Rumble";"Böswilliges Poltern";2;en;0,29;"mh3";common
+"Cultivate";"Kultivieren";3;en;0,32;"sta";uncommon
+"Arcane Signet";"Arkanes Petschaft";2;en;0,38;"onc";common
+"Rushed Rebirth";"Rasche Wiedergeburt";2;en;0,32;"stx";rare
+"Sol Ring";"Sonnenring";1;en;0,71;"onc";uncommon
+"The Beamtown Bullies";"Die Stahlstadt-Raufbolde";4;en;0,28;"ncc";mythic
