@@ -4,7 +4,6 @@ import (
 	"encoding/csv"
 	"log"
 	"os"
-	"strconv"
 	"strings"
 
 	"github.com/BlueMonday/go-scryfall"
@@ -45,9 +44,9 @@ func convertToCsvInput(records [][]string) []CsvInput {
 }
 
 func createCsv(cards []scryfall.Card) [][]string {
-
 	var csvData [][]string
 
+	csvData = append(csvData, createHeader())
 	for _, card := range cards {
 		csvData = append(csvData, convertToDataArray(card))
 	}
@@ -55,15 +54,29 @@ func createCsv(cards []scryfall.Card) [][]string {
 	return csvData
 }
 
+func createHeader() []string {
+	return []string{
+		"English Cardname",
+		"German Cardname",
+		"Mana Value",
+		"Rarity",
+		"Set",
+		"Collector-Number",
+		"Value (€)",
+		"URL",
+	}
+}
+
 func convertToDataArray(card scryfall.Card) []string {
 	return []string{
 		card.Name,
 		getGermanName(card),
-		strconv.FormatFloat(card.CMC, 'f', -1, 64),
-		string(card.Lang),
 		strings.Replace(card.Prices.EUR, ".", ",", -1),
-		card.Set,
 		card.Rarity,
+		card.Set,
+		card.CollectorNumber,
+		strings.Replace(card.Prices.EUR, ".", ",", -1),
+		card.ScryfallURI,
 	}
 }
 

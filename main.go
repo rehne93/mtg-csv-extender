@@ -8,6 +8,7 @@ import (
 	"github.com/BlueMonday/go-scryfall"
 )
 
+// TODO: Create a formated excel instead of a csv.
 func main() {
 	file := flag.String("input", "mtg.csv", "input csv file")
 	outputFile := flag.String("output", "result.csv", "output filename")
