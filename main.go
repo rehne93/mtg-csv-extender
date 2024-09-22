@@ -9,6 +9,7 @@ import (
 )
 
 // TODO: Create a formated excel instead of a csv.
+// TODO: Create a HTML if possible
 func main() {
 	file := flag.String("input", "mtg.csv", "input csv file")
 	outputFile := flag.String("output", "result.csv", "output filename")
@@ -33,7 +34,7 @@ func main() {
 		}
 
 		if scryfallCard.Name == "EMPTY" {
-			fmt.Println("Error while searching for " + cards.Cardname + "(line " + strconv.Itoa(idx) + ")")
+			fmt.Println("Error while searching for " + cards.Cardname + "(line " + strconv.Itoa(idx+1) + ")")
 		}
 
 		cardsList = append(cardsList, scryfallCard)

@@ -1,5 +1,6 @@
-"Jace, Wielder of Mysteries","Jace, Beherrscher der Mysterien",4,en,"2,75",war,rare
-Wonder,Wundersame Mauer,4,en,"0,41",ema,uncommon
-Kitesail Larcenist,Lenkdrachen-Diebin,3,en,"0,76",lci,rare
-Archetype of Imagination,Sinnbild der Vorstellungskraft,6,en,"0,64",c18,uncommon
-Sage of the Beyond,Weiser aus dem Jenseits,7,en,"0,24",khc,rare
+English Cardname,German Cardname,Mana Value,Rarity,Set,Collector-Number,Value (€),URL
+"Jace, Wielder of Mysteries","Jace, Beherrscher der Mysterien",4,rare,war,54,"2,60",https://scryfall.com/card/war/54/jace-wielder-of-mysteries?utm_source=api
+Wonder,Wundersame Mauer,4,uncommon,ema,77,"0,37",https://scryfall.com/card/ema/77/wonder?utm_source=api
+Kitesail Larcenist,Lenkdrachen-Diebin,3,rare,lci,61,"0,64",https://scryfall.com/card/lci/61/kitesail-larcenist?utm_source=api
+Archetype of Imagination,Sinnbild der Vorstellungskraft,6,uncommon,c18,81,"0,74",https://scryfall.com/card/c18/81/archetype-of-imagination?utm_source=api
+Sage of the Beyond,Weiser aus dem Jenseits,7,rare,khc,6,"0,24",https://scryfall.com/card/khc/6/sage-of-the-beyond?utm_source=api

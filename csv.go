@@ -71,11 +71,11 @@ func convertToDataArray(card scryfall.Card) []string {
 	return []string{
 		card.Name,
 		getGermanName(card),
-		strings.Replace(card.Prices.EUR, ".", ",", -1),
+		getManaValue(card),
 		card.Rarity,
 		card.Set,
 		card.CollectorNumber,
-		strings.Replace(card.Prices.EUR, ".", ",", -1),
+		strings.Replace(getPrice(card), ".", ",", -1),
 		card.ScryfallURI,
 	}
 }
