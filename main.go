@@ -25,7 +25,7 @@ func main() {
 
 		// if the input is german, we will look for the english version to get proper prices
 		// we have to look for it again
-		if cards.Language == "DE" {
+		if cards.Language != "EN" {
 			englishCard := findCard(scryfallCard.Name, cards.Set)
 			// if we haven't found anything we use the former card to have some data at least
 			if englishCard.Name != "EMPTY" {
