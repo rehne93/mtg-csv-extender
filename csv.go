@@ -85,6 +85,10 @@ func convertToDataArray(card scryfall.Card) []string {
 }
 
 func convertToCardData(card scryfall.Card) CardData {
+	if card.Name == "EMPTY" {
+		return CardData{}
+	}
+
 	return CardData{
 		Cardname:        card.Name,
 		GermanCardname:  getGermanName(card),

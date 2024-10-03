@@ -29,6 +29,7 @@
 </thead>
 <tbody class="table-group-divider">
     {{range .Cards}}
+    {{if .Cardname}}
     <tr>
         <td><img src="{{.ImageUri}}"></td>
         <td>{{.Cardname}}</td>
@@ -41,6 +42,7 @@
         <td>{{.Price}} €</td>
         <td><a href="{{.ScryfallUri}}">URL</a></td>
         </tr>
+        {{end}}
     {{end}}
 </tbody>
 </table>
