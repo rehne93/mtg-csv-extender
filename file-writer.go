@@ -6,7 +6,7 @@ import (
 )
 
 func writeToFile(content string) {
-	f, err := os.Create("test.html")
+	f, err := os.Create("index.html")
 	if err != nil {
 		fmt.Println(err)
 		return

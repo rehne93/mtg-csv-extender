@@ -2,6 +2,7 @@ package main
 
 import (
 	"encoding/csv"
+	"fmt"
 	"log"
 	"os"
 	"strings"
@@ -85,8 +86,14 @@ func convertToDataArray(card scryfall.Card) []string {
 }
 
 func convertToCardData(card scryfall.Card) CardData {
+	fmt.Println(card.Name)
 	if card.Name == "EMPTY" {
 		return CardData{}
+	}
+
+	var imageUri = ""
+	if card.ImageURIs != nil {
+		imageUri = card.ImageURIs.Small
 	}
 
 	return CardData{
@@ -99,7 +106,7 @@ func convertToCardData(card scryfall.Card) CardData {
 		CollectorNumber: card.CollectorNumber,
 		Price:           strings.Replace(getPrice(card), ".", ",", -1),
 		ScryfallUri:     card.ScryfallURI,
-		ImageUri:        card.ImageURIs.Small,
+		ImageUri:        imageUri,
 	}
 }
 

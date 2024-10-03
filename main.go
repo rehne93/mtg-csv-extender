@@ -3,6 +3,7 @@ package main
 import (
 	"flag"
 	"fmt"
+	"sort"
 	"strconv"
 
 	"github.com/BlueMonday/go-scryfall"
@@ -29,6 +30,8 @@ func main() {
 		cardsList = append(cardsList, scryfallCard)
 	}
 
+	cardsList = sortCardlistBySet(cardsList)
+
 	if *output == "csv" {
 		writeCsv(cardsList, *outputFile)
 	}
@@ -36,4 +39,15 @@ func main() {
 	if *output == "html" {
 		writeToFile(parseHtmlTemplate(cardsList))
 	}
+}
+
+func sortCardlistBySet(cards []scryfall.Card) []scryfall.Card {
+
+	sort.Slice(cards, func(i, j int) bool {
+		if cards[i].Name == "EMPTY" || cards[j].Name == "EMPTY" {
+			return true
+		}
+		return cards[i].Set < cards[j].Set
+	})
+	return cards
 }
