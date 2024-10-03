@@ -59,11 +59,13 @@ func createHeader() []string {
 		"English Cardname",
 		"German Cardname",
 		"Mana Value",
+		"Color Identity",
 		"Rarity",
 		"Set",
 		"Collector-Number",
 		"Value (€)",
 		"URL",
+		"Image URL",
 	}
 }
 
@@ -72,11 +74,28 @@ func convertToDataArray(card scryfall.Card) []string {
 		card.Name,
 		getGermanName(card),
 		getManaValue(card),
-		card.Rarity,
-		card.Set,
+		getColors(card),
+		strings.ToUpper(card.Rarity),
+		strings.ToUpper(card.Set),
 		card.CollectorNumber,
 		strings.Replace(getPrice(card), ".", ",", -1),
 		card.ScryfallURI,
+		card.ImageURIs.Small,
+	}
+}
+
+func convertToCardData(card scryfall.Card) CardData {
+	return CardData{
+		Cardname:        card.Name,
+		GermanCardname:  getGermanName(card),
+		Manavalue:       getManaValue(card),
+		Colors:          getColors(card),
+		Rarity:          strings.ToUpper(card.Rarity),
+		Set:             strings.ToUpper(card.Set),
+		CollectorNumber: card.CollectorNumber,
+		Price:           strings.Replace(getPrice(card), ".", ",", -1),
+		ScryfallUri:     card.ScryfallURI,
+		ImageUri:        card.ImageURIs.Small,
 	}
 }
 

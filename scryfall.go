@@ -9,10 +9,26 @@ import (
 	"github.com/BlueMonday/go-scryfall"
 )
 
+func findCard(cardname string, set string, language string, findOtherName bool) scryfall.Card {
+	scryfallCard := findCardForNameAndSet(cardname, set)
+
+	// if the input is german, we will look for the english version to get proper prices
+	// we have to look for it again - only relevance for csv currently
+	if language != "EN" && findOtherName {
+		englishCard := findCardForNameAndSet(scryfallCard.Name, set)
+		// if we haven't found anything we use the former card to have some data at least
+		if englishCard.Name != "EMPTY" {
+			scryfallCard = englishCard
+		}
+	}
+
+	return scryfallCard
+}
+
 /**
 * Finds a Card for the given cardname and setstring
  */
-func findCard(cardname string, set string) scryfall.Card {
+func findCardForNameAndSet(cardname string, set string) scryfall.Card {
 	cardname = strings.ToLower(cardname)
 	set = strings.ToLower(set)
 

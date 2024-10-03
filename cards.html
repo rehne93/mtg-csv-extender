@@ -1,0 +1,31 @@
+<h1>Magic the Gathering Collection </h1>
+
+<table>
+    <tr>
+        <th>Image</th>
+        <th>Cardname</th>
+        <th>German Cardname</th>
+        <th>MV</th>
+        <th>Color-Identity</th>
+        <th>Rarity</th>
+        <th>Set</th>
+        <th>Collector Number</th>
+        <th>Price (€)</th>
+        <th>Scryfall-URL</th>
+    </tr>
+    {{range .Cards}}
+    <tr>
+        <td><img src="{{.ImageUri}}"></td>
+        <td>{{.Cardname}}</td>
+        <td>{{.GermanCardname}}</td>
+        <td>{{.Manavalue}}</td>
+        <td>{{.Colors}}</td>
+        <td>{{.Rarity}}</td>
+        <td>{{.Set}}</td>
+        <td>{{.CollectorNumber}}</td>
+        <td>{{.Price}} €</td>
+        <td><a href="{{.ScryfallUri}}">URL</a></td>
+        </tr>
+    {{end}}
+
+</table>

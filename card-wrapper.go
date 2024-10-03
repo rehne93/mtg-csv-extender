@@ -23,7 +23,17 @@ func getPrice(card scryfall.Card) string {
 	// TODO: Get factor from an api
 	priceInEuros := priceInDollar * 0.89
 
-	return fmt.Sprintf("%f", priceInEuros)
+	return fmt.Sprintf("%.2f", priceInEuros)
+}
+
+// Returns the color identity of the card for edh
+
+func getColors(card scryfall.Card) string {
+	var colorIdentity = ""
+	for _, color := range card.ColorIdentity {
+		colorIdentity += string(color)
+	}
+	return colorIdentity
 }
 
 // Returns the formatted value for manavalue
