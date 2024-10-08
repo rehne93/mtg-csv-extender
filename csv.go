@@ -2,7 +2,6 @@ package main
 
 import (
 	"encoding/csv"
-	"fmt"
 	"log"
 	"os"
 	"strings"
@@ -10,6 +9,7 @@ import (
 	"github.com/BlueMonday/go-scryfall"
 )
 
+// parses the csv in the given path
 func parseCsv(filePath string) []CsvInput {
 	f, err := os.Open(filePath)
 
@@ -29,6 +29,7 @@ func parseCsv(filePath string) []CsvInput {
 
 }
 
+// Converts the records to the internal data structure
 func convertToCsvInput(records [][]string) []CsvInput {
 	var csvInputs []CsvInput
 
@@ -44,6 +45,7 @@ func convertToCsvInput(records [][]string) []CsvInput {
 
 }
 
+// writes the list of cards to csv data
 func createCsv(cards []scryfall.Card) [][]string {
 	var csvData [][]string
 
@@ -55,6 +57,7 @@ func createCsv(cards []scryfall.Card) [][]string {
 	return csvData
 }
 
+// creates the header for csv or html
 func createHeader() []string {
 	return []string{
 		"English Cardname",
@@ -70,6 +73,7 @@ func createHeader() []string {
 	}
 }
 
+// Converts a scryfall card to a data array
 func convertToDataArray(card scryfall.Card) []string {
 	return []string{
 		card.Name,
@@ -85,8 +89,8 @@ func convertToDataArray(card scryfall.Card) []string {
 	}
 }
 
+// converts a scryfall card to carddata for html
 func convertToCardData(card scryfall.Card) CardData {
-	fmt.Println(card.Name)
 	if card.Name == "EMPTY" {
 		return CardData{}
 	}
@@ -110,6 +114,7 @@ func convertToCardData(card scryfall.Card) CardData {
 	}
 }
 
+// writes a csv to the disk
 func writeCsv(cards []scryfall.Card, filename string) int {
 	file2, err := os.Create(filename)
 	if err != nil {

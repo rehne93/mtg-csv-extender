@@ -25,7 +25,8 @@ func parseHtmlTemplate(cards []scryfall.Card) string {
 	var cardData []CardData
 
 	for _, card := range cards {
-		cardData = append(cardData, convertToCardData(card))
+		var converted = convertToCardData(card)
+		cardData = append(cardData, converted)
 	}
 
 	data := HtmlData{

@@ -9,6 +9,9 @@ import (
 	"github.com/BlueMonday/go-scryfall"
 )
 
+/**
+* Finds a card for the given parameters
+ */
 func findCard(cardname string, set string, language string, findOtherName bool) scryfall.Card {
 	scryfallCard := findCardForNameAndSet(cardname, set)
 
