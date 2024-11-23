@@ -2,6 +2,7 @@ package main
 
 import (
 	"context"
+	"fmt"
 	"log"
 	"reflect"
 	"strings"
@@ -74,6 +75,8 @@ func executeRequest(searchString string) scryfall.Card {
 	result, err := client.SearchCards(ctx, searchString, sco)
 
 	if err != nil {
+		fmt.Print("Error for query" + searchString)
+		fmt.Println(err)
 		card := scryfall.Card{}
 		card.Name = "EMPTY"
 		return card

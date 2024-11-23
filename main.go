@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"sort"
 	"strconv"
+	"time"
 
 	"github.com/BlueMonday/go-scryfall"
 )
@@ -22,7 +23,7 @@ func main() {
 
 	for idx, cards := range records {
 		scryfallCard := findCard(cards.Cardname, cards.Set, cards.Language, true)
-
+		time.Sleep(250 * time.Millisecond)
 		if scryfallCard.Name == "EMPTY" {
 			fmt.Println("Error while searching for " + cards.Cardname + "(line " + strconv.Itoa(idx+1) + ")")
 		}
@@ -30,7 +31,10 @@ func main() {
 		cardsList = append(cardsList, scryfallCard)
 	}
 
+	fmt.Println("Finished scryfall")
 	cardsList = sortCardlistBySet(cardsList)
+
+	fmt.Println("Finished sort")
 
 	if *output == "csv" {
 		writeCsv(cardsList, *outputFile)
